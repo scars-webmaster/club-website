@@ -1,0 +1,165 @@
+/* Custom Events Calendar styles for HappenStance theme.
+----------------------------------------------- */
+
+/* calendar/list view */
+#wrapper .datepicker {
+  z-index: 900 !important;
+}
+#wrapper #tribe-bar-form.tribe-bar-mini .tribe-bar-submit input[type="submit"]:hover {
+  color: #666666;
+}
+html .events-list .tribe-events-loop,
+html .tribe-events-day .tribe-events-loop,
+html .single-tribe_venue .tribe-events-loop,
+html .single-tribe_organizer .tribe-events-loop {
+  max-width: 100%;
+}
+.events-archive #content .entry-content,
+.events-archive #content .entry-header {
+  width: 100%;
+}
+.events-archive #content .breadcrumb-navigation,
+.events-archive .content-headline {
+  display: none;
+}
+#wrapper .tribe-events-list-separator-month {
+  font-size: 20px;
+  margin: 15px 0;
+}
+html #wrapper .tribe-events-page-title {
+  margin: 0 0 5px;
+}
+#wrapper .tribe-events-loop .type-tribe_events {
+  border-bottom: 1px solid #ebebeb;
+  margin: 0 0 20px;
+  padding: 0 0 20px;
+}
+#wrapper .tribe-events-list-event-title {
+  font-size: 21px;
+}
+#wrapper .tribe-events-list-event-title a {
+  -webkit-transition: color 1s ease;
+     -moz-transition: color 1s ease;
+       -o-transition: color 1s ease;
+      -ms-transition: color 1s ease;
+          transition: color 1s ease;
+}
+#wrapper .tribe-events-list-event-title a:hover {
+  color: black;
+}
+#wrapper .tribe-events-notices,
+#wrapper #tribe-events-content .tribe-events-calendar {
+  margin-top: 20px;
+}
+html .tribe-events-day .tribe-events-day-time-slot h5 {
+  margin: 20px 0;
+}
+#tribe-events-pg-template .read-more-button {
+  display: none;
+}   
+#wrapper .datepicker th,
+#wrapper .datepicker td {
+  border-radius: 0;
+}
+#wrapper #tribe-bar-form input[type="text"] {
+  background: none !important;
+}
+#content .tribe_events {
+  padding-bottom: 10px;
+}
+#wrapper .tribe-events-list .tribe-events-loop .tribe-events-content {
+  float: none;
+  width: 100%;
+}
+.tribe-events-list-event-description .tribe-events-read-more {
+  background-color: #169fe6;
+  border: 1px solid #169fe6;
+  color: white;
+  display: inline-block;
+  font-size: 14px;
+  line-height: 13px;
+  margin: 0;
+  padding: 6px 8px;
+  text-decoration: none;
+  text-transform: uppercase;
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;                             
+}
+.tribe-events-list-event-description .tribe-events-read-more:hover {
+  background: none !important; 
+  color: #169fe6;                                   
+}
+
+/* single event */
+.single-tribe_events #tribe-events-content {
+  margin-bottom: 20px;
+}
+.single-tribe_events #content .breadcrumb-navigation,
+.single-tribe_events .content-headline {
+  display: none;
+}
+html #wrapper #tribe-events-pg-template {
+  margin: 0;
+  max-width: 100%;
+  padding: 0;
+  width: 100%;
+}
+html #wrapper .tribe-events-single-event-title,
+html #wrapper .tribe-events-page-title  {
+  color: black;
+  font-size: 27px;
+}
+html .single-tribe_events .tribe-events-event-image {
+  margin-bottom: 15px;
+}
+#wrapper .tribe-events-schedule h3,
+#wrapper .tribe-events-schedule span {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100%;
+  font-weight: bold;
+  line-height: 120% !important;
+  vertical-align: middle !important;
+}   
+#wrapper .tribe-events-schedule {
+  margin: 10px 0;
+}
+#wrapper .tribe-events-ical,
+#wrapper .tribe-events-gcal {
+  color: white !important;
+  margin-top: 10px;
+}
+#tribe-events-pg-template #comments {
+  margin-top: 0;
+}
+#wrapper #tribe-events-footer {
+  border-top: none;
+  padding-top: 0;
+}
+html .single-tribe_events #tribe-events-footer .tribe-events-sub-nav {
+  border-top: 1px solid #ebebeb;
+  padding: 15px 0 0;
+}
+
+/* Upcoming Events widget */
+.tribe-events-list-widget-events h4 {
+  font-size: 14px;
+  font-weight: normal;
+  margin: 0;
+}
+.tribe-events-list-widget-events h4 a {
+  text-decoration: none;
+}
+#wrapper .tribe-events-list-widget ol {
+  list-style-type: none;
+  margin: 12px 0 0;
+}
+#wrapper .tribe-events-list-widget ol li {
+  font-weight: normal;
+  margin: 0 0 6px;
+}
+#wrapper .tribe-events-list-widget .duration {
+  font-weight: normal;
+}

@@ -1,0 +1,141 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033\deflangfe1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl ;\red0\green0\blue255;}
+{\*\generator Riched20 6.3.9600}{\*\mmathPr\mnaryLim0\mdispDef1\mwrapIndent1440 }\viewkind4\uc1 
+\pard\nowidctlpar\f0\fs28 Common Usage Guidelines for Using \par
+The WX4PCA DSTAR Repeater System\par
+\fs20 Last update: 04112015\par
+ \par
+\par
+\b How to register a call sign as a new user on DSTAR\b0\par
+\par
+Before you can talk on any of the reflectors (anything other than the local repeater) you must register your call sign.  \par
+\par
+Since Paulding ARES now owns repeaters we have the ability to register call signs.  Anyone who needs to register can go to {{\field{\*\fldinst{HYPERLINK https://wx4pca.dstargateway.org }}{\fldrslt{https://wx4pca.dstargateway.org\ul0\cf0}}}}\f0\fs20  and click the registration link at the top left.  An admin (currently Dan W4DTO) will be notified when someone requests registration and can finish up the process. \par
+\par
+  \par
+\par
+1)      The VHF repeater will normally stay linked to REF030B so that we are linked to the other DSTAR repeaters in Georgia.  Browse to {{\field{\*\fldinst{HYPERLINK http://www.dstarinfo.com/repeater-maps.aspx }}{\fldrslt{http://www.dstarinfo.com/repeater-maps.aspx\ul0\cf0}}}}\f0\fs20  to see a list of all of the DSTAR repeaters in Georgia (or in the world!).\par
+\par
+2)      Feel free to link and unlink the repeater at any time.  Listen first and announce your intention to be sure no one is using the repeater.  But, then link at will.   There is a list of all of the D-PLUS reflectors at {{\field{\*\fldinst{HYPERLINK http://www.dstarinfo.com/reflectors.aspx }}{\fldrslt{http://www.dstarinfo.com/reflectors.aspx\ul0\cf0}}}}\f0\fs20 .   You can create commands in your radio to link to any of these.  Read over the list when you have a chance.  Some pretty interesting reflectors out there.\par
+\par
+3)      If you link the repeater, drop the link when you are finished and link back to REF030B.  The system will be configured to drop links and return to REF030B after a few minutes of inactivity in case someone forgets to drop the link.\par
+\par
+4)      Keep in mind that there may be many repeaters all around the world linked to the reflector, and you will be keying the transmitter on all of them up when you transmit.  If you are going to do a long QSO and don\rquote t need to tie up all of the linked repeaters drop the link before starting so that your traffic stays local.\par
+\par
+5)      Observe normal repeater guidelines like allowing stations to break in if you are on an extended QSO.\par
+ \par
+\par
+\b Programming Your Radio\b0  \par
+\par
+For those of you who have DSTAR radios and the RTSystems software I have put together an RTSystems file with our two DSTAR repeaters \endash  including linking and unlinking commands.   The file is attached as an Excel spreadsheet.  If you have the RTSystems software you can cut and paste from this spreadsheet to the RTSystems file for your radio.  Let me know if you have trouble loading it.  Ron (WB3ILX) and I have a collection of the RTSystems apps, so we can build RTSystems files for most Icom DSTAR radios.   \par
+\par
+I will describe the channels in the file below, but first, let me describe my naming convention for channels on the radios.  I try to follow the same standard on all of our (Paulding) frequencies.   The first three letters of my channel labels (\ldblquote PLD\rdblquote ) indicate that it is a Paulding County ARES channel.  The fourth and fifth position indicate which repeater or frequency it is (\ldblquote DV\rdblquote  = DSTAR VHF, and \ldblquote DU\rdblquote  \endash  DSTAR UHF).\par
+ \par
+Following is a list of the channels in the spreadsheet with a description of what the channel does.  If you have questions about any of the channels (or find any of my bugs) please let me know.\par
+\par
+\par
+\cf1 NAME\cf0\par
+Description\par
+\par
+\b WX4PCA VHF Repeater\tab\b0\par
+\par
+\cf1 PLDDV\cf0\par
+Normal talk channel for the VHF repeater with CQCQCQ in URCALL.  If all you want do is talk on the repeater without changing the configuration use this channel.\par
+\par
+\cf1 PLDDVL\cf0\par
+Local talk channel.  Traffic doesn\rquote t go through the gateway to linked repeaters and reflectors. But, you can hear any traffic from currently linked repeaters.\par
+\par
+\cf1 PLDDVS\cf0\tab\par
+Simplex on our VHF repeater\rquote s transmit frequency\par
+\par
+\cf1 PLDDV02A\cf0\par
+Command to link our VHF repeater to reflector REF002A (home of the Sunday night DSTAR weather net)\par
+\par
+\cf1 PLDDV30A\cf0\par
+Command to link our VHF repeater to reflector REF030A (Georgia special event use)\par
+\par
+\cf1 PLDDV30B\cf0\par
+Command to link our VHF repeater to reflector REF030B (Georgia linked repeaters)\par
+\par
+\cf1 PLDDV30C\cf0\par
+Command to link our VHF repeater to reflector REF030C (wide area linking)\par
+\par
+\cf1 PLDDV30D\cf0\par
+Command to link our VHF repeater to reflector REF030D (Georgia D-RATS)\par
+\par
+\cf1 PLDDVUNL\cf0\par
+Command to unlink  our VHF repeater\par
+\par
+\cf1 PLDDVINF\cf0\par
+Info command to our VHF repeater.  Tells if the repeater is linked.\par
+\par
+\cf1 PLDDVECH\cf0\par
+Echo command to our VHF repeater.  Echos back what is transmitted\par
+\par
+\par
+\b WX4PCA UHF Repeater\b0\par
+Note: the UHF repeater isn\rquote t on the air at this time\tab\par
+\par
+\cf1 PLDDU\cf0\par
+Normal talk channel for the UHF repeater with CQCQCQ in URCALL. If all you want do is talk on the repeater without changing the configuration use this channel.\par
+\par
+\cf1 PLDDUL\cf0\par
+Local talk channel.  Doesn\rquote t go through the gateway to linked repeaters and reflectors. But, you can hear any traffic from currently linked repeaters.\par
+\par
+\cf1 PLDDUS\cf0\par
+Simplex on our UHF repeater\rquote s transmit frequency.\par
+\par
+\cf1 PLDDU02A\cf0\par
+Command to link our UHF repeater to reflector REF002A (home of the Sunday night DSTAR weather net)\par
+\par
+\cf1 PLDDU30A\cf0\par
+Command to link our UHF repeater to reflector REF030A (Georgia special event use)\par
+\par
+\cf1 PLDDU30B\cf0\par
+Command to link our UHF repeater to reflector REF030B (Georgia linked repeaters)\par
+\par
+\cf1 PLDDU30C\cf0\par
+Command to link our UHF repeater to reflector REF030C (wide area linking)\par
+\par
+\cf1 PLDDU30D\cf0\par
+Command to link our UHF repeater to reflector REF030D (Georgia D-RATS)\par
+\par
+\cf1 PLDDUUNL\cf0\par
+Command to ulink our UHF repeater\par
+\par
+\cf1 PLDDUINF\cf0\par
+Info command to our UHF repeater.  Tells if the repeater is linked.\par
+\par
+\cf1 PLDDUECH\cf0\par
+Echo command to our UHF repeater.  Echos back what is transmitted\par
+ \par
+\par
+\b So, How Does This \ldblquote Linking\rdblquote  Thing Work?   \b0  \par
+\par
+Example:  If you want to link the VHF repeater to reflector REF030B follow these steps: \par
+\par
+1)      Listen first to be sure no one is using the repeater.\par
+\par
+2)      If no one is transmitting put your radio on channel PLDDV, give your call sign and announce that you are going to link the repeater to a reflector (give the name of the reflector you are linking to).\par
+\par
+3)      Put your radio on channel PLDDVINF and key the mic for 1 to 2 seconds to check the current link status.   The repeater should respond telling you either that the repeater is linked or that it is not currently linked.\par
+\par
+4)      If the repeater is not currently linked go to step 6\par
+\par
+5)      If the repeater is linked put the radio on channel PLDDVUNL and key for 1 to 2 seconds to drop the link.  The repeater should respond telling you that the system is not currently linked.\par
+\par
+6)      Put the radio on channel PLDDV30B and key for 1 to 2 seconds to link to REF030B.  The repeater should respond with \ldblquote remote system linked\rdblquote .\par
+\par
+7)      Put the radio back on PLDDV after it is linked to begin your QSO.\par
+\par
+ \par
+I\rquote ve read over this email several times, and I think the words keep changing because it seems different each time I read it!  Please let me know if any of this is confusing or if you have questions or find errors.\par
+\par
+Thanks, again, to all who have been involved in making this repeater system possible.\par
+\par
+Dan\par
+W4DTO\par
+\par
+View attachment: {{\field{\*\fldinst{HYPERLINK "WX4PCA-DSTAR-RepeaterConfig.xls"}}{\fldrslt{\ul\cf1 http://silvercometars.com/assets/Support/WX4PCA-DSTAR-RepeaterConfig.xls}}}}\f0\fs20\par
+}
+ 

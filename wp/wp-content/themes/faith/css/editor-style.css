@@ -1,0 +1,126 @@
+/*
+Theme Name: Faith
+Description: Used to style the TinyMCE editor.
+*/
+
+/**
+ * 1.0 - Body
+ */
+
+body {
+	color: #383838;
+	font-family: 'Lato';
+	font-size: 16px;  
+	line-height: 1.8em;
+	max-width: 680px;
+	vertical-align: baseline;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	color: #131313;
+	font-family: 'Lato', 'Roboto', Arial, Tahoma, sans-serif;
+	font-weight: 600;
+	line-height: 1.35em;
+	margin: 0.5em 0;
+}
+
+h1 { font-size: 36px; }
+h2 { font-size: 24px; }
+h3 { font-size: 22px; }
+h4 { font-size: 20px; }
+h5 { font-size: 18px; }
+h6 { font-size: 16px; }
+
+p {
+	margin-top: 0;
+	margin-bottom: 1.5em; 
+}
+
+img {
+	margin-bottom: 20px; 
+}
+
+img.alignnone, 
+img.aligncenter, 
+img.alignleft, 
+img.alignright {
+	max-width: 100%;
+	width:auto;
+ 	height:auto;
+}
+
+.alignright {
+	display: inline;
+	float: right;
+	margin: 0 0 0 20px;
+}
+
+.alignleft {
+	display: inline;
+	float: left;
+	margin: 0 0 0 20px;
+}
+
+iframe {
+	max-width: 100%;
+}
+
+textarea {
+	max-width: 97%;
+}
+
+blockquote {
+	font-family: 'Lato', 'Roboto', Arial, Tahoma, sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	line-height: 2em;
+    margin: 40px 0;
+    padding: 0;
+    text-align: center;
+}
+
+blockquote::after, 
+blockquote::before {
+    border-top: 1px solid #dfdfdf;
+    content: "";
+    display: block;
+    margin: 30px auto;
+    width: 20%;
+}
+
+blockquote p {
+	margin-bottom: 1.1667em;
+}
+
+blockquote cite {
+	display: block;
+	font-size: 13px;
+	font-style: normal;
+	margin: 1.5em 0 0;
+	text-transform: uppercase;
+}
+
+a {
+	color: #1e74a9;
+	text-decoration:none; 
+}
+a:hover,
+a:focus {
+	color: #c70000;
+	cursor: pointer;
+	text-decoration:underline; 
+}
+
+ul,
+ol {
+	margin: 0 0 1.75em 1.25em;
+	padding: 0;
+}
+
+ul li {
+	list-style-type: disc;
+}
+
+ol li {
+	list-style-type: decimal;
+}

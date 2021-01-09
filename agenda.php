@@ -1,0 +1,135 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class=""><!-- InstanceBegin template="/Templates/TemplateLayout-SCARS-062315.dwt" codeOutsideHTMLIsLocked="false" -->
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<!-- <meta http-equiv="refresh" content="10">  -->
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Silver Comet ARS: Event Calendar</title>
+<link href="assets/main.css" rel="stylesheet" type="text/css">
+<!-- InstanceEndEditable -->
+<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+<link href="assets/boilerplate.css" rel="stylesheet" type="text/css">
+<link href="assets/layout.css" rel="stylesheet" type="text/css">
+<link href="assets/style.css" rel="stylesheet" type="text/css">
+<!-- 
+To learn more about the conditional comments around the html tags at the top of the file:
+paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
+
+Do the following if you're using your customized build of modernizr (http://www.modernizr.com/):
+* insert the link to your js here
+* remove the link below to the html5shiv
+* add the "no-js" class to the html tags at the top
+* you can also remove the link to respond.min.js if you included the MQ Polyfill in your modernizr build 
+-->
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="assets/respond.min.js"></script>
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<!-- FormatGoogleCalendar Javascript file -->
+<script src="dist/format-google-calendar.min.js"></script>
+</head> 
+<body>
+<div class="gridContainer clearfix">
+  <!-- top-banner -->
+  <nav>  
+    <?php include 'design/top-banner.html'; ?>    
+  </nav>    <!-- end top-banner -->  
+   
+    <!-- menubar - Standard Menu	- does not include Home, About,Contact,News-->
+  <div id="LayoutDiv4"><!-- InstanceBeginEditable name="EditNavRegion" --> 
+    <?php include 'design/menu-standard.html'; ?>    
+<!-- InstanceEndEditable --></div>    <!-- end menubar - Standard Menu --> 
+  
+  <div id="LayoutDiv5">&nbsp;</div>
+  
+
+  <div id="LayoutDiv6">
+      <div style="padding:3.5em 0 0 0em"><img src="images/EventCalendar.gif" alt="Event Calendar"><br /></div>
+  <p align="center"  style="PADDING-LEFT: 60px">
+
+  <h3 style="PADDING-LEFT: 20px">Regularly Scheduled Meetings:</h3>
+  <ul style="PADDING-LEFT: 60px">
+  <li>First Tuesday of every month @ 7:00pm Eastern: Monthly Club Meeting - currently on Zoom (see link in <a href="https://silvercometars.groups.io/g/main/calendar" target="_blank">Calendar</a>)</li><br>
+  <li>Every Monday evening @ 7:30pm Eastern: Club Net on the <a href="http://www.silvercometars.com/nets.php" target="_blank">WB4QOJ Repeater</a></li><br>
+  <li>Every Thursday morning @ 8:30am Eastern: Club Breakfast - currently on the <a href="http://www.silvercometars.com/nets.php" target="_blank">WB4QOJ Repeater</a></li><br>
+  <li>Every Thursday evening @ 7:30pm Eastern: Clb ARES Net  on the <a href="http://www.silvercometars.com/nets.php" target="_blank">WB4QOJ Repeater</a></li><br>
+  </ul>
+
+<!-- The below is code that should provide read only access to the silver comet calendar at silvercometcalendar@gmail.com, but the silver comet site must be https to access this ...  
+  <ul id="events-upcoming">
+  </ul>
+
+<script>
+  formatGoogleCalendar.init({
+        calendarUrl: 'https://www.googleapis.com/calendar/v3/calendars/silvercometcalendar@gmail.com/events?key=AIzaSyBGMWM52sgsNjziPdXYu9x63WrvH-1Ftt4',
+        past: false,
+        upcoming: true,
+        sameDayTimes: true,
+        dayNames: true,
+        pastTopN: 0,
+        upcomingTopN: 8,
+        recurringEvents: true, 
+        itemsTagName: 'li',
+        upcomingSelector: '#events-upcoming',
+        pastSelector: '#events-past',
+        upcomingHeading: '<h2>Upcoming events</h2>',
+        pastHeading: '<h2>Past events</h2>',
+        format: ['*date*', ': ', '*summary*', ' — ', '*description*', ' in ', '*location*'],
+  });
+  </script>
+
+-->
+
+<!--  <p align="center">
+  This code would provide an ifram of the silver comet calendar at silvercometcalendar@gmail.com, but it provides full access including the zoom links, which we do not want
+      <iframe src="https://calendar.google.com/calendar/u/0/htmlembed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America/New_York&src=c2lsdmVyY29tZXRjYWxlbmRhckBnbWFpbC5jb20&src=bG4xNTBibnI5ZW5ocWUyNjczdmZhbmxmOTJzazhqajFAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039BE5&color=%23F09300&showTitle=0&showNav=0&showTabs=0&showCalendars=0&showTz=1&showPrint=0&mode=AGENDA&showDate=0" sandbox style="border:solid 1px #777" width="90%" height="300" frameborder="0" scrolling="no"></iframe>
+      <p align="center">
+      Note: if you are unable to view the calendar, please join our groups.io group at:
+      <a href="https://silvercometars.groups.io/g/main" target="_blank">Silver Comet Groups.io</a>
+-->
+
+<hr>
+<p align="left"  style="PADDING-LEFT: 60px">
+We offer Amateur Radio License examination's monthly for anyone wishing to obtain an Amateur Radio License or to upgrade their current license.  
+<a href="./about.php#TEST_SESSION" style="color:red">Click here</a> for more information on VE Test Session times and locations.
+</p>
+<hr>
+<p align="left"  style="PADDING-LEFT: 60px">
+To view calendar details and join in on our group discussion board, please join our groups.io group at: <a href="https://silvercometars.groups.io/g/main" target="_blank">Silver Comet Groups.io</a>, 
+and view the full calendar at: <a href="https://silvercometars.groups.io/g/main/calendar" target="_blank">Silver Comet Groups.io - Calendar</a>  
+</p><br>
+
+<!-- Commenting out old calendar from Dave's (K4DMF) google ... TED on Dec 14 2020  
+  <iframe src="https://calendar.google.com/calendar/embed?showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23cccccc&amp;src=2da38po8gmvu63ccu3ntpgkkqo%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border:solid 1px #777" width="90%" height="600" frameborder="0" scrolling="no"></iframe>
+-->
+</p>
+  </div>
+  
+    <!-- Navigation sidebar -->	
+  <div id="LayoutDiv7">	
+    <?php include 'design/navigation-sidebar.html'; ?>
+	</div>
+  
+  <div id="LayoutDiv8">&nbsp;</div>  
+   <!-- end Navigation sidebar -->
+   
+    <!-- footer -->
+	<div id="LayoutDiv9">
+    <?php include 'design/footer.html'; ?>
+  
+  <div id="LayoutDiv10">&nbsp;</div>
+   <!-- end footer -->
+</div>
+</body>
+<!-- InstanceEnd --></html>

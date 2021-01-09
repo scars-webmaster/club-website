@@ -1,0 +1,324 @@
+.ilovewp-wrapper {
+	font-size: 16px;
+	line-height: 1.6em;
+	margin: 30px 0; 
+	text-align: left; 
+	width: calc(100% - 15px);
+}
+
+.ilovewp-wrapper a,
+.ilovewp-wrapper li {
+	-webkit-transition-duration: 0.3s; -moz-transition-duration: 0.3s; transition-duration: 0.3s;	
+}
+
+.cleaner,
+.divider {
+	margin:0;
+	clear: both; 
+	font-size:1px; 
+	height: 1px;  
+	line-height: 1px; 
+}
+
+.divider {
+	border-top: solid 1px #f1f1f1;
+	margin: 15px 0;
+}
+
+/* Header */
+
+.ilovewp-header {
+	background: #fff;
+	margin: 0;
+	padding: 30px;
+	box-shadow: 1px 1px 12px rgba(0,0,0,0.06);
+	border: solid 1px #ddd;
+	border-radius: 3px;
+}
+
+#ilovewp-logo {
+	display: inline-block;
+	vertical-align: top;
+	text-align: right;
+	width: 20%;
+}
+
+#ilovewp-logo img,
+.video-preview {
+	max-width: 100%;
+	height: auto;
+}
+
+#ilovewp-theme-info {
+	display: inline-block;
+	margin: 0;
+	vertical-align: top;
+	width: 80%;
+}
+
+#ilovewp-theme-info p {
+	margin: 0;
+}
+
+#ilovewp-theme-info span.theme-name {
+	font-size: 30px;
+	font-weight: 600;
+}
+
+#ilovewp-theme-info span.theme-version {
+	font-size: 14px;
+}
+
+#ilovewp-theme-info .theme-buttons {
+	margin-top: 1.25rem;
+}
+
+#ilovewp-theme-info .theme-buttons .button {
+	margin-right: 4px;
+}
+
+/* Documentation Page */
+
+.ilovewp-documentation {
+	background-color: #fff;
+	box-shadow: 1px 1px 12px rgba(0,0,0,0.06);
+	border: solid 1px #ddd;
+	border-radius: 3px;
+	font-size: 16px;
+	line-height: 1.8em;
+	margin: 30px 0;
+	padding: 30px;
+}
+
+.ilovewp-documentation p {
+	font-size: inherit;
+	margin: 0 0 2em;
+}
+
+.ilovewp-documentation h2 {
+	font-size: 26px;
+	margin: 0 0 1.5em;
+}
+
+.ilovewp-documentation ul {
+	margin: 1rem 2em;
+}
+
+.ilovewp-documentation li {
+	list-style-position: inside;
+	list-style-type: square;
+}
+
+.ilovewp-documentation hr {
+	margin: 40px 0;
+}
+
+/*messages*/
+.error {color:#cc0000;}
+
+/* Documentation Columns */
+
+.ilovewp-theme-intro {
+	max-width: 700px;
+	margin: 0 auto 0 0;
+}
+
+.ilovewp-theme-intro p {
+	line-height: 2em;
+}
+
+.ilovewp-documentation .button {
+	font-size: 15px;
+	margin: 0 16px 0 0;
+}
+
+.theme-comparison-table .button {
+	margin-right: 0;
+}
+
+.ilovewp-documentation .doc-buttons .button {
+	margin: 6px 16px 6px 0;
+}
+
+.ilovewp-documentation h3 {
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 0;
+}
+
+.ilovewp-documentation .ilovewp-doc-columns {
+	margin: 0;
+	padding: 0;
+}
+
+.ilovewp-documentation .ilovewp-doc-columns .ilovewp-doc-column {
+	display: inline-block;
+	margin: 0 40px 0 0;
+	vertical-align: top;
+	width: calc(50% - 20px);
+}
+
+.ilovewp-documentation .ilovewp-doc-columns .ilovewp-doc-column-2 {
+	margin-right: 0;
+}
+
+.ilovewp-documentation .column-title {
+	margin-bottom: 30px;
+}
+
+.ilovewp-documentation .doc-section {
+	background-color: #fff;
+	border: solid 1px #eee;
+	margin: 0 0 30px;
+	padding: 30px;
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	transition: all 0.15s ease-in-out;
+}
+
+.ilovewp-documentation .doc-section:hover,
+.ilovewp-documentation .doc-section:focus {
+	background-color: #f0f4f8;
+	border-color: #e1e8ee;
+}
+
+.ilovewp-documentation .ilovewp-doc-column-text-wrapper {
+	font-size: 16px;
+	line-height: 1.8em;
+}
+
+.ilovewp-documentation .ilovewp-doc-column-text-wrapper p {
+	margin: 0;
+}
+
+.ilovewp-documentation .ilovewp-doc-column-text-wrapper p + p {
+	margin-top: 2em;
+}
+
+.ilovewp-documentation .button-donate {
+	background-color: #22b366;
+	border-color: #169954;
+	box-shadow: 0 1px 0 #169954;
+	text-shadow: 0 -1px 1px #169954, 1px 0 1px #169954, 0 1px 1px #169954, -1px 0 1px #169954;
+}
+
+.ilovewp-documentation .button-donate:hover,
+.ilovewp-documentation .button-donate:focus {
+	background-color: #169954;
+}
+
+.ilovewp-icon {
+	display: inline-block;
+	font-size: 22px;
+	line-height: 1.3;
+	margin-right: 8px;
+	width: auto;
+}
+
+.ilovewp-title-text {
+	display: inline-block;
+}
+
+.ilovewp-button-youtube {
+	background: #cc0000 !important;
+	border-color: #cc0000 !important;
+}
+
+.ilovewp-button-youtube:hover,
+.ilovewp-button-youtube:focus {
+	background: #aa0000 !important;
+	border-color: #aa0000 !important;
+}
+
+.ilovewp-button .dashicons {
+	line-height: 1.4em;
+	height: auto;
+	width: auto;
+}
+
+.doc-section .ilovewp-button .dashicons {
+	margin-top: 3px;
+}
+
+/* Admin Notices */
+
+.ilovewp-message-content {
+	padding: 20px 10px;
+}
+
+.ilovewp-message-image {
+	display: inline-block;
+	margin-right: 30px;
+	vertical-align: top;
+	width: 140px;
+	outline: 1px solid rgba(0,0,0,.12);
+	outline-offset: -1px;
+	box-shadow: 2px 2px 6px rgba(0,0,0,.05);
+}
+
+.ilovewp-message-image .ilovewp-screenshot {
+	height: auto;
+	width: 100%;
+}
+
+.ilovewp-header .ilovewp-message-image {
+	float: left;
+}
+
+.ilovewp-message-text {
+	display: inline-block;
+	font-size: 14px;
+	max-width: 800px;
+	vertical-align: middle;
+	width: calc(100% - 170px);
+}
+
+.ilovewp-message-text .ilovewp-message-heading {
+	margin-top: 0;
+}
+
+.ilovewp-message-text .notice-buttons {
+	margin-bottom: 0;
+}
+
+.ilovewp-message-text p {
+	font-size: 14px;
+	margin: 1em 0;
+}
+
+.ilovewp-message-text p:first-of-type {
+	margin-top: 0;
+}
+
+.ilovewp-message-text p a.button {
+	margin-right: 8px;
+}
+
+.ilovewp-notice {
+	position: relative;
+}
+
+.ilovewp-notice .notice-dismiss {
+	text-decoration: none;
+}
+
+@media screen and (max-width: 1200px) {
+
+	.ilovewp-documentation {
+		padding: 40px 30px 20px;
+	}
+
+	.ilovewp-documentation .ilovewp-doc-columns .ilovewp-doc-column {
+		display: block;
+		margin: 0 0 40px 0;
+		width: 100%;
+	}
+
+	.ilovewp-documentation .ilovewp-doc-columns .ilovewp-doc-column:last-of-type {
+		margin-bottom: 0;
+	}
+
+	.ilovewp-wrapper {
+		margin-bottom: 0;
+	}
+
+}

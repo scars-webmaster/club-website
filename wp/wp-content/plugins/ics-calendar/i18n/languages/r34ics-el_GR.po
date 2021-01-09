@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ICS Calendar\n"
+"POT-Creation-Date: 2020-10-30 11:26-0500\n"
+"PO-Revision-Date: 2020-10-30 11:26-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ics-calendar.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: class-r34ics.php:193
+msgid "Show/hide all"
+msgstr "Εμφάνιση/απόκρυψη όλων"
+
+#: class-r34ics.php:318
+msgid ""
+"ICS file could not be retrieved or was empty. Please verify URL is correct, "
+"and check your php.ini configuration to verify either cURL or "
+"allow_url_fopen is available. If you are using spaces to delimit multiple "
+"URLs, you may also wish to try using the pipe character instead. Affected "
+"URL:"
+msgstr ""
+"Δεν ήταν δυνατή η ανάκτηση του αρχείου ICS ή ήταν κενό. Βεβαιωθείτε ότι η "
+"διεύθυνση URL είναι σωστή και ελέγξτε τη διαμόρφωση του php.ini για να "
+"επαληθεύσετε ότι είναι διαθέσιμο το cURL ή το allow_url_fopen. Εάν "
+"χρησιμοποιείτε κενά διαστήματα για να οριοθετήσετε πολλές διευθύνσεις URL, "
+"μπορείτε επίσης να δοκιμάσετε να χρησιμοποιήσετε το χαρακτήρα διοχέτευσης. "
+"Διεύθυνση URL που επηρεάζεται:"
+
+#: class-r34ics.php:464
+msgid "Ends"
+msgstr "Λήγει στις"
+
+#: class-r34ics.php:567
+msgid ""
+"No events found in ICS feed(s). This may mean your calendar contains no "
+"events, your feed URL may be incorrect, or your shortcode may have other "
+"configuration errors. Set debug=\"true\" in shortcode for additional details."
+msgstr ""
+"Δεν βρέθηκαν συμβάντα στις ζωοτροφές ICS. Αυτό μπορεί να σημαίνει ότι το "
+"ημερολόγιό σας δεν περιέχει συμβάντα, η διεύθυνση URL τροφοδοσίας μπορεί να "
+"είναι εσφαλμένη ή ο σύντομος κωδικός σας μπορεί να έχει άλλα σφάλματα "
+"ρύθμισης παραμέτρων. Ορίστε debug=\"true\" σε σύντομο κώδικα για πρόσθετες "
+"λεπτομέρειες."
+
+#: class-r34ics.php:695
+msgid "Hide past events"
+msgstr "Απόκρυψη προηγούμενων συμβάντων"
+
+#: class-r34ics.php:696 templates/calendar-month.php:93
+msgid "Show past events"
+msgstr "Εμφάνιση προηγούμενων συμβάντων"
+
+#: class-r34ics.php:778
+msgid "Click for more..."
+msgstr "Κάντε κλικ για περισσότερα..."
+
+#: templates/admin/add-calendar-button.php:1
+msgid "Add ICS Calendar"
+msgstr "Προσθήκη ημερολογίου ICS"
+
+#: templates/calendar-list.php:44 templates/calendar-month.php:48
+msgid "No events found."
+msgstr "Δεν βρέθηκαν συμβάντα."
+
+#: templates/calendar-list.php:99 templates/calendar-month.php:176
+#: templates/calendar-week.php:210
+msgid "All Day"
+msgstr "Ολοήμερο"
+
+#: templates/calendar-week.php:72
+msgid "Last week"
+msgstr "Την προηγούμενη εβδομάδα"
+
+#: templates/calendar-week.php:73
+msgid "This week"
+msgstr "Αυτή την εβδομάδα"
+
+#: templates/calendar-week.php:74
+msgid "Next week"
+msgstr "Επόμενη Εβδομάδα"
+
+#. Plugin Name of the plugin/theme
+msgid "ICS Calendar"
+msgstr "ICS Calendar"
+
+#. Description of the plugin/theme
+msgid "Embed a live updating iCal (ICS) feed in any page using a shortcode."
+msgstr ""
+"Ενσωματώστε ένα iCal (ICS) feed σε οποιαδήποτε σελίδα χρησιμοποιώντας ένα "
+"shortcode."
+
+#. Author of the plugin/theme
+msgid "Room 34 Creative Services, LLC"
+msgstr "Room 34 Creative Services, LLC"
+
+#. Author URI of the plugin/theme
+msgid "https://room34.com"
+msgstr "https://room34.com"

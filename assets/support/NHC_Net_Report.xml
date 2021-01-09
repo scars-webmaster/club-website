@@ -1,0 +1,75 @@
+<xml>
+<form id='NHC_Net_Report'>
+<title>NHC Hurricane Report</title>
+<field id='hurricane'>
+<caption>Hurricane</caption>
+<entry type='text'/>
+</field>
+<field id='callsign'>
+<caption>Reporting Station Callsign</caption>
+<entry type='text'/>
+</field>
+<field id='location'>
+<caption>City, State</caption>
+<entry type='text'/>
+</field>
+<field id='_auto_position'>
+<caption>Your Latitide and Longitude</caption>
+<entry type='text'/>
+</field>
+<field id='date'>
+<caption>Observation Date</caption>
+<entry type='date'/>
+</field>
+<field id='time'>
+<caption>Observation Time</caption>
+<entry type='time'/>
+</field>
+<field id='time_zone'>
+<caption>Time Zone</caption>
+<entry type='choice'><choice set='y'>Local</choice><choice>GMT</choice></entry>
+</field>
+<field id='wind'>
+<caption>Wind Speed</caption>
+<entry type='numeric'>0</entry>
+</field>
+<field id='wind units'>
+<caption>Units</caption>
+<entry type='choice'><choice set='y'>MPH</choice><choice>Knots</choice></entry>
+</field>
+<field id='wind_meas'>
+<caption>Measurement</caption>
+<entry type='choice'><choice set='y'>Estimated</choice><choice>Measured</choice></entry>
+</field>
+<field id='wind_gust'>
+<caption>Wind Gust</caption>
+<entry type='numeric'>0</entry>
+</field>
+<field id='wind_dir'>
+<caption>Wind Direction</caption>
+<entry type='text'/>
+</field>
+<field id='press'>
+<caption>Barometric Pressure</caption>
+<entry type='text'/>
+</field>
+<field id='press_units'>
+<caption>Units</caption>
+<entry type='choice'><choice set='y'>Inches</choice><choice>Millibars</choice></entry>
+</field>
+<field id='op'>
+<caption>Operator Name</caption>
+<entry type='text'/>
+</field>
+<field id='comments'>
+<caption>Comments</caption>
+<entry type='multiline'/>
+</field>
+</form>
+</xml>
+
+<!-- neodl2.grp.bf1.yahoo.com Fri May 29 00:08:54 PST 2015 -->
+
+<!-- origin1.grp.bf1.yahoo.com Thu May 28 17:35:15 PDT 2015 -->
+
+<!-- origin1.grp.bf1.yahoo.com Thu May 28 17:35:15 PDT 2015 -->

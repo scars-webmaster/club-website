@@ -1,0 +1,120 @@
+.r34ics h4 code { font-weight: normal; }
+
+.r34ics .code-sample {
+	background: #f7f7f7;
+	border: 1px solid #dddddd;
+	color: #009933;
+	font-family: monospace;
+	font-size: 85%;
+	margin: 1em 0;
+	overflow: auto;
+	padding: 0.25em 0.5em;
+    white-space: pre;
+    width: 95%;
+}
+
+
+.r34ics .columns-2 {
+	display: table;
+	table-layout: fixed;
+	width: 100%;
+}
+
+	.r34ics .columns-2 .column-1 {
+		display: table-cell;
+		padding-right: 15px;
+		vertical-align: top;
+	}
+
+	.r34ics .columns-2 .column-2 {
+		display: table-cell;
+		vertical-align: top;
+		width: 280px;
+	}
+
+	.r34ics_media_icon {
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: 16px auto;
+		float: left;
+		height: 16px;
+		margin: 0;
+		text-align: left;
+		width: 20px;
+		padding-top: 4px;
+	}
+	.r34ics_media_icon:before {
+		color: #82878c;
+		content: "\f508";
+		font: normal 18px/1 dashicons;
+		padding: 0;
+		transition: all 0.1s ease-in-out 0s;
+	}
+
+	#insert_r34ics {
+		display: none;
+		overflow: auto;
+		position: fixed; top: 0; right: 0; bottom: 0; left: 0;
+		z-index: 100050;
+	}
+	#insert_r34ics.open { display: block; }
+	#insert_r34ics_overlay {
+		background: #000000;
+		display: block;
+		position: fixed; top: 0; right: 0; bottom: 0; left: 0;
+		opacity: 0.7;
+	}
+	#insert_r34ics_window {
+		background: #ffffff;
+		box-shadow: 1px 1px 5px #000000;
+		min-height: 10rem;
+		min-width: 240px;
+		padding: 0;
+		position: absolute; top: 50%; right: auto; bottom: auto; left: 50%;
+		transform: translate(-50%, -50%);
+	}
+	#insert_r34ics_header {
+		border-bottom: 1px solid #999999;
+		font-size: 125%;
+		height: 44px;
+		line-height: 44px;
+		padding: 0 50px 0 1.5em;
+		position: absolute; top: 0; right: 0; bottom: auto; left: 0;
+	}
+	#insert_r34ics_close {
+		cursor: pointer;
+		font-size: 36px;
+		height: 44px;
+		line-height: 40px;
+		position: absolute; top: 0; right: 0; bottom: auto; left: auto;
+		text-align: center;
+		width: 44px;
+	}
+	#insert_r34ics_content {
+		margin-top: 44px;
+		min-width: 280px !important;
+		padding: 1.5em;
+		position: relative;
+	}
+	#insert_r34ics_toggle_wrapper {
+		display: none;
+	}
+
+@media screen and (max-width: 782px) {
+
+	.r34ics .columns-2 {
+		display: block;
+	}
+
+		.r34ics .columns-2 .column-1 {
+			display: block;
+			width: 100%;
+		}
+
+
+		.r34ics .columns-2 .column-2 {
+			display: block;
+			width: 100%;
+		}
+
+}

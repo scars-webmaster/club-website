@@ -1,0 +1,145 @@
+[pl_row pagelayer-id="4qbhiu28l9pyznex"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="150px,0px,150px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/banners.jpg" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff"]
+[pl_col pagelayer-id="n2xg4k7o83satat9"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="vzoi2j6id4tvhl7o"  heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,50,,600,,,Solid,1.2,,,"]
+
+
+
+
+
+About Us[/pl_heading]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="o8fxjncuoqhpue51"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="60px,0px,60px,0px"]
+[pl_col pagelayer-id="lkc7henaliottfx2"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_heading pagelayer-id="fzzoapgbyelt5g2v"  heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" heading_typo="Raleway,30,,600,,,Solid,1.4,,," ele_margin="0px,0px,25px,0px"]
+
+
+
+
+
+Our Story[/pl_heading]
+[pl_tabs pagelayer-id="qra55qgizv19kefn"  tabs_holder_bg_color="#ffffffff" tabs_border_type="solid" tabs_holder_align="left" tabs_color="#444" tabs_bg_color="#ffffffff" tabs_active_color="#3f51b5ff" tabs_active_bg_color=" " tabs_icon_align="left" tabs_icon_spacing="0" tabs_content_color="#000000" tabs_content_bg_color="#fff" tab_padding="15" ele_bg_hover_delay="400" tabs_border_color="#cccccc" tabs_holder_border_width="0,0,1,0" tabs_holder_border_radius="1,1,0,1" tabs_content_border_width="0,0,0,0" tab_title_typo="Raleway,15,,600,,,Solid,,,,"]
+[pl_tab pagelayer-id="4jpdy13cc0qu8zdd"  title="2001" ele_bg_hover_delay="400"]
+
+
+
+
+
+<p>Veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde sed quia consequuntur.</p><br><p>Page Maker including versions. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu hendrerit nunc. Proin tempus pulvinar augue, Nemo enim ipsam voluptatem quia voluptas sit as minima rerums quis ultrices urna consectetur non.</p>[/pl_tab]
+[pl_tab pagelayer-id="8s8rr6yi9q5zxikz"  title="2005" ele_bg_hover_delay="400"]
+
+
+
+
+
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p><br><p>Magnam, consequatur quas ratione eaque praesentium eligendi voluptatum at harum mollitia rem veritatis accusantium pariatur.</p>[/pl_tab]
+[pl_tab pagelayer-id="pznnzdc5m6e2iyea"  title="2010" ele_bg_hover_delay="400"]
+
+
+
+
+
+<p>Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. Turpis in eu mi bibendum neque egestas congue quisque. Eu non diam phasellus vestibulum lorem.</p><br><p>Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.</p><br><p>Phasellus imperdiet lacinia nulla, malesuada semper nibh sodales quis, Duis viverra ipsum dictum.</p>[/pl_tab]
+[pl_tab pagelayer-id="u7cq1yvrsrlqs3g6"  title="2015" ele_bg_hover_delay="400"]
+
+
+
+
+
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p><p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </p>[/pl_tab]
+[/pl_tabs]
+[/pl_col]
+[pl_col pagelayer-id="aiuhpgrv0ibzx5h5"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_image pagelayer-id="7alpx7yf8k56mvt8"  id="{{theme_url}}/images/about2.jpg" id-size="full" align="center" img_hover="normal" img_filter="0,100,100,0,0,100,100" img_hover_delay="400" img_filter_hover="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400"]
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="0qluutwipx073nno"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/about3.jpg" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="100px,0px,100px,0px" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff"]
+[pl_col pagelayer-id="1h314d3yw5nqcuhz"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_image pagelayer-id="udh4rqxrlxxc6bsb"  id="{{theme_url}}/images/logo1.png" id-size="full" align="center" img_hover="normal" img_filter="0,100,100,0,0,100,100" img_hover_delay="400" img_filter_hover="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400"]
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="29znhis44rkobibp"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="8"]
+[pl_heading pagelayer-id="v4f87tkqc0n4qys7"  heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" heading_typo="Raleway,40,,500,,,Solid,1.4,,,"]
+
+
+
+
+
+25 Years of Experience<br/>
+In Legal Lawyer Services[/pl_heading]
+[pl_text pagelayer-id="8rrfndkdrb5enk9h"  ele_bg_hover_delay="400"]
+
+
+
+
+
+<p><span style="color: rgb(255, 255, 255);">Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. Turpis in eu mi bibendum neque egestas congue quisque. Eu non diam phasellus vestibulum lorem.</span></p>[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="65gm9tvhuqnij5sg"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="60px,0px,60px,0px"]
+[pl_col pagelayer-id="06lyyhewtvqhohhg"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="bovkd1ytjm4mqhrk"  heading_state="normal" color="#000000ff" ele_bg_hover_delay="400" heading_typo="Raleway,35,,600,,,Solid,1.4,,,"]
+
+
+
+
+
+Meet our dedicated Staff[/pl_heading]
+[pl_text pagelayer-id="kqvcexlf82gk9q5m"  ele_bg_hover_delay="400"]
+
+
+
+
+
+<p>Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. Turpis in eu mi bibendum neque egestas congue quisque. Eu non diam phasellus vestibulum lorem.</p>[/pl_text]
+[pl_inner_row pagelayer-id="z8ihv7v0hkkg290b"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_inner_col pagelayer-id="c8t60018jw45c0o9"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_service pagelayer-id="utxurrm77suvo06w"  service_image="{{theme_url}}/images/team1.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Adam Freeman" service_title_spacing="10,0,5,0" heading_state="normal" service_heading_color="#3f51b5ff" service_heading_typo="Raleway,24,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" anim_hover="grow" service_content_spacing="5,5,10,5" heading_alignment="center"]
+
+
+
+
+
+<p>Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="ae8r7ntr0z5tkayp"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_service pagelayer-id="ko0k8o3j0wbb5a5v"  service_image="{{theme_url}}/images/team4.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Angelina Di Maria" service_title_spacing="10,0,5,0" heading_state="normal" service_heading_color="#3f51b5ff" service_heading_typo="Raleway,24,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" anim_hover="grow" service_content_spacing="5,5,10,5" heading_alignment="center"]
+
+
+
+
+
+<p>Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="efmjwyzxnbuy6ogs"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_service pagelayer-id="hn01tmdcguwuu8qe"  service_image="{{theme_url}}/images/team3.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Rick Smith" service_title_spacing="10,0,5,0" heading_state="normal" service_heading_color="#3f51b5ff" service_heading_typo="Raleway,24,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" anim_hover="grow" service_content_spacing="5,5,10,5" heading_alignment="center"]
+
+
+
+
+
+<p>Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="5msy9xthyv1b0qsb"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_service pagelayer-id="wd30vond0p2sq3p4"  service_image="{{theme_url}}/images/team5.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Lucy Jackson" service_title_spacing="10,0,5,0" heading_state="normal" service_heading_color="#3f51b5ff" service_heading_typo="Raleway,24,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" anim_hover="grow" service_content_spacing="5,5,10,5" heading_alignment="center"]
+
+
+
+
+
+<p>Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.</p>[/pl_service]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]

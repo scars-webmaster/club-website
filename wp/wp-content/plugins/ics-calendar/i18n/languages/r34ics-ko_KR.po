@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ICS Calendar\n"
+"POT-Creation-Date: 2020-10-30 11:28-0500\n"
+"PO-Revision-Date: 2020-10-30 11:29-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ics-calendar.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: class-r34ics.php:193
+msgid "Show/hide all"
+msgstr "모든 표시/숨기기"
+
+#: class-r34ics.php:318
+msgid ""
+"ICS file could not be retrieved or was empty. Please verify URL is correct, "
+"and check your php.ini configuration to verify either cURL or "
+"allow_url_fopen is available. If you are using spaces to delimit multiple "
+"URLs, you may also wish to try using the pipe character instead. Affected "
+"URL:"
+msgstr ""
+"ICS 파일을 검색할 수 없거나 비어 있습니다. URL이 올바른지 확인하고 php.ini 구"
+"성을 확인하여 cURL 또는 allow_url_fopen 사용할 수 있는지 확인하십시오. 공백"
+"을 사용하여 여러 URL을 구분하는 경우 대신 파이프 문자를 사용해 볼 수도 있습니"
+"다. 영향을 받는 URL:"
+
+#: class-r34ics.php:464
+msgid "Ends"
+msgstr "Ends 파일"
+
+#: class-r34ics.php:567
+msgid ""
+"No events found in ICS feed(s). This may mean your calendar contains no "
+"events, your feed URL may be incorrect, or your shortcode may have other "
+"configuration errors. Set debug=\"true\" in shortcode for additional details."
+msgstr ""
+"ICS 피드에서 찾을 수 있는 이벤트가 없습니다. 즉, 캘린더에 이벤트가 없거나 피"
+"드 URL이 올바르지 않거나 단축코드가 다른 구성 오류가 있을 수 있습니다. 추가 "
+"세부 사항에 대한 단축코드에서 debug=\"true\" 를 설정합니다."
+
+#: class-r34ics.php:695
+msgid "Hide past events"
+msgstr "지난 일정 숨기기"
+
+#: class-r34ics.php:696 templates/calendar-month.php:93
+msgid "Show past events"
+msgstr "과거 이벤트 표시"
+
+#: class-r34ics.php:778
+msgid "Click for more..."
+msgstr "자세한 내용을 보려면 클릭하십시오..."
+
+#: templates/admin/add-calendar-button.php:1
+msgid "Add ICS Calendar"
+msgstr "ICS 캘린더 추가"
+
+#: templates/calendar-list.php:44 templates/calendar-month.php:48
+msgid "No events found."
+msgstr "일정이 없습니다."
+
+#: templates/calendar-list.php:99 templates/calendar-month.php:176
+#: templates/calendar-week.php:210
+msgid "All Day"
+msgstr "전일"
+
+#: templates/calendar-week.php:72
+msgid "Last week"
+msgstr "지난주"
+
+#: templates/calendar-week.php:73
+msgid "This week"
+msgstr "이번주"
+
+#: templates/calendar-week.php:74
+msgid "Next week"
+msgstr "다음 주"
+
+#. Plugin Name of the plugin/theme
+msgid "ICS Calendar"
+msgstr "ICS 캘린더"
+
+#. Description of the plugin/theme
+msgid "Embed a live updating iCal (ICS) feed in any page using a shortcode."
+msgstr ""
+"단축코드를 사용하여 모든 페이지에 ICal(ICal) 피드를 실시간으로 업데이트합니"
+"다."
+
+#. Author of the plugin/theme
+msgid "Room 34 Creative Services, LLC"
+msgstr "Room 34 Creative Services, LLC"
+
+#. Author URI of the plugin/theme
+msgid "https://room34.com"
+msgstr "https://room34.com"

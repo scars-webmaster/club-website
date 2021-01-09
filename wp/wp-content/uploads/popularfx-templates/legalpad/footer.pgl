@@ -1,0 +1,81 @@
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#104179b3" ele_padding="40px,0px,40px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_heading heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,25,,600,,,Solid,,,,"]
+
+About Us[/pl_heading]
+[pl_text ele_bg_hover_delay="400"]
+
+<p>Veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde sed quia consequuntur.</p>[/pl_text]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_heading heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,25,,600,,,Solid,,,,"]
+
+Contact[/pl_heading]
+[pl_text ele_bg_hover_delay="400"]
+
+<p>Page Maker including versions. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>[/pl_text]
+[pl_phone icon="fas fa-phone-alt" ele_bg_hover_delay="400" icon_color="#000000ff" icon_size="20" space="10" typography="Raleway,16,,500,,,Solid,,,,"]
+[/pl_phone]
+[pl_iconbox service_icon="fas fa-clock" service_alignment="left" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#000000ff" service_icon_font_size="21" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Monday-Saturday&lt;br/&gt;
+9.00 AM – 10.00 AM" service_title_spacing="0,0,10,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,14,,400,,,Solid,1.4,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400"]
+
+[/pl_iconbox]
+[pl_address icon="fas fa-map-marker-alt" ele_bg_hover_delay="400" icon_color="#000000ff" icon_size="24" space="10" typography="Raleway,16,,,,,Solid,,,," color="#000000ff"]
+[/pl_address]
+[pl_email icon="fas fa-envelope" ele_bg_hover_delay="400" color="#000000ff" icon_color="#000000ff" icon_size="24" space="10" typography="Raleway,16,,400,,,Solid,,,,"]
+[/pl_email]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="2"]
+[pl_heading heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,25,,600,,,Solid,,,,"]
+
+Services[/pl_heading]
+[pl_list list_type="none" spacing="5" list_color="#000000ff" item_indent="4" icon_color="#000000ff" icon_border_type="solid" ele_bg_hover_delay="400" icon_border_color="#cbd2dc78" icon_border_width="0" side_spacing="0" list_typo="Raleway,15,,400,,,Solid,,,,"]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-check"]
+
+Criminal Law[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-check"]
+
+Family Law[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-check"]
+
+Divorce Law[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-check"]
+
+Insurance  Law[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-check"]
+
+Business   Law[/pl_list_item]
+[pl_list_item show_icon="true" ele_bg_hover_delay="400" icon="fa fa-check"]
+
+Civil Rights[/pl_list_item]
+[/pl_list]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_heading heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,25,,600,,,Solid,,,,"]
+
+Custom Menu[/pl_heading]
+[pl_list list_type="none" spacing="5" list_color="#000000ff" item_indent="4" icon_color="#000000ff" icon_border_type="solid" ele_bg_hover_delay="400" icon_border_color="#cbd2dc78" icon_border_width="0" side_spacing="0" list_typo="Raleway,15,,400,,,Solid,,,,"]
+[pl_list_item show_icon="" ele_bg_hover_delay="400" icon="check"]
+
+Home[/pl_list_item]
+[pl_list_item show_icon="" ele_bg_hover_delay="400" icon="check"]
+
+About[/pl_list_item]
+[pl_list_item show_icon="" ele_bg_hover_delay="400" icon="check"]
+
+Blog[/pl_list_item]
+[pl_list_item show_icon="" ele_bg_hover_delay="400" icon="check"]
+
+Contact[/pl_list_item]
+[pl_list_item show_icon="" ele_bg_hover_delay="400" icon="check"]
+
+Practicearea[/pl_list_item]
+[/pl_list]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#104179b3" ele_padding="10px,0px,10px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_copyright ele_bg_hover_delay="400" typography="Raleway,18,,500,,,Solid,,,,"]
+[/pl_copyright]
+[/pl_col]
+[/pl_row]

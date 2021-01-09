@@ -1,0 +1,22 @@
+<!-- Edit this file to change the layout of each record in the table view -->
+<!-- To disable clicking of a field, remove the <%%SELECT%%> and <%%ENDSELECT%%> formatters around it-->
+
+<!-- If you wish to hide the table view header that contains the column titles, -->
+<!-- add the following to the memberInfo_init() hook (in hooks/memberInfo.php file) -->
+<!--     $options->ShowTableHeader = 0;     -->
+
+		<td id="memberInfo-fname-<%%VALUE(id)%%>" class="memberInfo-fname"><%%SELECT%%><%%VALUE(fname)%%><%%ENDSELECT%%></td>
+		<td id="memberInfo-lname-<%%VALUE(id)%%>" class="memberInfo-lname"><%%SELECT%%><%%VALUE(lname)%%><%%ENDSELECT%%></td>
+		<td id="memberInfo-suffix-<%%VALUE(id)%%>" class="memberInfo-suffix"><%%SELECT%%><%%VALUE(suffix)%%><%%ENDSELECT%%></td>
+		<td id="memberInfo-middle-<%%VALUE(id)%%>" class="memberInfo-middle"><%%SELECT%%><%%VALUE(middle)%%><%%ENDSELECT%%></td>
+		<td id="memberInfo-memberDate-<%%VALUE(id)%%>" class="memberInfo-memberDate"><%%SELECT%%><%%VALUE(memberDate)%%><%%ENDSELECT%%></td>
+		<td id="memberInfo-homePhone-<%%VALUE(id)%%>" class="memberInfo-homePhone"><%%SELECT%%><%%VALUE(homePhone)%%><%%ENDSELECT%%></td>
+		<td id="memberInfo-workPhone-<%%VALUE(id)%%>" class="memberInfo-workPhone"><%%SELECT%%><%%VALUE(workPhone)%%><%%ENDSELECT%%></td>
+		<td id="memberInfo-mobilePhone-<%%VALUE(id)%%>" class="memberInfo-mobilePhone"><%%SELECT%%><%%VALUE(mobilePhone)%%><%%ENDSELECT%%></td>
+		<td id="memberInfo-emailPreferred-<%%VALUE(id)%%>" class="memberInfo-emailPreferred"><%%SELECT%%><%%VALUE(emailPreferred)%%><%%ENDSELECT%%></td>
+		<td id="memberInfo-emailOther-<%%VALUE(id)%%>" class="memberInfo-emailOther"><%%SELECT%%><%%VALUE(emailOther)%%><%%ENDSELECT%%></td>
+		<td id="memberInfo-addressLine1-<%%VALUE(id)%%>" class="memberInfo-addressLine1"><%%SELECT%%><%%VALUE(addressLine1)%%><%%ENDSELECT%%></td>
+		<td id="memberInfo-addressLine2-<%%VALUE(id)%%>" class="memberInfo-addressLine2"><%%SELECT%%><%%VALUE(addressLine2)%%><%%ENDSELECT%%></td>
+		<td id="memberInfo-city-<%%VALUE(id)%%>" class="memberInfo-city"><%%SELECT%%><%%VALUE(city)%%><%%ENDSELECT%%></td>
+		<td id="memberInfo-state-<%%VALUE(id)%%>" class="memberInfo-state"><%%SELECT%%><%%VALUE(state)%%><%%ENDSELECT%%></td>
+		<td id="memberInfo-zip-<%%VALUE(id)%%>" class="memberInfo-zip"><%%SELECT%%><%%VALUE(zip)%%><%%ENDSELECT%%></td>

@@ -1,0 +1,354 @@
+@charset "utf-8";
+/* Simple fluid media
+   Note: Fluid media requires that you remove the media's height and width attributes from the HTML
+   http://www.alistapart.com/articles/fluid-images/ 
+*/
+img, object, embed, video {
+	max-width: 100%;
+}
+/* IE 6 does not support max-width so default to width 100% */
+.ie6 img {
+	width:100%;
+}
+
+/*
+	Dreamweaver Fluid Grid Properties
+	----------------------------------
+	dw-num-cols-mobile:		5;
+	dw-num-cols-tablet:		9;
+	dw-num-cols-desktop:	12;
+	dw-gutter-percentage:	15;
+	
+	Inspiration from "Responsive Web Design" by Ethan Marcotte 
+	http://www.alistapart.com/articles/responsive-web-design
+	
+	and Golden Grid System by Joni Korpi
+	http://goldengridsystem.com/
+*/
+
+/* Mobile Layout: 480px and below. */
+
+.gridContainer {
+	margin-left: auto;
+	margin-right: auto;
+	width: 97.3913%;
+	padding-left: 1.3043%;
+	padding-right: 1.3043%;
+}
+#LayoutDiv1 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	background-image: url(../images/blue-sine-wave-bg-2b.jpg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-color: #000;
+}
+#LayoutDiv2 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	background-color: #000;
+}
+#LayoutDiv3 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#LayoutDiv4 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#LayoutDiv5 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#LayoutDiv6 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	line-height: 1.5;
+	background-color: silver;
+}
+#LayoutDiv7 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+        background-color: #D4953C;
+        
+}
+#LayoutDiv8 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#LayoutDiv9 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	color: ghostwhite;
+	padding-top: 10px;
+	background-color: #000;
+}
+#LayoutDiv10 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+
+/* Tablet Layout: 481px to 768px. Inherits styles from: Mobile Layout. */
+
+@media only screen and (min-width: 481px) {
+.gridContainer {
+	width: 96.5797%;
+	padding-left: 0.7101%;
+	padding-right: 0.7101%;
+}
+#LayoutDiv1 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	background-image: url(../images/blue-sine-wave-bg-2b.jpg);
+	background-repeat: repeat-x;
+}
+#LayoutDiv2 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#LayoutDiv3 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#LayoutDiv4 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+        box-shadow: 5px 5px 5px black;
+}
+#LayoutDiv5 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#LayoutDiv6 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 66.1764%;
+	display: block;
+	background-image: url(../images/SCARS_background.png);
+	background-repeat: repeat-x;
+	background-color: white;
+        box-shadow: 5px 5px 5px black;
+}
+#LayoutDiv7 {
+	clear: none;
+	float: left;
+	margin-left: 1.4705%;
+	width: 32.3529%;
+	display: block;
+        background-color: #D4953C;
+        box-shadow: 5px 5px 5px black;
+}
+#LayoutDiv8 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#LayoutDiv9 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	background-color: #000;
+}
+#LayoutDiv10 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+.floating-box {
+        display: inline-block;
+        width: 90%;
+        margin: 10px;
+        border-radius: 20px;
+        border: 3px solid silver;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.floating-box-alert {
+        display: inline-block;
+        width: 95%;
+        margin: 10px;
+        background-color: lightcoral;
+        border-radius: 20px;
+        border: 3px solid silver;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        
+}
+}
+
+/* Desktop Layout: 769px to a max of 1232px.  Inherits styles from: Mobile Layout and Tablet Layout. */
+
+@media only screen and (min-width: 769px) {
+.gridContainer {
+	width: 89.0217%;
+	max-width: 1232px;
+	padding-left: 0.4891%;
+	padding-right: 0.4891%;
+	margin: auto;
+}
+#LayoutDiv1 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#LayoutDiv2 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#LayoutDiv3 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#LayoutDiv4 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+        border-radius: 10px;
+        box-shadow: 5px 5px 5px black;
+}
+#LayoutDiv5 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#LayoutDiv6 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 74.7252%;
+	display: block;
+        border-radius: 25px;
+	background-image: url(../images/SCARS_background.png);
+	background-repeat: repeat-x;
+	background-color: white;
+        box-shadow: 5px 5px 5px black;
+}
+#LayoutDiv7 {
+	clear: none;
+	float: left;
+	margin-left: 1.0989%;
+	width: 24.1758%;
+	display: block;
+        border-radius: 25px;
+        box-shadow: 5px 5px 5px black;
+        
+}
+#LayoutDiv8 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#LayoutDiv9 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	background-color: #000;
+}
+#LayoutDiv10 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+
+.newspaper {
+        column-count: 2;
+        column-fill: balance;
+        column-width: auto;
+        column-rule-width: 1px;
+        column-rule-style: solid;
+        column-rule-color: gray;
+}
+.floating-box {
+        display: inline-block;
+        width: 95%;
+        margin: 10px;
+        border-radius: 20px;
+        border: 3px solid silver;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.floating-box-alert {
+        display: inline-block;
+        width: 95%;
+        margin: 10px;
+        background-color: lightcoral;
+        border-radius: 20px;
+        border: 3px solid silver;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        
+}
+.gridContainer.clearfix #LayoutDiv6 #sk p {
+	padding-right: 0em;
+	padding-left: 0em;
+	margin-right: 5em;
+	margin-left: 5em;
+}
+
+}

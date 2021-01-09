@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"xml:lang="en">
+<head>
+<title>K4ELI IARU-HF Status:  Current Score = 0</title>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+<meta http-equiv="refresh" content="60" />
+<style type="text/css">
+body {background-color: LightBlue; font-family:"Arial";}
+h2 {color:Black; font-size:20px; font-family:"Verdana";}
+td {padding:5px 10px; min-width:30px;}
+span {font-weight:bold;}
+.italic {font-style:italic;}
+p, table {color:Black; font-size:18px;}
+</style>
+</head>
+
+<body>
+<h2>K4ELI IARU-HF Status</h2>
+<p><span>Current status</span> as of:<br/>
+2016/07/07 12:05:13 UTC<br/>
+2016/07/07 08:05:13 AM Local<br/>
+Updates are set to upload every 5 minute(s).<br/>
+Your Internet browser will refresh this page automatically every minute.</p>
+
+<h2>Message:</h2>
+<p>this is a test message</p>
+
+<a name="scorestats"></a>
+<h2>Current Score Statistics:</h2>
+<p>Total Contacts = 0</p>
+<p>Total QSO Points = 0</p>
+<p>Total Multipliers = 0</p>
+<p>Total Score = 0</p>
+<!--<TOTALQSOS>0</TOTALQSOS>-->
+<p>QSOs / Hour Last 20 Minutes = 0</p>
+<p>QSOs / Hour Last 60 Minutes = 0</p>
+
+<h2>Recent Contacts:</h2>
+<a name="list"></a>
+<table>
+<tr><th>Date</th><th>Time</th><th>Band</th><th>Mode</th><th>Callsign</th><th>Frequency</th><th>Country</th><th></th></tr>
+</table>
+
+<p><br/><span>Created by:</span> N3FJP's ARRL IARU HF Contest Log 4.1</p>
+<p><span>N3FJP Software:</span> <a href="http://www.n3fjp.com" >www.n3fjp.com</a></p>
+<p class='italic'>Serving the Amateur Radio community with contesting and general logging software since 1997.</p>
+
+</body>
+</html>

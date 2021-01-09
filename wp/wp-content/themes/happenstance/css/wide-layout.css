@@ -1,0 +1,77 @@
+/* Wide Layout stylesheet for HappenStance theme
+----------------------------------------------- */
+
+body #container {
+  max-width: 100%;                
+}
+#wrapper #container-shadow {  
+  -webkit-box-shadow: none;
+  -moz-box-shadow:    none;
+  box-shadow:         none;
+  background: none; 
+}
+#wrapper .pattern {
+  display: none;                  
+}
+.header-content-wrapper,
+#wrapper-content {
+  float: left;
+  height: auto;  
+  position: relative;
+  width: 100%;                       
+}
+#wrapper-content #main-content,
+#wrapper #footer {
+  float: none;
+  margin: 0 auto;        
+} 
+
+/* Header */
+#wrapper .ticker-box,
+#wrapper .top-navigation {
+  margin: 0 auto;           
+}
+.top-navigation {
+  position: relative;
+  width: 1114px;                         
+}
+.header-content-wrapper .header-content,
+.menu-box-wrapper .menu-box,
+.secondary-menu-box-wrapper .secondary-menu-box {
+  float: none;
+  margin: 0 auto;            
+}
+#wrapper #header .sticky-nav {
+  max-width: 100% !important;
+}
+
+/* Footer */
+.footer-signature .footer-signature-content {
+  margin: 0 auto;
+  max-width: 956px;                                            
+}
+
+/* Media Queries */
+@media screen and (max-width: 1170px) {
+  #wrapper #container {
+    max-width: 100%;
+}
+  body .top-navigation {
+    width: 956px;                         
+}
+}
+@media screen and (max-width: 1012px) {
+  html #wrapper #container {
+    max-width: 100% !important;
+    width: 100% !important;                         
+}
+  #wrapper #header .top-navigation {
+    width: 90%;                           
+}
+  #wrapper .header-contact {
+    width: 100%;
+}
+  #wrapper .footer-signature .footer-signature-content {
+    max-width: 90%;                                            
+}
+}

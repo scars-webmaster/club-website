@@ -1,0 +1,46 @@
+Vesrion 1.9
+======================
+Deprecated Tags
+
+
+Vesrion 1.8
+======================
+Fixed Responsive Menu
+
+
+Vesrion 1.7
+======================
+Fixed numeric_posts_nav() function index.php bug
+
+
+Vesrion 1.4
+======================
+Fixed Single Page Content issue
+Some CSS Issues
+
+
+
+Vesrion 1.3
+======================
+Fixed some CSS issues
+
+
+
+Vesrion 1.2
+======================
+Fixed Language issues
+
+
+
+Vesrion 1.1
+======================
+Fixed Title issues
+Fixed some CSS issues
+
+
+
+
+Vesrion 1.0
+=====================
+Initial Version
+

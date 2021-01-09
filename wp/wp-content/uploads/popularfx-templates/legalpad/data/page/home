@@ -1,0 +1,287 @@
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" row_bg_type="slider" bg_slider_speed="2000" bg_slider="{{theme_url}}/images/banner1.jpg,{{theme_url}}/images/banner2.jpg,{{theme_url}}/images/banner3.jpg" ele_padding="150px,0px,150px,0px" overlay_type="color" overlay_transperancy="0.8" overlay_color="#000000ff"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#114581ff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,30,Italic,600,,,Solid,,,,"]
+
+
+
+
+
+Your solutions start here[/pl_heading]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,45,,600,,,Solid,1.2,,,"]
+
+
+
+
+
+COMMITTED TO HELPING OUR CLIENTS SUCCEED[/pl_heading]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="center" heading_typo="Raleway,40,,500,,,Solid,,,,"]
+
+
+
+
+
+Our Mission is Your Success[/pl_heading]
+[pl_btn text="Contact Now" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-small" btn_hover_delay="600" icon_position="pagelayer-btn-icon-left" icon_spacing="1" ele_bg_hover_delay="400" ele_padding="20px,0px,20px,0px" btn_bg_color="#f6f6f600" btn_color="#ffffff" btn_typo="Raleway,16,,500,,,Solid,,,," icon="fa fa-phone" btn_border_type="solid" btn_border_color="#ffffffff" btn_border_width="2,2,2,2" btn_border_radius="0,0,0,0" btn_hover="hover" btn_bg_color_hover="#114581ff"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#ccccccff" ele_padding="20px,0px,20px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_iconbox service_icon="fa fa-briefcase" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#104179ff" service_icon_font_size="35" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Travel Accidents" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,25,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="600" ele_bg_hover_delay="400" service_icon_spacing="25,0,10,0" service_content_spacing="10,10,20,10" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="hover" service_button_color="#ffffff" service_button_bg_color="#000000ff" service_btn_spacing="10,0,20,0" service_button_bg_color_hover="#104179ff" service_button_font_size="9" service_button_typo="Raleway,14,,500,,,Solid,,,," service_btn_dim="4,20"]
+
+
+
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_iconbox service_icon="fa fa-wheelchair" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#104179ff" service_icon_font_size="35" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Work Injuries" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,25,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="600" ele_bg_hover_delay="400" service_icon_spacing="25,0,10,0" service_content_spacing="10,10,20,10" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="hover" service_button_color="#ffffff" service_button_bg_color="#000000ff" service_btn_spacing="10,0,20,0" service_btn_dim="4,20" service_button_typo="Raleway,14,,500,,,Solid,,,," service_button_bg_color_hover="#104179ff"]
+
+
+
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_iconbox service_icon="fa fa-building" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#104179ff" service_icon_font_size="35" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Real State Crime" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,25,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="600" ele_bg_hover_delay="400" service_icon_spacing="25,0,10,0" service_content_spacing="10,10,20,10" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="hover" service_button_color="#ffffff" service_button_bg_color="#000000ff" service_btn_spacing="10,0,20,0" service_btn_dim="4,20" service_button_typo="Raleway,14,,500,,,Solid,,,," service_button_bg_color_hover="#104179ff"]
+
+
+
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_iconbox service_icon="fa fa-legal" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#104179ff" service_icon_font_size="35" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Civil Litigation" service_title_spacing="10,0,10,0" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,25,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="600" ele_bg_hover_delay="400" service_icon_spacing="25,0,10,0" service_content_spacing="10,10,20,10" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="hover" service_button_color="#ffffff" service_button_bg_color="#000000ff" service_btn_spacing="10,0,20,0" service_btn_dim="4,20" service_button_typo="Raleway,14,,500,,,Solid,,,," service_button_bg_color_hover="#104179ff"]
+
+
+
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="60px,0px,60px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" heading_typo="Raleway,40,,500,,,Solid,,,," ele_margin="0px,0px,20px,0px"]
+
+
+
+
+Welcome to LegalPad[/pl_heading]
+[pl_text ele_bg_hover_delay="400"]
+
+
+
+
+<p>Veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde sed quia consequuntur.</p>[/pl_text]
+[pl_inner_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="30px,0px,30px,0px"]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_service service_image="{{theme_url}}/images/home1.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Legal Advice" service_title_spacing="10,0,10,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,25,,600,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,10,10,10" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="More" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#104179ff" service_btn_spacing="0,0,20,10" service_btn_dim="10,15" service_image_custom_size="121"]
+
+
+
+
+Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_service]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_service service_image="{{theme_url}}/images/home7.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Counselling" service_title_spacing="10,0,10,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,25,,600,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,10,10,10" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="More" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#104179ff" service_btn_spacing="0,0,20,10" service_image_custom_size="245"]
+
+
+
+
+Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_service]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_service service_image="{{theme_url}}/images/home3.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Documentation" service_title_spacing="10,0,10,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,25,,600,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,10,10,10" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="More" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#104179ff" service_btn_spacing="0,0,20,10"]
+
+
+
+
+Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_service]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_service service_image="{{theme_url}}/images/home6.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Judicial Help" service_title_spacing="10,0,10,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,25,,600,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,10,10,10" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="More" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#104179ff" service_btn_spacing="0,0,20,10" service_image_custom_size="228"]
+
+
+
+
+Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_service]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#104179ff"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_image id="{{theme_url}}/images/home5.jpg" id-size="full" align="center" img_hover="normal" img_filter="0,100,100,0,0,100,100" img_hover_delay="400" img_filter_hover="0,100,100,0,0,100,100" caption_color="#3E8EF7" ele_bg_hover_delay="400"]
+
+
+
+
+[/pl_image]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" ele_padding="40px,0px,0px,0px"]
+[pl_iconbox service_icon="fa fa-gears" service_alignment="top" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="80" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Our Goals & Achievements on Lawers Practice" service_title_spacing=",,10," heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,40,,600,,,Solid,1.2,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_alignment="left" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="Click Here!" ele_padding="40px,40px,40px,40px" service_icon_spacing="0,0,15,0" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#3e8ef7"]
+
+
+
+
+<p><span style="color: rgb(255, 255, 255);">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p>[/pl_iconbox]
+[pl_inner_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_counter counter_start_number="1" counter_end_number="20" animation_duration="2000" counter_align="center" counter_text="Staff" counter_text_color="#ffffffff" counter_text_style="Raleway,16,,400,,,Solid,,,," counter_number_color="#000000ff" counter_number_style="Raleway,30,,600,,,Solid,1.3,,," ele_bg_hover_delay="400"]
+[/pl_counter]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_counter counter_start_number="1" counter_end_number="10" animation_duration="2000" counter_align="center" counter_text="Years Of Exp." counter_text_color="#ffffffff" counter_text_style="Raleway,16,,400,,,Solid,,,," counter_number_color="#000000ff" counter_number_style="Raleway,30,,600,,,Solid,1.3,,," ele_bg_hover_delay="400"]
+[/pl_counter]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_counter counter_start_number="1" counter_end_number="300" animation_duration="2000" counter_align="center" counter_text="Cases" counter_text_color="#ffffffff" counter_text_style="Raleway,16,,400,,,Solid,,,," counter_number_color="#000000ff" counter_number_style="Raleway,30,,600,,,Solid,1.3,,," ele_bg_hover_delay="400"]
+[/pl_counter]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_counter counter_start_number="1" counter_end_number="240" animation_duration="2000" counter_align="center" counter_text="Wins" counter_text_color="#ffffffff" counter_text_style="Raleway,16,,400,,,Solid,,,," counter_number_color="#000000ff" counter_number_style="Raleway,30,,600,,,Solid,1.3,,," ele_bg_hover_delay="400"]
+[/pl_counter]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="60px,0px,0px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" heading_typo="Raleway,40,,600,,,Solid,,,,"]
+
+
+
+Our Practice Areas[/pl_heading]
+[pl_text ele_bg_hover_delay="400" ele_margin="25px,0px,0px,0px"]
+
+
+
+<p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="30px,0px,0px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-star-o" service_alignment="top" service_vertical_alignment="middle" service_icon_view="framed" service_icon_padding="10" service_icon_state="normal" service_icon_color="#104179ff" service_icon_font_size="40" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Criminal Law" service_title_spacing=",,10," heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,25,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="600" ele_bg_hover_delay="400" service_icon_border_type="solid" service_icon_border_color="#000000ff" service_icon_border_width="1,1,1,1" service_icon_spacing="0,0,15,0" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#104179ff" service_btn_spacing="15,0,15,0" service_button_color_hover="#104179ff" service_button_bg_color_hover="#ffffffff" service_button_typo="Raleway,15,,600,,,Solid,,,," service_btn_dim="5,20"]
+
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-cubes" service_alignment="top" service_vertical_alignment="middle" service_icon_view="framed" service_icon_padding="10" service_icon_state="normal" service_icon_color="#104179ff" service_icon_font_size="40" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Religion Law" service_title_spacing=",,10," heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,25,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="600" ele_bg_hover_delay="400" service_icon_border_type="solid" service_icon_border_color="#000000ff" service_icon_border_width="1,1,1,1" service_icon_spacing="0,0,15,0" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#104179ff" service_btn_spacing="15,0,15,0" service_button_color_hover="#104179ff" service_button_bg_color_hover="#ffffffff" service_button_typo="Raleway,15,,600,,,Solid,,,," service_btn_dim="5,20"]
+
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-building" service_alignment="top" service_vertical_alignment="middle" service_icon_view="framed" service_icon_padding="10" service_icon_state="normal" service_icon_color="#104179ff" service_icon_font_size="40" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Real Estate Law" service_title_spacing=",,10," heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,25,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="600" ele_bg_hover_delay="400" service_icon_border_type="solid" service_icon_border_color="#000000ff" service_icon_border_width="1,1,1,1" service_icon_spacing="0,0,15,0" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#104179ff" service_btn_spacing="15,0,15,0" service_button_color_hover="#104179ff" service_button_bg_color_hover="#ffffffff" service_button_typo="Raleway,15,,600,,,Solid,,,," service_btn_dim="5,20"]
+
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="50px,0px,0px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-life-bouy" service_alignment="top" service_vertical_alignment="middle" service_icon_view="framed" service_icon_padding="10" service_icon_state="normal" service_icon_color="#104179ff" service_icon_font_size="40" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Sports Law" service_title_spacing=",,10," heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,25,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="600" ele_bg_hover_delay="400" service_icon_border_type="solid" service_icon_border_color="#000000ff" service_icon_border_width="1,1,1,1" service_icon_spacing="0,0,15,0" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#104179ff" service_btn_spacing="15,0,15,0" service_button_color_hover="#104179ff" service_button_bg_color_hover="#ffffffff" service_button_typo="Raleway,15,,600,,,Solid,,,," service_btn_dim="5,20"]
+
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-stumbleupon" service_alignment="top" service_vertical_alignment="middle" service_icon_view="framed" service_icon_padding="10" service_icon_state="normal" service_icon_color="#104179ff" service_icon_font_size="40" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Minimum Wage Law" service_title_spacing=",,10," heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,25,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="600" ele_bg_hover_delay="400" service_icon_border_type="solid" service_icon_border_color="#000000ff" service_icon_border_width="1,1,1,1" service_icon_spacing="0,0,15,0" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#104179ff" service_btn_spacing="15,0,15,0" service_button_color_hover="#104179ff" service_button_bg_color_hover="#ffffffff" service_button_typo="Raleway,15,,600,,,Solid,,,," service_btn_dim="5,20"]
+
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_iconbox service_icon="fa fa-briefcase" service_alignment="top" service_vertical_alignment="middle" service_icon_view="framed" service_icon_padding="10" service_icon_state="normal" service_icon_color="#104179ff" service_icon_font_size="40" service_icon_hover_delay="600" service_bor_state="normal" service_heading="Business Law" service_title_spacing=",,10," heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,25,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="600" ele_bg_hover_delay="400" service_icon_border_type="solid" service_icon_border_color="#000000ff" service_icon_border_width="1,1,1,1" service_icon_spacing="0,0,15,0" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#104179ff" service_btn_spacing="15,0,15,0" service_button_color_hover="#104179ff" service_button_bg_color_hover="#ffffffff" service_button_typo="Raleway,15,,600,,,Solid,,,," service_btn_dim="5,20"]
+
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="40px,0px,0px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/testimonial.jpg" ele_padding="100px,0px,100px,0px" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,40,,600,,,Solid,1.5,,,"]
+
+
+
+What Our Client Saying[/pl_heading]
+[pl_inner_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_text ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="20px,20px,20px,20px"]
+
+
+
+<h3 style="font-size: 25px;">Melinda</h3><p style=" margin-top:10px;margin-bottom:10px;"><span style="font-size: 16px;"><strong>N. Davis</strong></span></p><p><span style="font-size: 16px;">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</span><span style="font-size: 18px;"></span><span style="font-size: large;"></span></p>[/pl_text]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_text ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="20px,20px,20px,20px"]
+
+
+
+<h3 style="font-size: 25px;">Mark Wisely</h3><p style=" margin-top:10px;margin-bottom:10px;"><span style="font-size: 16px;"><strong>N. Davis</strong></span></p><p><span style="font-size: 16px;">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</span><span style="font-size: 18px;"></span><span style="font-size: large;"></span></p>[/pl_text]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_text ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="20px,20px,20px,20px"]
+
+
+
+<h3 style="font-size: 25px;">Henry Robinson</h3><p style=" margin-top:10px;margin-bottom:10px;"><span style="font-size: 16px;"><strong>N. Davis</strong></span></p><p><span style="font-size: 16px;">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</span><span style="font-size: 18px;"></span><span style="font-size: large;"></span></p>[/pl_text]
+[/pl_inner_col]
+[pl_inner_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_text ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#ffffffff" ele_padding="20px,20px,20px,20px"]
+
+
+
+<h4 style="margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 25px; line-height: inherit; font-family: Raleway, sans-serif; vertical-align: baseline; color: rgb(0, 0, 0);">Steave David</h4><p style=" margin-top:10px;margin-bottom:10px;"><span style="font-size: 16px;"><strong>N. Davis</strong></span></p><p><span style="font-size: 16px;">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</span><span style="font-size: 18px;"></span><span style="font-size: large;"></span></p>[/pl_text]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="60px,0px,0px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" heading_typo="Raleway,40,,600,,,Solid,,,,"]
+
+
+
+Our Latest News[/pl_heading]
+[pl_text ele_bg_hover_delay="400" ele_margin="25px,0px,0px,0px"]
+
+
+
+<p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="40px,0px,40px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_service service_image="{{theme_url}}/images/blog4.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Attorney General Hearings Turn to Civil" service_title_spacing="10,10,10,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,20,,600,,,Solid,1.3,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,10,10,10" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="Read More" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#104179ff" service_btn_spacing="0,0,20,10" service_image_custom_size="339"]
+
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_service]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_service service_image="{{theme_url}}/images/blog2.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Lawsuit Consolidation and Federal Rules" service_title_spacing="10,10,10,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,20,,600,,,Solid,1.3,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,10,10,10" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="Read More" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#104179ff" service_btn_spacing="0,0,20,10" service_image_custom_size="1389"]
+
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_service]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_service service_image="{{theme_url}}/images/blog3.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Law: What You Need to Know?" service_title_spacing="10,10,10,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,20,,600,,,Solid,1.3,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="0,10,10,10" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-mini" service_button_text="Read More" service_btn_state="normal" service_button_color="#ffffff" service_button_bg_color="#104179ff" service_btn_spacing="0,0,20,10" service_image_custom_size="1389"]
+
+
+
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.[/pl_service]
+[/pl_col]
+[/pl_row]

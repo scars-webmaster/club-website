@@ -1,0 +1,1541 @@
+# Translation of the WordPress theme HappenStance 1.0 by Tomas Toman.
+# This file is distributed under the same license as the HappenStance package.
+# Tomas Toman <webdesign@tomastoman.cz>, 2016.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: HappenStance 1.0\n"
+"POT-Creation-Date: 2016-08-29 19:37+0100\n"
+"PO-Revision-Date: 2017-06-01 21:16+0100\n"
+"Last-Translator: \n"
+"Language-Team: Tomas Toman <webdesign@tomastoman.cz>\n"
+"Language: Čeština\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:10 search.php:45
+msgid "Nothing Found"
+msgstr "Nenalezeno"
+
+#: 404.php:13
+msgid ""
+"Apologies, but no results were found for your request. Perhaps searching "
+"will help you to find a related content."
+msgstr ""
+"Je nám líto, ale pro váš požadavek nebyly nalezeny žádné výsledky. Možná, že "
+"vyhledávání vám pomůže najít související obsah."
+
+#: archive.php:12
+#, php-format
+msgid "Daily Archive: %s"
+msgstr "Archiv článků ze dne: %s"
+
+#: archive.php:14
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr "Archiv článků za měsíc: %s"
+
+#: archive.php:16
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr "Archiv článků za rok: %s"
+
+#: archive.php:18
+msgid "Archive"
+msgstr "Archiv"
+
+#: author.php:12
+#, php-format
+msgid "Author Archive: %s"
+msgstr "Archiv autora: %s"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Instalovat vyžadované pluginy"
+
+#: class-tgm-plugin-activation.php:335 functions.php:422
+msgid "Install Plugins"
+msgstr "Instalovat pluginy"
+
+#: class-tgm-plugin-activation.php:336 functions.php:426
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalace pluginu: %s"
+
+#: class-tgm-plugin-activation.php:337 functions.php:427
+msgid "Something went wrong with the plugin API."
+msgstr "Něco se pokazilo s API pluginu."
+
+#: class-tgm-plugin-activation.php:339
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr "Tato šablona vyžaduje následující plugin: %1$s."
+
+#: class-tgm-plugin-activation.php:344
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr "Tato šablona doporučuje následující plugin: %1$s."
+
+#: class-tgm-plugin-activation.php:349
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgstr ""
+"Je nám líto, ale bohužel nemáte dostatečná oprávnění k instalaci pluginu "
+"%1$s."
+
+#: class-tgm-plugin-activation.php:354
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+"Následující plugin je potřeba aktualizovat na nejnovější verzi k zajištění "
+"maximální kompatibility s touto šablonou: %1$s."
+
+#: class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr "Je k dispozici aktualizace pro: %1$s."
+
+#: class-tgm-plugin-activation.php:364
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgstr ""
+"Je nám líto, ale bohužel nemáte dostatečná oprávnění k aktualizaci pluginu "
+"%1$s."
+
+#: class-tgm-plugin-activation.php:369
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr "Následující vyžadovaný plugin je momentálně neaktivní: %1$s."
+
+#: class-tgm-plugin-activation.php:374
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr "Následující doporučený plugin je momentálně neaktivní: %1$s."
+
+#: class-tgm-plugin-activation.php:379
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgstr ""
+"Je nám líto, ale bohužel nemáte dostatečná oprávnění k aktivaci pluginu %1$s."
+
+#: class-tgm-plugin-activation.php:384
+msgid "Begin installing plugin"
+msgstr "Zahájit instalaci pluginu"
+
+#: class-tgm-plugin-activation.php:389
+msgid "Begin updating plugin"
+msgstr "Zahájit aktualizaci pluginu"
+
+#: class-tgm-plugin-activation.php:394
+msgid "Begin activating plugin"
+msgstr "Zahájit aktivaci pluginu"
+
+#: class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr "Návrat na instalaci vyžadovaných pluginů."
+
+#: class-tgm-plugin-activation.php:399
+msgid "Return to the dashboard"
+msgstr "Návrat na Nástěnku"
+
+#: class-tgm-plugin-activation.php:400 class-tgm-plugin-activation.php:3030
+msgid "Plugin activated successfully."
+msgstr "Plugin byl úspěšně aktivován."
+
+#: class-tgm-plugin-activation.php:401 class-tgm-plugin-activation.php:2833
+msgid "The following plugin was activated successfully:"
+msgstr "Následující plugin byl úspěšně aktivován:"
+
+#: class-tgm-plugin-activation.php:402
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Neprovedena žádná akce. Plugin %1$s byl již aktivní."
+
+#: class-tgm-plugin-activation.php:403
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin nebyl aktivován. Vyšší verze %s je potřeba pro tuto šablonu. Prosím, "
+"aktualizujte plugin."
+
+#: class-tgm-plugin-activation.php:404
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Všechny pluginy byly úspěšně nainstalovány a aktivovány. %1$s"
+
+#: class-tgm-plugin-activation.php:405
+msgid "Dismiss this notice"
+msgstr "Skrýt toto oznámení"
+
+#: class-tgm-plugin-activation.php:406
+msgid "Please contact the administrator of this site for help."
+msgstr "Kontaktujte prosím administrátora těchto stránek pro pomoc."
+
+#: class-tgm-plugin-activation.php:521
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Tento plugin je potřeba aktualizovat, aby byl kompatibilní s vaší šablonou."
+
+#: class-tgm-plugin-activation.php:522
+msgid "Update Required"
+msgstr "Aktualizace vyžadována"
+
+#: class-tgm-plugin-activation.php:636
+msgid "Set the parent_slug config variable instead."
+msgstr "Nastavte místo toho parent_slug konfigurační proměnnou."
+
+#: class-tgm-plugin-activation.php:829 class-tgm-plugin-activation.php:3439
+msgid "Return to the Dashboard"
+msgstr "Návrat na Nástěnku"
+
+#: class-tgm-plugin-activation.php:936
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Vzdálený instalační balíček pluginu neobsahuje složku s požadovaným slugem a "
+"přejmenování nefungovalo."
+
+#: class-tgm-plugin-activation.php:936 class-tgm-plugin-activation.php:939
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Kontaktujte prosím poskytovatele pluginu a požádejte je, aby zabalili plugin "
+"dle pokynů WordPressu."
+
+#: class-tgm-plugin-activation.php:939
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Vzdálený instalační balíček pluginu se skládá z více než jednoho souboru, "
+"ale soubory nejsou zabaleny do adresáře."
+
+#: class-tgm-plugin-activation.php:1117 class-tgm-plugin-activation.php:2829
+msgid "and"
+msgstr "a"
+
+#: class-tgm-plugin-activation.php:1882
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2168
+msgid "Required"
+msgstr "Vyžadovaný"
+
+#: class-tgm-plugin-activation.php:2171
+msgid "Recommended"
+msgstr "Doporučený"
+
+#: class-tgm-plugin-activation.php:2187
+msgid "WordPress Repository"
+msgstr "Adresář WordPress"
+
+#: class-tgm-plugin-activation.php:2190
+msgid "External Source"
+msgstr "Externí zdroj"
+
+#: class-tgm-plugin-activation.php:2193
+msgid "Pre-Packaged"
+msgstr "Předpřipravený"
+
+#: class-tgm-plugin-activation.php:2210
+msgid "Not Installed"
+msgstr "Nenainstalovaný"
+
+#: class-tgm-plugin-activation.php:2214
+msgid "Installed But Not Activated"
+msgstr "Nainstalovaný, ale neaktivní"
+
+#: class-tgm-plugin-activation.php:2216
+msgid "Active"
+msgstr "Aktivní"
+
+#: class-tgm-plugin-activation.php:2222
+msgid "Required Update not Available"
+msgstr "Vyžadovaná aktualizace není k dispozici"
+
+#: class-tgm-plugin-activation.php:2225
+msgid "Requires Update"
+msgstr "Vyžaduje aktualizaci"
+
+#: class-tgm-plugin-activation.php:2228
+msgid "Update recommended"
+msgstr "Aktualizace doporučena"
+
+#: class-tgm-plugin-activation.php:2236
+#, php-format
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2281
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr "Všechny <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2284
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr "Instalovat <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2287
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr "Dostupné aktualizace <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2290
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr "K aktivaci <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2372
+msgid "unknown"
+msgstr "neznámý"
+
+#: class-tgm-plugin-activation.php:2380
+msgid "Installed version:"
+msgstr "Nainstalovaná verze:"
+
+#: class-tgm-plugin-activation.php:2388
+msgid "Minimum required version:"
+msgstr "Minimální vyžadovaná verze:"
+
+#: class-tgm-plugin-activation.php:2400
+msgid "Available version:"
+msgstr "Dostupná verze:"
+
+#: class-tgm-plugin-activation.php:2423
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"Žádné pluginy k instalaci, aktualizaci či aktivaci. <a href=\"%1$s\">Zpět na "
+"Nástěnku</a>"
+
+#: class-tgm-plugin-activation.php:2437
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:2438
+msgid "Source"
+msgstr "Zdroj"
+
+#: class-tgm-plugin-activation.php:2439
+msgid "Type"
+msgstr "Typ"
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Version"
+msgstr "Verze"
+
+#: class-tgm-plugin-activation.php:2444
+msgid "Status"
+msgstr "Status"
+
+#: class-tgm-plugin-activation.php:2492
+#, php-format
+msgid "Install %2$s"
+msgstr "Instalovat %2$s"
+
+#: class-tgm-plugin-activation.php:2496
+#, php-format
+msgid "Update %2$s"
+msgstr "Aktualizovat %2$s"
+
+#: class-tgm-plugin-activation.php:2501
+#, php-format
+msgid "Activate %2$s"
+msgstr "Aktivovat %2$s"
+
+#: class-tgm-plugin-activation.php:2571
+msgid "Upgrade message from the plugin author:"
+msgstr "Zpráva o aktualizaci od autora pluginu:"
+
+#: class-tgm-plugin-activation.php:2604
+msgid "Install"
+msgstr "Instalace"
+
+#: class-tgm-plugin-activation.php:2610
+msgid "Update"
+msgstr "Aktualizace"
+
+#: class-tgm-plugin-activation.php:2613
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: class-tgm-plugin-activation.php:2644
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Žádné pluginy nebyly vybrány k instalaci. Neproběhla žádná akce."
+
+#: class-tgm-plugin-activation.php:2646
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Žádné pluginy nebyly vybrány k aktualizaci. Neproběhla žádná akce."
+
+#: class-tgm-plugin-activation.php:2682
+msgid "No plugins are available to be installed at this time."
+msgstr "V tuto chvíli nejsou k dispozici žádné pluginy pro instalaci."
+
+#: class-tgm-plugin-activation.php:2684
+msgid "No plugins are available to be updated at this time."
+msgstr "V tuto chvíli nejsou k dispozici žádné pluginy pro aktualizaci."
+
+#: class-tgm-plugin-activation.php:2789
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Žádné pluginy nebyly vybrány k aktivaci. Neproběhla žádná akce."
+
+#: class-tgm-plugin-activation.php:2815
+msgid "No plugins are available to be activated at this time."
+msgstr "V tuto chvíli nejsou k dispozici žádné pluginy pro aktivaci."
+
+#: class-tgm-plugin-activation.php:3029
+msgid "Plugin activation failed."
+msgstr "Aktivace pluginu se nezdařila."
+
+#: class-tgm-plugin-activation.php:3363
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualizace pluginu %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Během instalace %1$s došlo k chybě: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3366
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalace %1$s se nezdařila."
+
+#: class-tgm-plugin-activation.php:3370
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Proces instalace a aktivace byl zahájen. Prosím buďte trpěliví, neboť proces "
+"může chvíli trvat."
+
+#: class-tgm-plugin-activation.php:3371
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s byl úspěšně nainstalován a aktivován."
+
+#: class-tgm-plugin-activation.php:3371 class-tgm-plugin-activation.php:3377
+msgid "Show Details"
+msgstr "Ukázat detaily"
+
+#: class-tgm-plugin-activation.php:3371 class-tgm-plugin-activation.php:3377
+msgid "Hide Details"
+msgstr "Skrýt detaily"
+
+#: class-tgm-plugin-activation.php:3372
+msgid "All installations and activations have been completed."
+msgstr "Všechny instalace a aktivace byly dokončeny."
+
+#: class-tgm-plugin-activation.php:3373
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalace a aktivace pluginu %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3376
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Proces instalace byl zahájen. Prosím buďte trpěliví, neboť proces může "
+"chvíli trvat."
+
+#: class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s úspěšně nainstalován."
+
+#: class-tgm-plugin-activation.php:3378
+msgid "All installations have been completed."
+msgstr "Instalace byly dokončeny."
+
+#: class-tgm-plugin-activation.php:3379
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalace pluginu %1$s (%2$d/%3$d)"
+
+#: comments.php:14 content-archives.php:16 content-grid.php:23 single.php:21
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Komentář"
+msgstr[1] "%1$s Komentářů"
+
+#: comments.php:23
+msgid "&larr; Older Comments"
+msgstr "&larr; Starší komentáře"
+
+#: comments.php:24
+msgid "Newer Comments &rarr;"
+msgstr "Novější komentáře &rarr;"
+
+#: comments.php:30
+msgid "Comments are closed."
+msgstr "Přidávání komentářů není povoleno."
+
+#: comments.php:35
+msgid "Your name"
+msgstr "Vaše jméno"
+
+#: comments.php:36
+msgid "Website"
+msgstr "Web"
+
+#: comments.php:37
+msgid "Comment..."
+msgstr "Komentář..."
+
+#: comments.php:41
+msgid "Leave a Comment"
+msgstr "Napsat komentář"
+
+#: functions.php:100
+msgid "= Menu ="
+msgstr "= Menu ="
+
+#: functions.php:101
+msgid "Home"
+msgstr "Domů"
+
+#: functions.php:140
+msgid "Primary Header Menu"
+msgstr "Hlavní navigace v záhlaví"
+
+#: functions.php:141
+msgid "Secondary Header Menu"
+msgstr "Sekundární navigace v záhlaví"
+
+#: functions.php:142
+msgid "Social Links Menu"
+msgstr "Odkazy sociálních sítí"
+
+#: functions.php:154
+msgid "Sidebar"
+msgstr "Postranní sloupec"
+
+#: functions.php:156
+msgid "Main sidebar that is displayed on all pages and posts."
+msgstr ""
+"Postranní sloupec, který se zobrazuje na všech stránkách a příspěvcích."
+
+#: functions.php:163
+msgid "Footer Left Widget Area"
+msgstr "Levá oblast pro widgety v zápatí"
+
+#: functions.php:165
+msgid "Left column with widgets in footer."
+msgstr "Levý sloupec s widgety v zápatí."
+
+#: functions.php:172
+msgid "Footer Middle Widget Area"
+msgstr "Prostřední oblast pro widgety v zápatí"
+
+#: functions.php:174
+msgid "Middle column with widgets in footer."
+msgstr "Prostřední sloupec s widgety v zápatí."
+
+#: functions.php:181
+msgid "Footer Right Widget Area"
+msgstr "Pravá oblast pro widgety v zápatí"
+
+#: functions.php:183
+msgid "Right column with widgets in footer."
+msgstr "Pravý sloupec s widgety v zápatí."
+
+#: functions.php:190
+msgid "Footer Notices"
+msgstr "Poznámky v zápatí"
+
+#: functions.php:192
+msgid "Line for copyright and other notices."
+msgstr "Řádek pro informace o autorských právech a další poznámky."
+
+#: functions.php:199
+msgid "Latest Posts Page Widget Area"
+msgstr "Oblast pro widgety na stránce s nejnovějšími příspěvky"
+
+#: functions.php:201
+msgid ""
+"Widget area that is displayed at the top of the Latest Posts (Blog) page."
+msgstr ""
+"Oblast pro widgety, která se zobrazuje nad výpisem nejnovějších příspěvků na "
+"stránce blogu."
+
+#: functions.php:226 tribe-events/list/single-event.php:67
+msgid "Read more"
+msgstr "Číst více"
+
+#: functions.php:241
+msgid "Post navigation"
+msgstr "Navigace mezi příspěvky"
+
+#: functions.php:249 search.php:31
+msgid "&larr; Previous"
+msgstr "&larr; Předchozí"
+
+#: functions.php:250 search.php:32
+msgid "Next &rarr;"
+msgstr "Další &rarr;"
+
+#: functions.php:274
+msgid "&larr; Previous post"
+msgstr "&larr; Předchozí příspěvek"
+
+#: functions.php:276
+msgid "Next post &rarr;"
+msgstr "Následující příspěvek &rarr;"
+
+#: functions.php:295
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:295
+msgid "(Edit)"
+msgstr "(Upravit)"
+
+#: functions.php:308
+msgid "(Post author)"
+msgstr "(Autor)"
+
+#: functions.php:314
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s v %2$s"
+
+#: functions.php:320
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentář čeká na schválení."
+
+#: functions.php:326
+msgid "Reply"
+msgstr "Odpovědět"
+
+#: functions.php:328 page.php:17 single.php:37
+#: template-full-width-without-title.php:17 template-full-width.php:18
+#: template-landing-page.php:17 template-logged-in.php:19
+#: template-without-title.php:17
+msgid "Edit"
+msgstr "Upravit"
+
+#: functions.php:421
+msgid "Install Recommended Plugins"
+msgstr "Instalovat doporučené pluginy"
+
+#: functions.php:423
+#, php-format
+msgid ""
+"The %1$s plugin is required for this theme. Click on the big blue button "
+"below to install and activate %1$s."
+msgstr ""
+"Plugin %1$s je vyžadován pro tuto šablonu. Klikněte na velké modré tlačítko "
+"níže pro nainstalování pluginu %1$s."
+
+#: functions.php:424
+#, php-format
+msgid ""
+"The %1$s is installed but currently inactive. Please go to the <a href=\"%2$s"
+"\">plugin administration page</a> page to activate it."
+msgstr ""
+"Plugin %1$s byl nainstalován, ale nyní je neaktivní. Přejděte prosím na <a "
+"href=\"%2$s\">stránku s administrací pluginů</a> a aktivujte jej."
+
+#: functions.php:425
+#, php-format
+msgid "Install %s Now"
+msgstr "Instalovat %s nyní"
+
+#: functions.php:428
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. <a href=\"%2$s\"><strong>Click here to "
+"begin the installation process</strong></a>. You may be asked for FTP "
+"credentials based on your server setup."
+msgstr ""
+"Tato šablona vyžaduje plugin %1$s. <a href=\"%2$s\"><strong>Klikněte zde pro "
+"zahájení instalace</strong></a>. V závislosti na nastavení Vašeho serveru "
+"možná budete vyzváni k zadání přístupových údajů k FTP."
+
+#: functions.php:429
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Je nám líto, ale bohužel nemáte dostatečná oprávnění k instalaci pluginu %s. "
+"Kontaktujte administrátora tohoto webu pro pomoc s instalací pluginu."
+
+#: functions.php:430
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. That plugin is currently inactive, so "
+"please go to the <a href=\"%2$s\">plugin administration page</a> to activate "
+"it."
+msgstr ""
+"Tato šablona vyžaduje plugin %1$s. Tento plugin je nyní neaktivní, proto "
+"prosím přejděte na <a href=\"%2$s\">stránku s administrací pluginů</a>a "
+"aktivujte jej."
+
+#: functions.php:431
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+"Je nám líto, ale bohužel nemáte dostatečná oprávnění k aktivaci pluginu %s. "
+"Kontaktujte administrátora tohoto webu pro pomoc s aktivací pluginu."
+
+#: functions.php:432
+msgid "Return to Recommended Plugins Installer"
+msgstr "Návrat na instalaci doporučených pluginů."
+
+#: index.php:13 index.php:14 inc/customizer.php:990
+msgid "Latest Posts"
+msgstr "Nejnovější příspěvky"
+
+#: page.php:16 single.php:36 template-full-width-without-title.php:16
+#: template-full-width.php:17 template-landing-page.php:16
+#: template-logged-in.php:18 template-without-title.php:16
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: search.php:11
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhledávání pro: %s"
+
+#: search.php:13
+msgid "Number of Results: "
+msgstr "Počet výsledků: "
+
+#: search.php:24
+msgid "Search results navigation"
+msgstr "Navigace mezi výsledky vyhledávání"
+
+#: search.php:47
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Je nám líto, ale Vašim kritériím nevyhovuje žádný výsledek. Zkuste to prosím "
+"znovu s jiným vyhledávacím dotazem."
+
+#: searchform.php:9
+msgid "Search here..."
+msgstr "Hledat..."
+
+#: single.php:57 inc/customizer.php:789
+msgid "Related Posts"
+msgstr "Související příspěvky"
+
+#: tag.php:11
+#, php-format
+msgid "Tag Archive: %s"
+msgstr "Archiv štítku: %s"
+
+#: template-logged-in.php:29
+msgid "You must be logged in to view this page."
+msgstr "Pro zobrazení obsahu této stránky musíte být přihlášeni."
+
+#: inc/customizer.php:10
+msgid "default"
+msgstr "výchozí"
+
+#: inc/customizer.php:249
+msgid "HappenStance General Settings"
+msgstr "HappenStance Obecná Nastavení"
+
+#: inc/customizer.php:254
+msgid "HappenStance Header Settings"
+msgstr "HappenStance Nastavení Záhlaví"
+
+#: inc/customizer.php:259
+msgid "HappenStance Posts Settings"
+msgstr "HappenStance Nastavení Příspěvků"
+
+#: inc/customizer.php:264
+msgid "HappenStance Post Entries/Blog Page Settings"
+msgstr "HappenStance Nastavení Výpisu Příspěvků"
+
+#: inc/customizer.php:269
+msgid "HappenStance Font Settings"
+msgstr "HappenStance Nastavení Písma"
+
+#: inc/customizer.php:285
+msgid "Color Scheme"
+msgstr "Barevné schéma"
+
+#: inc/customizer.php:301
+msgid "Layout Style"
+msgstr "Styl rozložení"
+
+#: inc/customizer.php:306
+msgid "Boxed"
+msgstr "Box"
+
+#: inc/customizer.php:307
+msgid "Wide"
+msgstr "Široké"
+
+#: inc/customizer.php:322
+msgid "Background Image Size"
+msgstr "Velikost obrázku na pozadí"
+
+#: inc/customizer.php:327
+msgid "Default"
+msgstr "Výchozí"
+
+#: inc/customizer.php:328
+msgid "Cover"
+msgstr "Pokrýt celé pozadí"
+
+#: inc/customizer.php:343
+msgid "Background Pattern (in Boxed layout style)"
+msgstr "Vzorek na pozadí (ve stylu rozložení Box)"
+
+#: inc/customizer.php:348 inc/customizer.php:398 inc/customizer.php:419
+#: inc/customizer.php:548 inc/customizer.php:569 inc/customizer.php:696
+#: inc/customizer.php:717 inc/customizer.php:738 inc/customizer.php:759
+#: inc/customizer.php:780 inc/customizer.php:898
+msgid "Display"
+msgstr "Zobrazit"
+
+#: inc/customizer.php:349 inc/customizer.php:399 inc/customizer.php:420
+#: inc/customizer.php:549 inc/customizer.php:570 inc/customizer.php:697
+#: inc/customizer.php:718 inc/customizer.php:739 inc/customizer.php:760
+#: inc/customizer.php:781 inc/customizer.php:899
+msgid "Hide"
+msgstr "Skrýt"
+
+#: inc/customizer.php:364
+msgid "Background Pattern Opacity"
+msgstr "Průhlednost vzorku na pozadí"
+
+#: inc/customizer.php:393
+msgid "Display Scroll-top Button"
+msgstr "Tlačítko pro rolování stránky nahoru"
+
+#: inc/customizer.php:414
+msgid "Display Shadow (in Boxed layout style)"
+msgstr "Stín stránky (ve stylu rozložení Box)"
+
+#: inc/customizer.php:435
+msgid "Sidebar Position"
+msgstr "Pozice postranního sloupce"
+
+#: inc/customizer.php:440
+msgid "Right"
+msgstr "Vpravo"
+
+#: inc/customizer.php:441
+msgid "Left"
+msgstr "Vlevo"
+
+#: inc/customizer.php:442
+msgid "Without Sidebar"
+msgstr "Bez postranního sloupce"
+
+#: inc/customizer.php:457
+msgid "Display Header Image"
+msgstr "Zobrazovat obrázek v záhlaví"
+
+#: inc/customizer.php:462
+msgid "Everywhere"
+msgstr "Všude"
+
+#: inc/customizer.php:463
+msgid "Only on Homepage"
+msgstr "Pouze na úvodní stránce"
+
+#: inc/customizer.php:478
+msgid "Homepage Header Image Headline"
+msgstr "Titulek na obrázku v záhlaví"
+
+#: inc/customizer.php:494
+msgid "Homepage Header Image Headline Color"
+msgstr "Barva titulku na obrázku v záhlaví"
+
+#: inc/customizer.php:510
+msgid "Homepage Header Image Link URL"
+msgstr "URL adresa odkazu na obrázku v záhlaví"
+
+#: inc/customizer.php:527
+msgid "Homepage Header Image Link Text"
+msgstr "Text odkazu na obrázku v záhlaví"
+
+#: inc/customizer.php:543
+msgid "Display Site Description"
+msgstr "Popis webu"
+
+#: inc/customizer.php:564
+msgid "Display Search Form"
+msgstr "Vyhledávací formulář"
+
+#: inc/customizer.php:585
+msgid "Fixed Primary Menu while Scrolling"
+msgstr "Pevná pozice Hlavní navigace při rolování"
+
+#: inc/customizer.php:590
+msgid "Enable"
+msgstr "Povolit"
+
+#: inc/customizer.php:591
+msgid "Disable"
+msgstr "Zakázat"
+
+#: inc/customizer.php:606
+msgid "Secondary Menu Format"
+msgstr "Formát Sekundární navigace"
+
+#: inc/customizer.php:611
+msgid "Static"
+msgstr "Statická"
+
+#: inc/customizer.php:612 inc/customizer.php:834
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/customizer.php:627
+msgid "Postal Address"
+msgstr "Poštovní adresa"
+
+#: inc/customizer.php:643
+msgid "Email Address"
+msgstr "E-mailová adresa"
+
+#: inc/customizer.php:659
+msgid "Phone Number"
+msgstr "Telefonní číslo"
+
+#: inc/customizer.php:675
+msgid "Skype Name"
+msgstr "Skype přezdívka"
+
+#: inc/customizer.php:691
+msgid "Display Featured Image on single posts"
+msgstr "Náhledový obrázek na příspěvcích"
+
+#: inc/customizer.php:712
+msgid "Display Manual Excerpt on single posts"
+msgstr "Stručný výpis příspěvku na příspěvcích"
+
+#: inc/customizer.php:733
+msgid "Display Meta Box on single posts"
+msgstr "Panel s metadaty na příspěvcích"
+
+#: inc/customizer.php:754
+msgid "Display Next/Previous Post Navigation on single posts"
+msgstr "Navigace mezi příspěvky (předchozí/další příspěvek)"
+
+#: inc/customizer.php:775
+msgid "Display Related Posts on single posts"
+msgstr "Panel se souvisejícími příspěvky"
+
+#: inc/customizer.php:796
+msgid "Related Posts Headline"
+msgstr "Nadpis panelu se souvisejícími příspěvky"
+
+#: inc/customizer.php:812
+msgid "Number of Related Posts"
+msgstr "Počet souvisejících příspěvků"
+
+#: inc/customizer.php:829
+msgid "Related Posts Format"
+msgstr "Formát souvisejících příspěvků"
+
+#: inc/customizer.php:835
+msgid "Unordered List"
+msgstr "Neuspořádaný seznam (výčet)"
+
+#: inc/customizer.php:850
+msgid "Post Entries Format"
+msgstr "Formát výpisu příspěvků"
+
+#: inc/customizer.php:855
+msgid "One Column"
+msgstr "Jeden sloupec"
+
+#: inc/customizer.php:856
+msgid "Grid - Masonry"
+msgstr "Mřížka (Masonry)"
+
+#: inc/customizer.php:871
+msgid "Number of Columns in Grid - Masonry Format"
+msgstr "Počet sloupců ve formátu Mřížka (Masonry)"
+
+#: inc/customizer.php:893
+msgid "Display Meta Box on Post Entries"
+msgstr "Panel s metadaty ve výpisu příspěvků"
+
+#: inc/customizer.php:914
+msgid "Featured Images Size"
+msgstr "Velikost náhledových obrázků"
+
+#: inc/customizer.php:919
+msgid "Full Size"
+msgstr "Plná velikost"
+
+#: inc/customizer.php:920
+msgid "Thumbnail Size"
+msgstr "Miniatury"
+
+#: inc/customizer.php:935
+msgid "Featured Images Hover Effect"
+msgstr "Hover efekt náhledových obrázků (po najetí myší)"
+
+#: inc/customizer.php:940
+msgid "None"
+msgstr "Žádný"
+
+#: inc/customizer.php:941
+msgid "Fade"
+msgstr "Vyblednutí"
+
+#: inc/customizer.php:942
+msgid "Focus"
+msgstr "Zaměření"
+
+#: inc/customizer.php:943
+msgid "Shadow"
+msgstr "Stín"
+
+#: inc/customizer.php:944
+msgid "Tilt"
+msgstr "Pootočení"
+
+#: inc/customizer.php:959
+msgid "Content/Excerpt Displaying"
+msgstr "Zobrazovat celý obsah/úryvek příspěvků"
+
+#: inc/customizer.php:964
+msgid "Excerpt"
+msgstr "Úryvek"
+
+#: inc/customizer.php:965
+msgid "Content"
+msgstr "Obsah"
+
+#: inc/customizer.php:980
+msgid "Excerpt Length (number of words)"
+msgstr "Délka automatického úryvku (počet slov):"
+
+#: inc/customizer.php:997
+msgid "Latest Posts (Blog) Page Headline"
+msgstr "Nadpis stránky s nejnovějšími příspěvky"
+
+#: inc/customizer.php:1013
+msgid "Character Set"
+msgstr "Znaková sada"
+
+#: inc/customizer.php:1018
+msgid "Latin"
+msgstr "Latinka"
+
+#: inc/customizer.php:1019
+msgid "Latin Extended"
+msgstr "Latinka rozšířená"
+
+#: inc/customizer.php:1020
+msgid "Cyrillic"
+msgstr "Cyrilice"
+
+#: inc/customizer.php:1021
+msgid "Cyrillic Extended"
+msgstr "Cyrilice rozšířená"
+
+#: inc/customizer.php:1022
+msgid "Greek"
+msgstr "Řečtina"
+
+#: inc/customizer.php:1023
+msgid "Greek Extended"
+msgstr "Řečtina rozšířená"
+
+#: inc/customizer.php:1024
+msgid "Vietnamese"
+msgstr "Vietnamština"
+
+#: inc/customizer.php:1025
+msgid "Arabic"
+msgstr "Arabština"
+
+#: inc/customizer.php:1026
+msgid "Bengali"
+msgstr "Bengálština"
+
+#: inc/customizer.php:1027
+msgid "Hebrew"
+msgstr "Hebrejština"
+
+#: inc/customizer.php:1040
+msgid "Body font"
+msgstr "Písmo pro obsah stránek"
+
+#: inc/customizer.php:1057
+msgid "Body font size"
+msgstr "Velikost písma pro obsah stránek"
+
+#: inc/customizer.php:1075
+msgid "Site Title font"
+msgstr "Písmo pro název webu"
+
+#: inc/customizer.php:1092
+msgid "Site Title font size"
+msgstr "Velikost písma pro název webu"
+
+#: inc/customizer.php:1110
+msgid "Site Description font"
+msgstr "Písmo pro popis webu"
+
+#: inc/customizer.php:1127
+msgid "Site Description font size"
+msgstr "Velikost písma pro popis webu"
+
+#: inc/customizer.php:1145
+msgid "Page/Post Headlines (h1 - h6) font"
+msgstr "Písmo pro nadpisy (h1 - h6)"
+
+#: inc/customizer.php:1162
+msgid "H1 Headlines font size"
+msgstr "Velikost písma pro nadpisy H1"
+
+#: inc/customizer.php:1179
+msgid "H2 Headlines font size"
+msgstr "Velikost písma pro nadpisy H2"
+
+#: inc/customizer.php:1196
+msgid "H3 Headlines font size"
+msgstr "Velikost písma pro nadpisy H3"
+
+#: inc/customizer.php:1213
+msgid "H4 Headlines font size"
+msgstr "Velikost písma pro nadpisy H4"
+
+#: inc/customizer.php:1230
+msgid "H5 Headlines font size"
+msgstr "Velikost písma pro nadpisy H5"
+
+#: inc/customizer.php:1247
+msgid "H6 Headlines font size"
+msgstr "Velikost písma pro nadpisy H6"
+
+#: inc/customizer.php:1265
+msgid "Post Entry Headline font"
+msgstr "Písmo pro nadpisy ve výpisu příspěvků"
+
+#: inc/customizer.php:1282
+msgid "Post Entry Headline font size"
+msgstr "Velikost písma pro nadpisy ve výpisu příspěvků"
+
+#: inc/customizer.php:1300
+msgid "Sidebar/Footer Widget Headlines font"
+msgstr "Písmo pro nadpisy widgetů v postranním sloupci/zápatí"
+
+#: inc/customizer.php:1317
+msgid "Sidebar Widget Headlines font size"
+msgstr "Velikost písma pro nadpisy widgetů v postranním sloupci"
+
+#: inc/customizer.php:1334
+msgid "Footer Widget Headlines font size"
+msgstr "Velikost písma pro nadpisy widgetů v zápatí"
+
+#: inc/customizer.php:1352
+msgid "Latest Posts Page Widgets Headline font"
+msgstr "Písmo pro nadpisy widgetů na stránce s nejnovějšími příspěvky"
+
+#: inc/customizer.php:1369
+msgid "Latest Posts Page Widgets Headline font size"
+msgstr "Velikost písma pro nadpisy widgetů na stránce s nejnovějšími příspěvky"
+
+#: inc/customizer.php:1387
+msgid "Primary Header Menu font"
+msgstr "Písmo pro Hlavní navigaci v záhlaví"
+
+#: inc/customizer.php:1404
+msgid "Primary Header Menu font size"
+msgstr "Velikost písma pro Hlavní navigaci v záhlaví"
+
+#: inc/customizer.php:1422
+msgid "Secondary Header Menu font"
+msgstr "Písmo pro Sekundární navigaci v záhlaví"
+
+#: inc/customizer.php:1439
+msgid "Secondary Header Menu font size"
+msgstr "Velikost písma pro Sekundární navigaci v záhlaví"
+
+#: tribe-events/single-event.php:23
+#, php-format
+msgid "All %s"
+msgstr "Všechny %s"
+
+#: tribe-events/single-event.php:41 tribe-events/single-event.php:74
+#, php-format
+msgid "%s Navigation"
+msgstr "%s Navigace"
+
+#: style.css:5
+msgid ""
+"HappenStance is an easily customizable theme that can be used for your blog, "
+"magazine, business, eCommerce or church website. It is a fully responsive "
+"and Retina ready theme that allows for easy viewing on any device. It can be "
+"adapted to your needs using the Theme Customizer. HappenStance offers custom "
+"color and font settings, selection between Boxed or Wide layout, 2 blog "
+"layouts (One Column or Grid - Masonry) with a widget area on the blog page, "
+"primary and secondary header menus, contact information and social links "
+"menu in header, sidebar and footer widget areas, 5 custom page templates and "
+"much more. It is compatible with the popular plugins like WooCommerce, The "
+"Events Calendar and Breadcrumb NavXT. IMPORTANT: The 3.0.0 version is a "
+"major update. If you are using an older version of this theme, I strongly "
+"encourage you to make a backup before you update it to the latest version."
+msgstr ""
+"HappenStance je snadno přizpůsobitelná šablona, která může být použita pro "
+"váš blog, magazín, firemní web, e-shop nebo církevní stránky. Jedná se o "
+"plně responzivní šablonu přizpůsobenou pro Retina displeje, která umožňuje "
+"snadné prohlížení stránek na všech zařízeních. Lze ji přizpůsobit vašim "
+"potřebám pomocí rozšířených nastavení v panelu Přizpůsobit. HappenStance "
+"nabízí uživatelské nastavení barev a písem, výběr mezi úzkým a širokým "
+"layoutem, 2 vzhledy pro stránku blogu (jeden sloupec nebo mřížka - Masonry) "
+"s oblastí pro widgety nad výpisem nejnovějších příspěvků, hlavní a "
+"sekundární navigaci, kontaktní informace a odkazy na sociální sítě v "
+"záhlaví, oblasti pro widgety v postranním sloupci a zápatí, 5 šablon pro "
+"stránky a ještě mnohem více. Šablona je kompatibilní s populárními pluginy "
+"jako WooCommerce, The Events Calendar a Breadcrumb NavXT. DŮLEŽITÉ: Verze "
+"3.0.0 je rozsáhlou aktualizací. Pokud používáte starší verzi této šablony, "
+"silně vám doporučuji provést zálohu dat před aktualizací na nejnovější verzi."
+
+#: template-full-width.php:3
+msgid "Full Width"
+msgstr "Přes celou šířku"
+
+#: template-full-width-without-title.php:3
+msgid "Full Width without Title"
+msgstr "Přes celou šířku, bez titulku"
+
+#: template-landing-page.php:3
+msgid "Landing Page"
+msgstr "Vstupní stránka"
+
+#: template-logged-in.php:3
+msgid "Logged In"
+msgstr "Pro přihlášené"
+
+#: template-without-title.php:3
+msgid "Page without Title"
+msgstr "Bez titulku"
+
+#~ msgid "Something went wrong."
+#~ msgstr "Něco se pokazilo."
+
+#~ msgid "Private Repository"
+#~ msgstr "Vlastní adresář"
+
+#~ msgid "Install package not available."
+#~ msgstr "Instalační balík není k dispozici."
+
+#~ msgid "Unpacking the package&#8230;"
+#~ msgstr "Rozbalování instalačního balíku&#8230;"
+
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "Instalace pluginu&#8230;"
+
+#~ msgid "Plugin install failed."
+#~ msgstr "Instalace pluginu se nezdařila."
+
+#~ msgid "Plugin installed successfully."
+#~ msgstr "Plugin byl úspěšně nainstalován."
+
+#~ msgid "Header Slideshow"
+#~ msgstr "Slideshow v záhlaví"
+
+#~ msgid "Insert here a Slideshow ID to display a slideshow in header."
+#~ msgstr "Vložte Slideshow ID pro zobrazení slideshow v záhlaví."
+
+#~ msgid "Insert here the full URL address of the Video Thumbnail."
+#~ msgstr "Vložte celou URL adresu náhledového videa."
+
+#~ msgid "Carousel Menu"
+#~ msgstr "Carousel Menu"
+
+#~ msgid ""
+#~ "The line for copyright and other notices below the footer widget areas. "
+#~ "Insert here one Text widget. The \"Title\" field at this widget should "
+#~ "stay empty."
+#~ msgstr ""
+#~ "Řádek pro informace o autorství a další poznámky pod oblastmi pro widgety "
+#~ "v zápatí. Vložte sem jeden textový widget. Pole \"Název\" by u tohoto "
+#~ "widgetu mělo zůstat prázdné."
+
+#~ msgid "Homepage slideshow"
+#~ msgstr "Slideshow na úvodní stránce"
+
+#~ msgid ""
+#~ "The area for Cyclone Slider Widget which displays a slideshow on your "
+#~ "homepage."
+#~ msgstr ""
+#~ "Oblast určená pro vložení Cyclone Slider Widgetu pro zobrazení slideshow "
+#~ "na úvodní stránce."
+
+#~ msgid "HappenStance"
+#~ msgstr "HappenStance"
+
+#~ msgid "View Larger Image"
+#~ msgstr "Zobrazit větší obrázek"
+
+#~ msgid "Learn More"
+#~ msgstr "Dozvědět se více"
+
+#~ msgid "Slide type not supported."
+#~ msgstr "Typ slideru není podporován."
+
+#~ msgid "settings reset."
+#~ msgstr "nastavení resetováno."
+
+#~ msgid "Save all changes"
+#~ msgstr "Uložit změny"
+
+#~ msgid "Reset all settings"
+#~ msgstr "Obnovit výchozí nastavení"
+
+#~ msgid "Theme Options"
+#~ msgstr "Nastavení šablony"
+
+#~ msgid "No location found for the entered address."
+#~ msgstr "Pro zadanou adresu nebylo nalezeno žádné umístění."
+
+#~ msgid "Invalid request. Did you enter an address?"
+#~ msgstr "Neplatný požadavek. Zadali jste adresu?"
+
+#~ msgid ""
+#~ "Something went wrong while retrieving your map, please ensure you have "
+#~ "entered the short code correctly."
+#~ msgstr ""
+#~ "Něco se pokazilo při načítání mapy, ujistěte se prosím, zdali jste "
+#~ "správně zadali shortcode."
+
+#~ msgid "Unable to contact Google API service."
+#~ msgstr "Nelze kontaktovat službu Google API."
+
+#~ msgid "Displays Facebook Like Box."
+#~ msgstr "Zobrazí Facebook Like Box."
+
+#~ msgid "HappenStance Facebook Like Box Widget"
+#~ msgstr "HappenStance Facebook Like Box Widget"
+
+#~ msgid "Title:"
+#~ msgstr "Titulek:"
+
+#~ msgid "Facebook Page URL:"
+#~ msgstr "URL Facebookové stránky:"
+
+#~ msgid ""
+#~ "Insert here the full URL of your Facebook Page that will be liked "
+#~ "(example: http://www.facebook.com/FacebookDevelopers)."
+#~ msgstr ""
+#~ "Zadejte celou URL adresu stránky, která má být označována To se mi líbí "
+#~ "(příklad: http://www.facebook.com/FacebookDevelopers)."
+
+#~ msgid "Like Box Height: (optional)"
+#~ msgstr "Výška Like Boxu: (volitelné)"
+
+#~ msgid ""
+#~ "Insert here the height of Like Box. The value is in pixels, but in the "
+#~ "field please write ONLY NUMBERS (without symbol \"px\")!"
+#~ msgstr ""
+#~ "Zadejte výšku Like Boxu. Hodnota je v pixelech, ale do tohoto pole prosím "
+#~ "zapisujte POUZE ČÍSLICE (bez symbolu \"px\")!"
+
+#~ msgid "Show Faces:"
+#~ msgstr "Zobrazovat tváře:"
+
+#~ msgid ""
+#~ "Specify whether to display profile photos of people who like the page."
+#~ msgstr ""
+#~ "Určete, zdali se mají zobrazovat profilové obrázky uživatelů, kterým se "
+#~ "stránka líbí."
+
+#~ msgid "Show Stream:"
+#~ msgstr "Zobrazovat příspěvky:"
+
+#~ msgid "Displays a box with your custom text and icon."
+#~ msgstr "Zobrazí box s textem a ikonou."
+
+#~ msgid "HappenStance Info-Box"
+#~ msgstr "HappenStance Info-Box"
+
+#~ msgid "Icon:"
+#~ msgstr "Ikona:"
+
+#~ msgid ""
+#~ "Insert here the name of an icon (example: <strong>icon_calendar</strong>)."
+#~ msgstr "Vložte zde název ikony (příklad: <strong>icon_calendar</strong>)."
+
+#~ msgid "Text:"
+#~ msgstr "Text:"
+
+#~ msgid ""
+#~ "Displays the latest posts from the selected category as a column with "
+#~ "highlighted first post."
+#~ msgstr ""
+#~ "Zobrazí nejnovější příspěvky z vybrané kategorie jako sloupec se "
+#~ "zvýrazněným prvním příspěvkem."
+
+#~ msgid "HappenStance Posts-Column"
+#~ msgstr "HappenStance Posts-Column"
+
+#~ msgid "Category:"
+#~ msgstr "Rubrika:"
+
+#~ msgid "Select a category of posts."
+#~ msgstr "Vyberte rubriku příspěvků."
+
+#~ msgid ""
+#~ "Insert here the number of latest posts from the selected category which "
+#~ "you want to display."
+#~ msgstr ""
+#~ "Zadejte zde počet nejnovějších příspěvků z dané rubriky, které chcete "
+#~ "zobrazovat."
+
+#~ msgid ""
+#~ "Displays the latest posts from the selected category in the default "
+#~ "manner."
+#~ msgstr "Zobrazí nejnovější příspěvky z vybrané kategorie výchozím způsobem."
+
+#~ msgid "HappenStance Posts-Default"
+#~ msgstr "HappenStance Posts-Default"
+
+#~ msgid "Displays the latest posts from the selected category as a grid."
+#~ msgstr "Zobrazí nejnovější příspěvky z vybrané kategorie v podobě mřížky."
+
+#~ msgid "HappenStance Posts-Grid"
+#~ msgstr "HappenStance Posts-Grid"
+
+#~ msgid ""
+#~ "Displays the latest posts from the selected category as an unordered list "
+#~ "with highlighted first post."
+#~ msgstr ""
+#~ "Zobrazí nejnovější příspěvky z vybrané kategorie jako nečíslovaný seznam "
+#~ "se zvýrazněným prvním příspěvkem."
+
+#~ msgid "Displays the latest posts from the selected category as a slider."
+#~ msgstr "Zobrazí nejnovější příspěvky z vybrané kategorie v podobě slideru."
+
+#~ msgid "HappenStance Posts-Slider"
+#~ msgstr "HappenStance Posts-Slider"
+
+#~ msgid ""
+#~ "Displays the latest posts from the selected category as the thumbnails."
+#~ msgstr ""
+#~ "Zobrazí nejnovější příspěvky z vybrané kategorie v podobě náhledových "
+#~ "obrázků."
+
+#~ msgid "HappenStance Posts-Thumbnail"
+#~ msgstr "HappenStance Posts-Thumbnail"
+
+#~ msgid "Twitter widget by HappenStance"
+#~ msgstr "Twitter widget pro HappenStance"
+
+#~ msgid "HappenStance Twitter Widget"
+#~ msgstr "HappenStance Twitter Widget"
+
+#~ msgid "Join us on Twitter"
+#~ msgstr "Připojte se k nám na Twitteru"
+
+#~ msgid "Twitter Username:"
+#~ msgstr "Twitter uživatelské jméno:"
+
+#~ msgid "Insert your Twitter username. (ex: happenstance)."
+#~ msgstr ""
+#~ "Vložte Vaše uživatelské jméno na síti Twitter. (příklad: happenstance)."
+
+#~ msgid ""
+#~ "Display popular posts, recent posts, comments and tags in tabbed format."
+#~ msgstr ""
+#~ "Zobrazí populární příspěvky, nejnovější příspěvky, komentáře a štítky v "
+#~ "podobě záložek."
+
+#~ msgid "Select Tabs"
+#~ msgstr "Vyberte Záložky"
+
+#~ msgid "Popular Tab"
+#~ msgstr "Záložka Populární"
+
+#~ msgid "Recent Tab"
+#~ msgstr "Záložka Nejnovější"
+
+#~ msgid "Comments Tab"
+#~ msgstr "Záložka Komentáře"
+
+#~ msgid "Tags Tab"
+#~ msgstr "Záložka Štítky"
+
+#~ msgid "Tab Order"
+#~ msgstr "Pořadí Záložek"
+
+#~ msgid "Popular"
+#~ msgstr "Populární"
+
+#~ msgid "Recent"
+#~ msgstr "Nejnovější"
+
+#~ msgid "Comments"
+#~ msgstr "Komentáře"
+
+#~ msgid "Tags"
+#~ msgstr "Štítky"
+
+#~ msgid "Advanced Options"
+#~ msgstr "Pokročilé Možnosti"
+
+#~ msgid "Allow pagination"
+#~ msgstr "Povolit stránkování"
+
+#~ msgid "Number of posts to show:"
+#~ msgstr "Počet příspěvků:"
+
+#~ msgid "Show post thumbnails"
+#~ msgstr "Zobrazovat náhledové obrázky"
+
+#~ msgid "Show post date"
+#~ msgstr "Zobrazit datum publikování"
+
+#~ msgid "Show number of comments"
+#~ msgstr "Zobrazovat počet komentářů"
+
+#~ msgid "Show post excerpt"
+#~ msgstr "Zobrazit úvodní text"
+
+#~ msgid "Number of comments on Comments Tab:"
+#~ msgstr "Počet komentářů v Záložce Komentáře:"
+
+#~ msgid "Show avatars on Comments Tab"
+#~ msgstr "Zobrazovat avatary v Záložce Komentáře"
+
+#~ msgid "No Comment"
+#~ msgstr "0 Komentářů"
+
+#~ msgid "No comments yet."
+#~ msgstr "Zatím žádné komentáře."
+
+#~ msgid "No tags created."
+#~ msgstr "Žádné štítky."

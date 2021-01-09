@@ -1,0 +1,141 @@
+ Q-CODES
+
+QAM : What is the weather condition in....?
+QAZ : There is a thunderstorm here.
+QFX : I am transmitting in low power.
+
+
+ POPULAR Q-CODES IN CW TELEGRAPHY NETWORK
+
+QNA : Please answer in this order...
+QNB : Please relay between... and ...
+QNC : News for everybody.
+QND : Network with a control or anchor station
+QNE : Standby all stations
+QNF : Network without control or anchor station
+QNG : Please take over as control/anchor station
+QNH : Your frequency is very high
+QNI : * Network members please check in
+      * ... (callsign) checking in
+QNJ : Do you copy me or ... (callsign)?
+QNK : Please send a message(s).
+QNL : Your frequency is very low.
+QNM : You are disturbing the network! Please stop transmitting.
+QNN : * The control/anchor station is ...
+      * Who is the control/anchor?
+QNO : Station ... is leaving the network.
+QNP : I cannot copy you (or ... callsign)
+QNQ : Transfer to frequency/channel ... and wait until ... (callsign) finishes his  message then you can send him your own message.
+QNR : Acknowledge ... and copy his messages.
+QNS : * The following stations are in the network ...
+      * Which stations are in the network?
+QNT : Requesting permission to leave the network for ... minutes.
+QNU : There are messages for you, please standby.
+QNV : If necessary, contact ... and transfer to ... kHz/MHz.
+QNW : How should I send further messages?
+QNX : * You are permitted to leave the network.
+      * Requesting permission to leave the network.
+QNY : Change frequency to ... kHz/MHz to contact ...
+QNZ : Please send accurately in my transmitting frequency.
+QOF : Question : How is the quality of my audio (tone)?
+      Answer : Your audio (tone) is ... 1. not readable
+                                        2. quite readable
+                                        3. very readable
+QQQ : I must break the radio traffic.
+
+
+ QR CODES WHICH ARE POPULAR IN VHF-FM NETWORKS
+
+QRA : My callsign is ... Question : What is your callsign?
+QRB : Distance between two stations ...
+QRG : Exact frequency (channel)
+QRH : Your signal is fading. Question : Does my signal fade?
+QRI : Question : How is the quality of my tone?
+      Answer :  Your tone is ... 1.  good
+                                 2. fluctuating
+                                 3.  bad
+QRJ : Weak signal. Question : Is my signal weak?
+QRK : Question : How is the readability of my audio?
+      Answer : The readability of my audio is :  1.  very bad
+                                                 2.  poor
+                                                 3.  fair
+                                                 4.  good
+                                                 5. excellent
+QRL : I am busy. QRL also means work, occupation or office.
+QRM : Any type of interference or disturbance.
+      * Your transmission has   1.  no
+                                2. slight
+                                3. regular
+                                4. strong
+                                5. very strong ... interference
+QRN : Atmospheric interference
+      * My reception is  1.  not
+                         2. slightly
+                         3. regularly
+                         4. strongly
+                         5. very strongly ... disturbed by atmospheric interference
+QRO : High transmitting power.
+            Question : Should I increase my transmitting power?
+            Answer : Increase your transmitting power.
+QRP : Low transmitting power.
+      Question : Should I decrease my transmitting power?
+      Answer : Decrease your transmitting power.
+QRQ : Question : Should I speak faster ? or in telegraphy : Should I send faster?
+      Answer : Speak faster or in telegraphy : Send ... words per minute.
+QRRR : Emergency signal in amateur radio.
+QRS : Question : Should I speak slower? or in telegraphy : Should I send slower?
+      Answer : Speak slower or in telegraphy: Send ... words per minute.
+QRT : End of contact. Sign off.
+      Question : Shall we sign off?
+      Answer : We shall sign off.
+QRU : Question : Do you have anything for me? or Do you have any message for me?
+      Answer : I have nothing for you.
+QRV : Question : Are you ready?
+      Answer : I am ready.
+QRW : Please inform ... (callsign) that I will call him in ... kHz/MHz.
+QRX : Question : When are you going to call me? or I am standing by.
+      Answer : I am going to call you at ... o'clock in ... kHz/MHz.
+QRY : What is my turn? You are number ...
+QRZ : Who is calling me? or : What is your callsign?
+QSA : General code for signal strength
+      * Your signal strength is ... 1.  very weak
+                                    2.  weak
+                                    3.  quite strong
+                                    4.  strong
+                                    5.  very strong
+QSB : Fading of signal strength. Your signal is fading.
+QSD : Poor keying or poor audio
+QSK : I can hear between my messages.
+QSL : Acknowledgment of reception.
+      Request : Please acknowledge my call.
+      Answer : I am acknowledging you call.
+QSM : Question : Should I repeat the last message?
+      Answer : Repeat the last message.
+QSO : Radio contact connection, talk.
+QSP : I will relay the information to ... or: Please relay the information to ...
+QSS : Question : What frequency are you going to use?
+      Answer : I will use the frequency ...
+QST : Information for everybody.
+QSU : Answer/transmit in this frequency ...
+QSUF : I can contact ... (callsign or name) by telephone.
+QSV : Transmit a continous row of V's
+QSW : I am going to transmit in ... kHz/MHz
+QSX : I am receiving in ... kHz/MHz or: I am ready to receive ... (callsign) in ...kHz/MHz. or: I am standing by in ... kHz/MHz
+QSY : Transfer to frequency (channel) ...
+QSZ : Please say every work twice.
+QTA : This report is invalid.
+QTC : I have a message for you.
+QTH : Location
+      Question : What is your location ?
+      Answer : My location is ...
+QTHR : The callsign is verified.
+QTR : Exact time. The time is ... o'clock/hours
+QTU : Question : What time does your station operate?
+      Answer : My station operates from ... hours up to ... hours.
+QTX : I am ready to communicate with you up to ... hours.
+QUA : Do you have reports/news from ... ?
+      Here are the reports/news from ...
+QUE : Can we communicate in telegraphy?
+QUF : Did you/I receive the emergency call from ...
+QUM : I am resuming normal operation.
+QZY : I cannot copy/hear you.

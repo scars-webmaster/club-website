@@ -1,0 +1,215 @@
+.srr_settings h4{
+    border-bottom: 1px solid #DFDFDF;
+    margin: 15px 0 10px 0;
+    padding: 0 0 10px 0;
+    font-size: 14px;
+}
+.srr_settings td {
+    padding: 5px 0;
+}
+.srr_small_text{
+    font-size: 11px;
+    color: #666666;
+}
+
+.srr_row{
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 10px 0;
+}
+.srr_label{
+    width: 60%;
+    padding-right: 15px;
+    box-sizing: border-box;
+}
+.srr_label.srr_sm{
+    width: 30%
+}
+.srr_label.srr_xsm{
+    width: 20%
+}
+.srr_field{
+    flex: 1;
+}
+
+.srr_tab_list {
+    display: flex;
+    background: #f7f7f7;
+    margin: 15px -15px;
+    padding: 0 15px;
+    border-top: 1px solid #dfdfdf;
+}
+.srr_tab_list li{
+    margin: 0;
+}
+.srr_tab_list a{
+    padding: 10px 15px;
+    text-decoration: none;
+    border-bottom: 3px solid transparent;
+    display: inline-block;
+}
+.srr_tab_list a.active{
+    border-bottom-color: inherit;
+}
+.srr_tab_list a:hover{
+    border-bottom-color: #dfdfdf;
+}
+.srr_settings > section{
+    display: none;
+}
+.srr_settings > section.active{
+    display: block;
+}
+
+
+.srr_tt{
+    position: relative;
+    display: inline-block;
+    margin-left: 5px;
+    cursor: help;
+}
+.srr_tt:hover, .srr_tt:focus{
+    color: #000;
+}
+.srr_tt:hover .srr_tt_text, .srr_tt:focus .srr_tt_text{
+    display: block;
+}
+.srr_tt_text{
+    display: none;
+    width: 300px;
+    position: absolute;
+    top: 0;
+    left: 30px;
+}
+.srr_tt > .srr_tt_text span {
+    background: #333;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
+    box-shadow: 0 0 4px 0px rgb(0 0 0 / 0.5);
+    display: inline-block;
+}
+
+
+.srr_note{
+    border: 1px solid #FFD893;
+    padding: 10px;
+    background: #FFFEDA;
+    margin: 10px 0 0;
+    display: block;
+    border-radius: 3px;
+}
+.srr_survey p {
+    border: 1px solid #dfdfdf;
+    padding: 15px;
+    font-size: 12px;
+    background: #fffbe8;
+    margin: 0 -15px;
+    border-width: 1px 0;
+}
+.srr_survey p span{
+    background: #ffe660;
+    padding: 2px 5px;
+    border-radius: 3px;
+    margin: 0 5px 0 0;
+}
+.srr_survey .button-primary{
+    float: right;
+    margin: 10px 0 0 10px;
+}
+.srr_info{
+    border: 1px solid #dfdfdf;
+    margin: 15px -15px;
+    padding: 10px 15px;
+    background: #fafafa;
+    border-width: 0 0 1px 0;
+}
+.srr_info p{
+    margin: 0;
+}
+.srr_info a{
+    text-decoration: none;
+}
+.srr_info a:hover {
+    text-decoration: underline;
+}
+
+.srr_pro {
+    border: 1px solid #ece9a5;
+    margin: 20px -15px -16px -15px;
+    padding: 10px 15px;
+    background: #fffdf0;
+    border-width: 1px 0 2px 0;
+    color: #011936;
+}
+.srr_pro_label {
+    background: gold;
+    font-weight: bold;
+    font-style: italic;
+    padding: 5px 7px;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 0.25em 10px 0 0;
+}
+.srr_pro_intro {
+    display: flex;
+    flex-wrap: nowrap;
+    cursor: pointer;
+    margin: -10px -15px;
+    padding: 10px 15px;
+}
+.srr_pro_intro:hover {
+    box-shadow: 0 0 4px 0px #FFC107;
+    position: relative;
+}
+.srr_pro_intro > p {
+    margin: 0 0 0 5px;
+    flex-basis: 100%;
+}
+.srr_pro_intro > p span{
+    font-style: italic;
+}
+.srr_pro_intro.srr_pro_expand .srr_pro_more{
+    transform: rotate(180deg);
+}
+.srr_pro_intro.srr_pro_expand {
+    border-bottom: 1px dashed #ece9a5;
+}
+
+.srr_pro_details {
+    display: none;
+    margin: 0 0 0 35px;
+    padding-top: 10px;
+}
+.srr_pro_features {
+    margin: 20px 0;
+}
+.srr_pro_features li {
+    margin: 0 0 15px 20px;
+    position: relative;
+    font-weight: bold;
+}
+.srr_pro_features li:before{
+    font-family: Dashicons;
+    content: "\f147";
+    font-size: 20px;
+    position: absolute;
+    top: -4px;
+    left: -25px;
+    color: lightseagreen;
+}
+.srr_pro_features li span{
+    font-weight: normal;
+    font-style: italic;
+}
+.srr_pro_details .button-primary{
+    background: #009688;
+    border-color: #026f65;
+    margin-right: 5px;
+}
+
+div[id*="super_rss_reader"] .widget-title h3 {
+    background-image: url(../images/super-rss-reader-sm.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}

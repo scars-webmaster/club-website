@@ -1,0 +1,38 @@
+[pl_post_props post_title="practicearea" post_name="practicearea" featured_image="" ele_bg_hover_delay="400" post_excerpt="" post_status="publish"]
+[/pl_post_props]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="60px,0px,60px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,40,,500,,,Solid,1,,,"]
+
+
+Practice Areas[/pl_heading]
+[pl_text ele_bg_hover_delay="400"]
+
+
+<p>Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. Turpis in eu mi bibendum neque egestas congue quisque. Eu non diam phasellus vestibulum lorem.</p>[/pl_text]
+[pl_iconbox service_icon="fa fa-pied-piper-alt" service_alignment="left" service_vertical_alignment="top" service_icon_view="stacked" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="30" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Criminal Law" service_title_spacing="0,0,6,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#104179ff" service_content_spacing="0,0,0,10"]
+
+
+<p>Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met.</p>[/pl_iconbox]
+[pl_iconbox service_icon="fa fa-trophy" service_alignment="left" service_vertical_alignment="top" service_icon_view="stacked" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="30" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Sports Law" service_title_spacing="0,0,6,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#104179ff" service_content_spacing="0,0,0,10"]
+
+
+<p>Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met.</p>[/pl_iconbox]
+[pl_iconbox service_icon="fa fa-building" service_alignment="left" service_vertical_alignment="top" service_icon_view="stacked" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="30" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Real Estate Law" service_title_spacing="0,0,6,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#104179ff" service_content_spacing="0,0,0,10"]
+
+
+<p>Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met.</p>[/pl_iconbox]
+[pl_iconbox service_icon="fa fa-briefcase" service_alignment="left" service_vertical_alignment="top" service_icon_view="stacked" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="30" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Business Law" service_title_spacing="0,0,6,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#104179ff" service_content_spacing="0,0,0,10"]
+
+
+<p>Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met.</p>[/pl_iconbox]
+[pl_iconbox service_icon="fa fa-anchor" service_alignment="left" service_vertical_alignment="top" service_icon_view="stacked" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="30" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Religion Law" service_title_spacing="0,0,6,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#104179ff" service_content_spacing="0,0,0,10"]
+
+
+<p>Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met.</p>[/pl_iconbox]
+[pl_iconbox service_icon="fa fa-thumbs-o-up" service_alignment="left" service_vertical_alignment="top" service_icon_view="stacked" service_icon_padding="15" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="30" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Future Proof" service_title_spacing="0,0,6,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_icon_background_color="#104179ff" service_content_spacing="0,0,0,10"]
+
+
+<p>Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met.</p>[/pl_iconbox]
+[/pl_col]
+[/pl_row]

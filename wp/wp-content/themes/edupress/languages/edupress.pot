@@ -1,0 +1,658 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: EduPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-11 14:35+0000\n"
+"POT-Revision-Date: Tue Apr 11 2017 13:53:00 GMT+0200 (W. Europe Daylight "
+"Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:38
+msgid "Popular Categories"
+msgstr ""
+
+#. %s: post title
+#: comments.php:22
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:26
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:42 comments.php:63
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:45 comments.php:66
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:46 comments.php:67
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:10
+msgid "Copyright &copy;"
+msgstr ""
+
+#: footer.php:10
+msgid "Y"
+msgstr ""
+
+#: footer.php:10
+msgid "All Rights Reserved"
+msgstr ""
+
+#: footer.php:11
+msgid "Theme by"
+msgstr ""
+
+#: footer.php:11
+msgid "Education WordPress Theme"
+msgstr ""
+
+#: functions.php:72
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:108
+msgid "Featured Image: Slideshow Size"
+msgstr ""
+
+#: functions.php:109
+msgid "Featured Image: Thumbnail"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:190
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Roboto, translate this to 'off'. Do not translate into your own language.
+#: functions.php:195
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:243
+msgctxt "The main label for the expandable mobile menu"
+msgid "Click for Menu"
+msgstr ""
+
+#: header.php:18
+msgid "Skip to content"
+msgstr ""
+
+#: index.php:36
+msgid "Recent Posts"
+msgstr ""
+
+#. search results term
+#: search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ilovewp-admin/helper-functions.php:14
+msgid "Previous Article"
+msgstr ""
+
+#: ilovewp-admin/helper-functions.php:15
+msgid "Next Article"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:18
+msgid "EduPress Theme"
+msgstr ""
+
+#. Theme name and version
+#: ilovewp-admin/ilovewp-theme-settings.php:41
+#, php-format
+msgid ""
+"<span class=\"theme-name\">%1$s Theme</span> <span class=\"theme-version\">"
+"(version %2$s)</span>"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:45
+msgid "Theme Details"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:46
+msgid "EduPress Live Demo"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:47
+msgid "EduPress Video Guide"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:50
+msgid "ILoveWP.com Logo"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:58
+msgid "Thank you for installing EduPress"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:68
+msgid "EduPress Documentation and Support"
+msgstr ""
+
+#. Theme name and link to WordPress.org Support forum for the theme
+#: ilovewp-admin/ilovewp-theme-settings.php:73
+#, php-format
+msgid ""
+"Support for %1$s Theme is provided in the official WordPress.org community "
+"support forums. "
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:76
+msgid "View EduPress Documentation"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:76
+msgid "Go to EduPress Support Forum"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:82
+#: ilovewp-admin/ilovewp-theme-settings.php:86
+msgid "EduPress Theme Video Tutorial"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:85
+msgid "Click the image below to open the video guide in a new browser tab."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:92
+msgid "Contact the Developer"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:94
+msgid "You can send a direct message to the developer of the theme."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:95
+msgid "Contact the developer"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:103
+msgid "Help me with a review or a donation"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:105
+msgid ""
+"Please leave a review for EduPress on the WordPress.org website or make a "
+"donation. It helps me continue providing updates and support for this theme."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:107
+msgid "Write a Review for EduPress"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:107
+msgid "Make a Donation"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:114
+msgid "WordPress Themes and Resources"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:117
+msgid ""
+"EduPress is just one of the many free WordPress themes that I have developed."
+" "
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:118
+msgid "See more free WordPress Themes"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:120
+msgid ""
+"I have a great collection of guides and articles on how to create WordPress "
+"websites for: Photographers, Hotels, Schools, Universities, Churches, "
+"Museums, Doctors, Hospitals, Lawyers and other types of organizations and "
+"businesses."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:121
+msgid "Browse the WordPress Resources"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:129
+msgid "Looking for a new web hosting provider?"
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:132
+msgid ""
+"I have a small list of handpicked hosting providers that have a great "
+"reputation in the WordPress community."
+msgstr ""
+
+#: ilovewp-admin/ilovewp-theme-settings.php:133
+msgid "Popular WordPress Hosting Providers"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:9
+msgid "Main Sidebar"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:11
+msgid "This is the main sidebar area that appears on all pages"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:19
+msgid "Footer: Column 1"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:21 ilovewp-admin/sidebars.php:31
+#: ilovewp-admin/sidebars.php:41 ilovewp-admin/sidebars.php:51
+msgid ""
+"This is displayed in the footer of the website. By default has a width of "
+"275px."
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:29
+msgid "Footer: Column 2"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:39
+msgid "Footer: Column 3"
+msgstr ""
+
+#: ilovewp-admin/sidebars.php:49
+msgid "Footer: Column 4"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer.php:71
+msgid "Official Theme Page"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Support Forum"
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "Rate Edupress"
+msgstr ""
+
+#: inc/customizer.php:89 inc/customizer.php:761
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:90
+msgid "Centered"
+msgstr ""
+
+#: inc/customizer.php:94
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Theme Help & Support"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Page Background Color"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "Link Color :hover"
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Main Text Color"
+msgstr ""
+
+#: inc/customizer.php:181
+msgid "Secondary Text Color"
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:201
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:214
+msgid "Header Bottom Border Color"
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "Footer Top Border Color"
+msgstr ""
+
+#: inc/customizer.php:234
+msgid "Highlight Background Color"
+msgstr ""
+
+#: inc/customizer.php:244
+msgid "Widget Title Background Color"
+msgstr ""
+
+#: inc/customizer.php:254
+msgid "Menu Widget Title Background Color"
+msgstr ""
+
+#: inc/customizer.php:262
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/customizer.php:263
+msgid "EduPress Theme Settings"
+msgstr ""
+
+#: inc/customizer.php:268
+msgid "General Options"
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer.php:290
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer.php:302
+msgid "Display Featured Image on Post Pages"
+msgstr ""
+
+#: inc/customizer.php:314
+msgid "Display Author Gravatar on Post Pages"
+msgstr ""
+
+#: inc/customizer.php:325
+msgid "Display Author Name on Post Pages"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "Display Date on Post Pages"
+msgstr ""
+
+#: inc/customizer.php:347
+msgid "Display Category on Post Pages"
+msgstr ""
+
+#: inc/customizer.php:353
+msgid "Featured Content"
+msgstr ""
+
+#: inc/customizer.php:364
+msgid "Show Featured Pages (Tabs) Section on the Front Page"
+msgstr ""
+
+#: inc/customizer.php:375
+msgid "Show the page titles and excerpts for the Featured Pages"
+msgstr ""
+
+#: inc/customizer.php:387 inc/customizer.php:458
+msgid "Front Page: Featured Page #1"
+msgstr ""
+
+#. pages URL
+#: inc/customizer.php:388 inc/customizer.php:459
+#, php-format
+msgid "This list is populated with <a href=\"%1$s\">Pages</a>."
+msgstr ""
+
+#: inc/customizer.php:400 inc/customizer.php:471
+msgid "Front Page: Featured Page #2"
+msgstr ""
+
+#: inc/customizer.php:412 inc/customizer.php:483
+msgid "Front Page: Featured Page #3"
+msgstr ""
+
+#: inc/customizer.php:424
+msgid "Front Page: Featured Page #4"
+msgstr ""
+
+#: inc/customizer.php:436
+msgid "Show Featured Pages (Columns) Section on the Front Page"
+msgstr ""
+
+#: inc/customizer.php:447
+msgid "Display the page excerpts for featured pages."
+msgstr ""
+
+#: inc/customizer.php:508 inc/customizer.php:558 inc/customizer.php:642
+msgid "None"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:21 inc/template-tags.php:49
+msgid "Edit"
+msgstr ""
+
+#. 1: date, 2:time
+#: inc/template-tags.php:39
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:45
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. %s: Name of current post
+#: inc/template-tags.php:88
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#. Name of the template
+msgid "Sidebar-Page"
+msgstr ""
+
+#: template-parts/content-home-featured.php:67
+msgid "No Featured Pages Found"
+msgstr ""
+
+#: template-parts/content-home-featured.php:70
+msgid ""
+"This section will display your featured pages. Configure (or disable) it via "
+"the Customizer."
+msgstr ""
+
+#: template-parts/content-home-featured.php:71
+msgid ""
+"Important: This message is NOT visible to site visitors, only to admins and "
+"editors."
+msgstr ""
+
+#. %s: Name of current post.
+#: template-parts/content-home.php:23 template-parts/content-page.php:23
+#: template-parts/content-single.php:31
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-home.php:30 template-parts/content-page.php:30
+#: template-parts/content-single.php:38
+msgid "Pages:"
+msgstr ""
+
+#. new post URL
+#: template-parts/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-single.php:19 template-parts/content.php:34
+msgid "By"
+msgstr ""
+
+#: template-parts/content-single.php:20 template-parts/content.php:35
+msgid "Published"
+msgstr ""
+
+#: template-parts/content-single.php:21 template-parts/content.php:36
+msgctxt "Used on archive and post pages to separate multiple categories."
+msgid ", "
+msgstr ""
+
+#: template-parts/content-single.php:44
+msgid "&nbsp;"
+msgstr ""
+
+#. %s: list of tags
+#: template-parts/content-single.php:47
+#, php-format
+msgid "Tags: %1$s"
+msgstr ""
+
+#. Name of the theme
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:54
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:42
+msgid "EduPress"
+msgstr ""
+
+#. %1$s current user display name.
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:62
+#, php-format
+msgid ""
+"Dear %1$s! I hope you are happy with everything that the %2$s has to offer. "
+"%3$sIf you can spare a moment, please consider adding a rating for %4$s on "
+"WordPress.org. %3$sIt helps me continue providing updates and support for "
+"this theme."
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:74
+msgid "Add a Rating for EduPress"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:75
+msgid "Hide this notice"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-review.php:76
+msgid "Theme Help"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:45
+msgid "Thank you for choosing EduPress Theme!"
+msgstr ""
+
+#. %1$s: theme name, %2$s link
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:49
+#, php-format
+msgid ""
+"To take advantage of everything that this theme can offer, please take a "
+"look at the <a href=\"%2$s\">Get Started with %1$s</a> page."
+msgstr ""
+
+#. %s theme name
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:54
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#. %s theme name
+#: ilovewp-admin/admin-notices/ilovewp-notice-welcome.php:58
+#, php-format
+msgid "%s Video Guide"
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notices.php:69
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: ilovewp-admin/admin-notices/ilovewp-notices.php:73
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"EduPress is a modern theme with a two-column layout. It is most suitable for "
+"education, business, corporate and non-profit websites. The front page "
+"displays a tabbed slideshow with 2-4 featured pages, and can work with your "
+"latest posts or a static page instead."
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.ilovewp.com/themes/edupress/"
+msgstr ""
+
+#. Author of the theme
+msgid "ilovewpcom"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.ilovewp.com/"
+msgstr ""

@@ -1,0 +1,181 @@
+Changelog Legend:
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+
+(18/06/2017) - Update - Version 3.0.1
+
+[+] Added contextual controls for some Customizer options.
+[*] Updated the "viewport" meta tag (set the initial-scale).
+[*] Updated mobile layout for the Boxed layout style.
+[*] Replaced _e with esc_html_e in some instances.
+
+----
+
+(01/06/2017) - Update - Version 3.0.0
+
+[*] A MAJOR UPDATE! If you are using an older version of this theme, I strongly encourage you to make a backup before you update it to the latest version.
+
+----
+
+(03/10/2016) - Update - Version 2.0.9
+
+[+] Added support for selective refresh in the Customizer.
+[*] Updated theme screenshot.
+[*] Updated custom styles for the recommended plugin The Events Calendar.
+
+----
+
+(06/09/2016) - Update - Version 2.0.8
+
+[*] Updated theme tags.
+
+----
+
+(30/06/2016) - Update - Version 2.0.7
+
+[+] Added option to show manual excerpt on single posts.
+[*] Updated structured data markup.
+[*] Updated POT catalog and translations.
+
+----
+
+(24/05/2016) - Update - Version 2.0.6
+
+[+] Added option to choose between "Full" and "Thumbnail" sizes for Featured Images displayed on post archive pages.
+[*] Updated POT catalog and translations.
+
+----
+
+(27/04/2016) - Update - Version 2.0.5
+
+[*] Updated the list of available Google fonts.
+[*] Changed Support and Get Premium links.
+
+----
+
+(30/03/2016) - Update - Version 2.0.4
+
+[*] Updated browser-specific styling to form elements (-webkit-appearance and -moz-appearance values).
+[*] Fixed CSS conflict with All-in-One Event Calendar (floating of event details in single event view).
+
+----
+
+(24/02/2016) - Update - Version 2.0.3
+
+[+] Added Brazilian Portuguese translation.
+[*] Fixed CSS conflict with WooCommerce 2.5 (made the "max-width" value for .header-logo more specific).
+[*] Improved styling of the Contact Information panel on mobile devices.
+
+----
+
+(15/01/2016) - Update - Version 2.0.2
+
+[+] Added ability to select Character Set in the Theme Customizer.
+[*] Updated POT catalog and translations.
+
+----
+
+(18/12/2015) - Update - Version 2.0.1
+
+[*] Removed platform specific styling to form elements by setting -webkit-appearance and -moz-appearance to "none".
+
+----
+
+(17/11/2015) - Update - Version 2.0.0
+
+[+] Included TGM-Plugin-Activation to show the recommended plugins.
+[*] Moved custom Theme Options to the Customizer API.
+[*] Updated translations.
+[x] Removed Favicon option as it is a core option since WordPress 4.3.
+
+----
+
+(07/10/2015) - Update - Version 1.1.5
+
+[+] Added Hungarian translation.
+[*] Specified a recommended height of the Header Image.
+[*] Updated Post Meta Data classes to pass the Google Structured Data test. 
+[!] Fixed problem with floating of the Reply form in the Comments section.
+
+----
+
+(10/08/2015) - Update - Version 1.1.4
+
+[+] Added custom Page Template for displaying Full Width pages without Title.
+[+] Added Danish translation.
+[*] Updated German translation.
+
+----
+
+(08/06/2015) - Update - Version 1.1.3
+
+[*] Updated Russian translation.
+[*] Updated displaying of the Fixed menu box to enable smoother transition.
+[!] Fixed wrong textdomain in the post meta data in "single.php".
+
+----
+
+(10/04/2015) - Update - Version 1.1.2
+
+[+] Added Greek translation.
+[*] Updated the list of available Google fonts (corrected nonfunctional fonts).
+[!] Fixed the loop in archive templates to avoid breaking the layout if there are no entries in a query. 
+
+----
+
+(10/03/2015) - Update - Version 1.1.1
+
+[+] Added Italian translation.
+[+] Added Dutch translation.
+[*] Updated Spanish translation.
+
+----
+
+(07/02/2015) - Update - Version 1.1.0
+
+[+] Added support for the Title Tag feature.
+[+] Added support for the "pingback" link in <head> section.
+[*] Updated editor-style.css.
+
+----
+
+(20/01/2015) - Update - Version 1.0.3
+
+[+] Added support for Post Formats feature.
+[*] Used esc_html() to escape regular texts instead of esc_attr().
+[*] Updated displaying of the Main Header Menu.
+[*] Updated add_theme_support( 'woocommerce' ); in functions.php.
+[*] Updated translations.
+[x] Removed Premium options from the Theme Options page.
+
+----
+
+(16/01/2015) - Update - Version 1.0.2
+
+[+] Added search form on the 404 page.
+[*] Updated paginate_links() arguments (added "add_args").
+[*] Used wp_add_inline_style for the Theme Options output.
+[*] Increased line height for Site Title and Tagline.
+[*] Updated displaying of the "Footer notices" widget area (added padding so the text will never bump against the top of the container).
+[*] Updated translations.
+[x] Removed TGM-Plugin-Activation (the recommended plugins are now mentioned in "Theme Options > Suggested Plugins"). 
+
+----
+
+(10/12/2014) - Update - Version 1.0.1
+
+[*] Internationalized all text strings in Theme Options.
+[*] Updated POT catalog.
+[*] Updated language localizations.
+[*] Updated editor-style.css.
+
+----
+
+(04/12/2014) - The initial public release. - Version 1.0.0

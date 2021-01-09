@@ -1,0 +1,60 @@
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/banners.jpg" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="150px,0px,150px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading heading_state="normal" color="#ffffffff" ele_bg_hover_delay="400" heading_typo="Raleway,45,,600,,,Solid,,,,"]
+
+
+
+
+
+
+Contact Us[/pl_heading]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="60px,0px,60px,0px"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="8"]
+[pl_heading heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" align="left" heading_typo="Raleway,40,,600,,,Solid,1.5,,,"]
+
+
+
+
+
+
+Leave a Message[/pl_heading]
+[pl_contact form="contact-form" name="Contact Form" form_position="default" space_label=",,10," input_padding="10,10" radio_padding="10,10" field_hover_delay="400" submit="Send Message" type="pagelayer-btn-custom" size="pagelayer-btn-small" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" input_height="20" placeholder_typo="Raleway,,,,,,Solid,,,," btn_typo="Raleway,14,,600,,,Solid,,Uppercase,," btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" btn_bg_color="#104179ff" btn_color="#ffffff"]
+[pl_contact_item label_name="Name" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between=",,10," ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item label_name="Email" field_type="email" values="One
+Two" field_name="Fieldname" field_width="100" space_between=",,10," ele_bg_hover_delay="400" label_as_holder="true"]
+[/pl_contact_item]
+[pl_contact_item label_name="Message" field_type="textarea" values="One
+Two" field_name="Fieldname" field_width="100" space_between="0,0,0,0" ele_bg_hover_delay="400" label_as_holder="true" textarea_rows="7"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_col]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_phone icon="fas fa-phone-alt" ele_bg_hover_delay="400" icon_color="#000000ff" icon_size="24" typography="Raleway,16,,400,,,Solid,,,," space="10"]
+[/pl_phone]
+[pl_address icon="fas fa-map-marker-alt" ele_bg_hover_delay="400" icon_size="30" icon_color="#000000ff" space="10" ele_margin="15px,0px,0px,0px"]
+[/pl_address]
+[pl_email icon="fas fa-envelope" ele_bg_hover_delay="400" space="10" icon_size="30" icon_color="#000000ff" typography="Raleway,16,,400,,,Solid,,,," ele_margin="10px,0px,0px,0px"]
+[/pl_email]
+[pl_iconbox service_icon="fas fa-clock" service_alignment="left" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#000000ff" service_icon_font_size="30" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Monday – Friday : 10.00 am – 9.00 pm&lt;br/&gt;
+
+Saturday: 10.00 am – 2.00 pm&lt;br/&gt;
+
+Sunday: Holiday" service_title_spacing="0,0,0,10" heading_state="normal" service_heading_color="#000000ff" service_heading_typo="Raleway,16,,400,,,Solid,1.4,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" service_content_spacing="10,0,0,10" ele_margin="25px,0px,0px,0px"]
+
+[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row stretch="full" col_gap="0" width_content="full" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_col widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_google_maps zoom="10" height="450" ele_bg_hover_delay="400"]
+
+
+
+
+New York, New York, USA[/pl_google_maps]
+[/pl_col]
+[/pl_row]

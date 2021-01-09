@@ -1,0 +1,440 @@
+/*
+Theme Name: HappenStance
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+*/
+
+p, ul, ol, li, dl, address {
+  text-align: right;
+}
+ul {
+  margin-left: 0;
+  margin-right: 16px;   
+}
+ol {
+	margin-left: 0;
+  margin-right: 20px;
+}
+table, td, th {
+  text-align: right;
+}
+blockquote, q { 
+  border-left: none;
+  border-right: 1px solid #e3e3e3;
+  padding-left: 0;
+  padding-right: 10px;
+}
+
+
+/* Basic Structure
+-------------------------------------------------------------- */
+
+.scroll-top {
+  left: 10px;
+  right: auto;           
+}
+
+
+/* Header
+-------------------------------------------------------------- */
+
+#wrapper .header-contact span {
+  float: right;
+  padding-left: 12px;
+  padding-right: 0;                     
+}
+.header-contact span i {
+  float: right; 
+  padding-left: 4px; 
+  padding-right: 0;                     
+}
+
+/* Secondary Header Menu - Carousel */
+.ticker-box {
+  margin-left: 0;
+  margin-right: 28px;           
+}   
+#ticker-wrapper ul li {
+  margin-left: 20px;  
+  margin-right: 0;                    
+} 
+#wrapper #ticker-wrapper ul ul {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+
+/* Secondary Header Menu - Static */
+.secondary-menu-box ul {
+  border-left: none;
+  border-right: 1px solid #e6e6e6;
+  float: right;
+}
+.secondary-menu-box a {
+	border-left: 1px solid #e6e6e6;
+  border-right: none;
+}
+.secondary-menu-box ul li {
+	float: right;
+}
+body .secondary-menu-box ul .menu-item-has-children a:after {
+  content: "";
+}
+body .secondary-menu-box ul .menu-item-has-children a:before {
+  content: "\33 ";
+  font-family: ElegantIcons !important;
+  font-variant: normal;
+  speak: none;
+	text-transform: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+body .secondary-menu-box ul .menu-item-has-children .sub-menu a:before {
+  content: "";
+}
+.secondary-menu-box ul ul {
+  border-right: none;
+	left: auto;
+  right: 0;
+}
+.secondary-menu-box ul ul a {
+	border-left: none;
+  padding: 0 10px 0 0;
+  text-align: right;
+}
+.secondary-menu-box ul ul ul {
+  left: auto;
+	right: 100%;
+}
+
+
+/* Primary Header Menu
+-------------------------------------------------------------- */
+
+.menu-box .link-home {
+  border-right: 1px solid #535353 !important;
+  float: right;                 
+}
+.menu-box ul {
+  text-align: right;
+}
+.menu-box ul li {
+  float: right;
+}
+body .menu-box ul .menu-item-has-children a:after {
+  content: "";
+}
+body .menu-box ul .menu-item-has-children a:before {
+  content: "\33 ";
+  font-family: ElegantIcons !important;
+  font-variant: normal;
+  speak: none;
+	text-transform: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+body .menu-box ul .menu-item-has-children .sub-menu a:before {
+  content: "";
+}
+.menu-box a {
+  border-left: 1px solid #535353;
+  border-right: none;
+}
+#header .menu-box ul ul a,
+#header .menu-box ul ul a:visited {
+  border-left: none;
+  padding: 0 19px 0 0;
+  text-align: right;
+}
+.menu-box ul ul {
+  left: auto;
+  right: 0;
+}
+.menu-box ul ul ul {
+  left: auto;
+  right: 212px;
+}  
+
+
+/* Main Content
+-------------------------------------------------------------- */
+
+.entry-headline-text {
+  padding-left: 15px;   
+  padding-right: 0;                  
+}
+#main-content .post-meta i,
+#main-content .post-info i,
+.grid-entry .grid-category i,
+.grid-entry .grid-tags i {
+  display: none;                         
+}
+.post-info-author:after,
+.post-info-date:after,
+.post-info-comments:after,
+.post-info-category:after,
+.post-info-tags:after,
+.grid-category:after,
+.grid-tags:after {
+  font-family: ElegantIcons !important;
+  font-variant: normal;
+  padding-left: 4px;
+  speak: none;
+	text-transform: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.post-info-author:after {
+  content: "\6c";
+}
+.post-info-date:after {
+  content: "\e023";
+}
+.post-info-comments:after {
+  content: "\76";
+}
+.post-info-category:after,
+.grid-category:after {
+  content: "\6d";
+}
+.post-info-tags:after,
+.grid-tags:after {
+  content: "\e017";
+}
+#main-content .post-info .post-category,
+#main-content .post-info .post-tags {
+  float: right;                      
+}
+#main-content .post-info .post-tags {
+  padding-left: 0;
+  padding-right: 2%;
+  text-align: left;                           
+}
+#main-content .nav-previous {
+  float: right;                            
+}
+#main-content .nav-next {
+  float: left;
+  text-align: left;                            
+}
+.navigation-links .page-numbers,
+.page-link span,
+.page-link a {
+  float: right;
+  margin-left: 4px;
+}
+body .tribe-events-loop .tribe-events-content {
+  padding-left: 5%;
+  padding-right: 0;
+}
+
+/* Default Post Entry */
+.attachment-post-thumbnail { 
+  float: right;
+  margin-left: 15px;
+  margin-right: 0;
+}
+
+/* Post Entry - Grid */
+.js-masonry { 
+  float: right;
+  margin: 0 -10px 0 0;                     
+}
+.grid-entry .grid-entry-inner {
+  margin: 0 20px 0 0;                            
+}
+
+/* Post Entry - Slider (Related Posts) */
+.wrapper-related-posts ul {
+  margin-right: 0;                      
+}
+.wrapper-related-posts .flexslider .slides li {
+  float: right !important;                       
+}
+#content .wrapper-related-posts .unordered-list {
+  margin: -7px 16px 0 0;                      
+}
+.wrapper-related-posts .flexslider .flex-direction-nav {
+  left: 0;
+  right: auto;                               
+}
+.wrapper-related-posts .flexslider .flex-direction-nav li {
+  float: right;
+  margin-left: 0;
+  margin-right: 1px;                                  
+}
+
+
+/* Post Formats
+-------------------------------------------------------------- */
+
+.post-entry-headline:after,
+.grid-entry-headline:after,
+.single-title .entry-headline-text:after {
+  color: #888888;
+  font-family: ElegantIcons !important;
+  font-variant: normal;
+  font-weight: normal !important;
+  padding-left: 6px;
+  speak: none;
+	text-transform: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.format-image .post-entry-headline:after,
+.format-image .grid-entry-headline:after,
+.single-format-image .single-title .entry-headline-text:after {
+  content: "\e005";
+}
+.format-audio .post-entry-headline:after,
+.format-audio .grid-entry-headline:after,
+.single-format-audio .single-title .entry-headline-text:after {
+  content: "\e08e";
+}
+.format-status .post-entry-headline:after,
+.format-status .grid-entry-headline:after,
+.single-format-status .single-title .entry-headline-text:after {
+  content: "\6a";
+}
+.format-video .post-entry-headline:after,
+.format-video .grid-entry-headline:after,
+.single-format-video .single-title .entry-headline-text:after {
+  content: "\e024";
+}
+.format-gallery .post-entry-headline:after,
+.format-gallery .grid-entry-headline:after,
+.single-format-gallery .single-title .entry-headline-text:after {
+  content: "\e006";
+}
+.format-link .post-entry-headline:after,
+.format-link .grid-entry-headline:after,
+.single-format-link .single-title .entry-headline-text:after {
+  content: "\e02b";
+}
+.format-quote .post-entry-headline:after,
+.format-quote .grid-entry-headline:after,
+.single-format-quote .single-title .entry-headline-text:after {
+  content: "\e06a";
+}
+.format-chat .post-entry-headline:after,
+.format-chat .grid-entry-headline:after,
+.single-format-chat .single-title .entry-headline-text:after {
+  content: "\77";
+}
+.post-entry .post-entry-headline:before,
+.grid-entry .grid-entry-headline:before,
+.single .single-title .entry-headline-text:before {
+  content: "";
+  padding-right: 0;
+}
+
+
+/* Latest Posts Page Widget Area
+-------------------------------------------------------------- */
+
+#content .blog-headline-text {
+  padding-left: 15px; 
+  padding-right: 0;                     
+}
+#content .blog-widget ul { 
+  margin: 5px 16px -5px 0;                      
+} 
+
+
+/* Sidebar
+-------------------------------------------------------------- */
+
+.sidebar-headline-text {
+  padding-left: 10px; 
+  padding-right: 0;                    
+}
+.sidebar-widget ul { 
+  margin: 5px 16px -5px 0;                      
+}
+.sidebar-widget .wpt-tabs {
+  margin-right: 0;          
+}
+.sidebar-widget .tab-content ul {
+  margin-right: 0;
+}
+
+
+/* Footer
+-------------------------------------------------------------- */  
+
+.footer-widget-area {
+  float: right;
+  margin-left: 28px;
+  margin-right: 0;               
+}
+#footer .footer-widget-area-3 {
+  margin-left: 0;                              
+} 
+.footer-headline-text {
+  padding-left: 10px; 
+  padding-right: 0;                     
+}
+
+
+/* Default Widgets
+-------------------------------------------------------------- */
+
+#wp-calendar #prev {
+  text-align: right;                   
+}
+#wp-calendar #next {
+  text-align: left;                   
+}
+
+
+/* Form Fields
+-------------------------------------------------------------- */
+
+#searchform .searchform-wrapper #s {
+  padding: 5px 3% 5px 0;
+  left: auto;
+  right: 0;              
+}
+#searchform .searchform-wrapper .send {
+  left: 0;
+  right: auto;
+}
+.header-content #searchform .searchform-wrapper {
+  left: 28px;
+  right: auto;      
+}
+
+
+/* Comments Area
+-------------------------------------------------------------- */
+
+#comments ol {
+  margin-left: auto;
+  margin-right: 0;             
+}
+#comments .avatar,
+#comments .fn {
+  float: right;
+  margin: 0 0 0 6px
+}
+#comments time,
+#comments .edit-link {
+  float: left;             
+}
+
+
+/* Media Queries
+-------------------------------------------------------------- */
+
+@media screen and (max-width: 1012px) { 
+  #wrapper .ticker-box {
+    margin-left: 0;
+    margin-right: 5%;                       
+}
+  .js .selectnav {
+    float: right;
+    margin: 7px 5% 0 0;
+}
+  .js .secondary-menu-box .selectnav {
+    margin: 2px 5% 0 0;
+}
+}
