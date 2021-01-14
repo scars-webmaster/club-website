@@ -215,28 +215,28 @@ p.text {
 /* End of layer specific style rule set */
 
 #main-page-article .lp-article-header {
-    display: flex;
-    flex-direction: row;
-    padding: 10px;
-    align-items: center;
-    align-content: center;
-    justify-content: space-between;
+    display: flex !important;
+    flex-direction: row !important;
+    padding: 10px !important;
+    align-items: center !important;
+    align-content: center !important;
+    justify-content: space-between !important;
 }
 
 #main-page-article .clock p {
-    font-size: 140%;
-    font-weight: bold;
-    color: green;
+    font-size: 140% !important;
+    font-weight: bold !important;
+    color: green !important;
 }
 
 #main-page-article .lp-main-article-heading-text p {
-    font-size: 125%;
-    font-weight: bold;
-    color: #71031c;
+    font-size: 125% !important;
+    font-weight: bold !important;
+    color: #71031c !important;
 }
 
 #main-page-article .lp-sub-article-heading-text p {
-    font-size: 110%;
-    font-weight: bold;
-    color: black;
+    font-size: 110% !important;
+    font-weight: bold !important;
+    color: black !important;
 }
