@@ -2,13 +2,15 @@
 /* Note Class and ID's are case sensitive with source files */
 /* My adds */
 
-body, td, th {
-	color: #fffff;
-	font-size: 15px;
+body,
+td,
+th {
+    color: #fffff;
+    font-size: 15px;
 }
 body {
-	/*background-color: #222;*/
-        background: linear-gradient(#222, #666, #222);
+    /*background-color: #222;*/
+    background: linear-gradient(#222, #666, #222);
 }
 /*#Banner {
 	padding-top: 15px;
@@ -25,54 +27,54 @@ body {
 /*-----------------------MENU STARTS-----------------------------*/
 
 #LayoutDiv4 {
-	background-color: #FFBF00;
-	height: 27px;
-	text-decoration: none;
-        /*border: 1px solid black;*/
-        /* width: 100%; 
+    background-color: #ffbf00;
+    height: 27px;
+    text-decoration: none;
+    /*border: 1px solid black;*/
+    /* width: 100%; 
    background-repeat: repeat; */
 }
 #LayoutDiv4 ul {
-	text-decoration: inherit;
-	float: left;
-	list-style: none;
-	width: 100%;
-/*	padding:0 0 0 24px; 
+    text-decoration: inherit;
+    float: left;
+    list-style: none;
+    width: 100%;
+    /*	padding:0 0 0 24px; 
     text-transform:uppercase;
 	font:normal 10px/12px Arial, Helvetica, sans-serif;
 	color:#D3CF72; */
 }
 #LayoutDiv4 ul li {
-	text-decoration: inherit;
-	float: left;
-	list-style: none;
-	font-weight: bold;
-	margin: 0 10px;
-/*	margin-right: 40px; 
+    text-decoration: inherit;
+    float: left;
+    list-style: none;
+    font-weight: bold;
+    margin: 0 10px;
+    /*	margin-right: 40px; 
 	 border: medium solid #0C3; */
 }
 #LayoutDiv4 ul li a {
-	text-decoration: none;
-	font-size: 14px;
-	z-index: 3;
-	position: relative;
-	text-transform: uppercase;
-	display: block;
-/*line-height: 1px;
+    text-decoration: none;
+    font-size: 14px;
+    z-index: 3;
+    position: relative;
+    text-transform: uppercase;
+    display: block;
+    /*line-height: 1px;
   color: #000000; 
   padding: 1px 10px; 
   margin-bottom: 3px;
   font-family: Arial, Helvetica, sans-serif; */
 }
 #LayoutDiv4 .active {
-	color: #B50029; /*active menu item text */
-	font-size: 14px;
-	display: block;
-	margin-bottom: 3px;
-	z-index: 3;
-	position: relative;
-	text-transform: uppercase;
-/*	font-family: Arial, Helvetica, sans-serif;
+    color: #b50029; /*active menu item text */
+    font-size: 14px;
+    display: block;
+    margin-bottom: 3px;
+    z-index: 3;
+    position: relative;
+    text-transform: uppercase;
+    /*	font-family: Arial, Helvetica, sans-serif;
 	background-color:inherit; 	
 	background-color:#ffffcc;	
 	font-weight: bold;
@@ -98,20 +100,20 @@ body {
 
 /* ----------------------------------------------------------------------------------------------------------------------------------------------- */
 #LayoutDiv6 p {
-	font-size: 14px;
-	padding-left: 30px;
-        padding-right: 30px;
-     	color: #000;
-	text-indent: 0;
+    font-size: 14px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: #000;
+    text-indent: 0;
 }
 #LayoutDiv6 h4 {
-	color: #000;
+    color: #000;
 }
 #LayoutDiv6 div h3 {
-	color: #000;
+    color: #000;
 }
 #LayoutDiv7 h3 {
-	color: #000;
+    color: #000;
 }
 
 /* ======================================================== */
@@ -119,55 +121,55 @@ body {
 /* for the CSS table design example, starts here */
 
 div.base-layer {
-/*  background: none #cc9966; */
-/*  border: solid #333333 1px; */
-  color: #000000;
-/*  margin: 0.5em 12px 0.5em 12px; */
-  margin: 0.5em 0 0.5em 0; 
-  padding: 0; 
-/*  text-align: center; */
-  width: auto;
+    /*  background: none #cc9966; */
+    /*  border: solid #333333 1px; */
+    color: #000000;
+    /*  margin: 0.5em 12px 0.5em 12px; */
+    margin: 0.5em 0 0.5em 0;
+    padding: 0;
+    /*  text-align: center; */
+    width: auto;
 }
 
 div.table-row {
-/*  background: none #ffffcc;  */
-/*  border: solid #000000 1px; */
-  color: #000000;
-/*  margin-top: 0; 
+    /*  background: none #ffffcc;  */
+    /*  border: solid #000000 1px; */
+    color: #000000;
+    /*  margin-top: 0; 
   margin-right: auto; 
   margin-bottom: 0; 
   margin-left: auto;
   padding: 2;
   text-align: left; */
-  width: 50%;
+    width: 50%;
 }
 
 /* Style rules for the 3 x 2 table example */
 
 div.right-cell {
-  text-align: left; 
-  border: none; 
-  float: right; 
-  margin: 0; 
-  padding: 0; 
-  width: 50%;
+    text-align: left;
+    border: none;
+    float: right;
+    margin: 0;
+    padding: 0;
+    width: 50%;
 }
 
 div.left-cell {
-  border: none; 
-  float: left; 
-  margin: 0; 
-  padding: 0; 
-  width: 50%;
+    border: none;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 50%;
 }
 
 /* Watch out for this DIV... rule, it appears every now and then */
 
 div.space-line {
-  clear: both; 
-  margin: 0; 
-  padding: 0; 
-  width: auto;
+    clear: both;
+    margin: 0;
+    padding: 0;
+    width: auto;
 }
 
 /* Some rules for captions, headers and running text */
@@ -199,15 +201,20 @@ h5.colhdr {
   width: auto;
 }*/
 
- p.text {
-/*  border: solid #3333cc 1px; */
-  margin: 0; 
-  padding: 0.3em 0.5em 0 0.5em;
-  font-style: normal; 
-  font-size: 1em; 
-  text-align: center;
-  text-indent: 0;
-  width: auto;
-} 
+p.text {
+    /*  border: solid #3333cc 1px; */
+    margin: 0;
+    padding: 0.3em 0.5em 0 0.5em;
+    font-style: normal;
+    font-size: 1em;
+    text-align: center;
+    text-indent: 0;
+    width: auto;
+}
 
 /* End of layer specific style rule set */
+
+.lp-article-heading {
+    display: flex;
+    padding: 10px 50px 5px 50px;
+}
