@@ -306,16 +306,20 @@
                                                                                                                               HEIGHT=21 BORDER=0 ALT="Status" SRC="http://www.n3kl.org/sun/images/status.gif?"></A></CENTER></TD>
                         </TR><TR><TD ALIGN=CENTER><CENTER><A HREF="http://www.n3kl.org/sun/noaa.html" target="_blank"><IMG WIDTH=121 
                                                                                                                            HEIGHT=21 BORDER=0 ALT="Status" SRC="http://www.n3kl.org/sun/images/kpstatus.gif?"></A></CENTER></TD>
-                        </TR></TABLE></TD><TD WIDTH=150>&nbsp;</TD></TR></TABLE></p>
+                        </TR></TABLE></TD>
+                        <TD WIDTH=150>&nbsp;</TD></TR></TABLE></p>
                     <p class="article">
                         From <A HREF="http://www.n3kl.org/sun/noaa.html" target="_blank">n3kl.org</A>
                     </p>
                   </TD>
-
+                        </TR>
+                <TR>
                   <TD>
                     <div id="rigref-solar-widget" align="center"><a href="https://rigreference.com/solar" target="_blank"><img src="https://rigreference.com/solar/img/wide" border="0"></a>
                     </div>
-                  </TD></TR></Table>
+                  </TD>
+                </TR>
+                </Table>
                     
                     <br>
                     <div id="Solar" align="center">
