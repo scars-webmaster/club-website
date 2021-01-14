@@ -216,6 +216,7 @@ p.text {
 
 .lp-article-heading {
     display: flex;
+    flex-direction: row;
     padding: 10px 50px 5px 50px;
     align-items: center;
     justify-content: center;

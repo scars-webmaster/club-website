@@ -79,19 +79,19 @@
 	 
                 <div class="date" align="left" style="padding:1em 2em 0 0; color: black">
 
-<!-- <div class="lp-article-heading">                
-            <div align="center" style="font-size:140%; font-color:green" align="center">
+<div class="lp-article-heading">                
+            <div style="font-size:140%; font-color:green">
                 <iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:196px;height:100px;"src="https://www.clocklink.com/html5embed.php?clock=042&timezone=USA_Atlanta&color=green&size=196&Title=&Message=&Target=&From=2020,1,1,0,0,0&Color=green"></iframe>
-                    <strong>Local Time</strong><br>
+                    <strong>Local Time</strong>
             </div>
-            <div style="padding: 5px 12px 5px 12px" align="center">
+            <div>
                 <strong style="font-size:125%; color:#71031c">WELCOME TO DALLAS, GA</strong><br>
                 The home of the Silver Comet Amateur Radio Society, Inc.
             </div>
-            <div align="center" style="font-size:140%; font-color:green" align="center">
+            <div style="font-size:140%; font-color:green">
                 <iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:196px;height:100px;"src="https://www.clocklink.com/html5embed.php?clock=042&timezone=GMT00&color=green&size=196&Title=&Message=&Target=&From=2020,1,1,0,0,0&Color=green"></iframe>
-                    <strong>UTC Time</strong><br></div>
-</div> -->
+                    <strong>UTC Time</strong></div>
+</div>
 
 </div>
 
