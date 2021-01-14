@@ -90,7 +90,7 @@
             </div>
             <div class="clock">
                 <iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:196px;height:100px;"src="https://www.clocklink.com/html5embed.php?clock=042&timezone=GMT00&color=green&size=196&Title=&Message=&Target=&From=2020,1,1,0,0,0&Color=green"></iframe>
-                UTC Time
+                <p>UTC Time</p>
             </div>
 </div>
 

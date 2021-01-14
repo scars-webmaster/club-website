@@ -214,7 +214,7 @@ p.text {
 
 /* End of layer specific style rule set */
 
-#main-page-artile .lp-article-header {
+#main-page-article .lp-article-header {
     display: flex;
     flex-direction: row;
     padding: 10px;
@@ -223,19 +223,19 @@ p.text {
     justify-content: space-between;
 }
 
-#main-page-artile .clock p {
+#main-page-article .clock p {
     font-size: 140%;
     font-weight: bold;
     color: green;
 }
 
-#main-page-artile .lp-main-article-heading-text p {
+#main-page-article .lp-main-article-heading-text p {
     font-size: 125%;
     font-weight: bold;
     color: #71031c;
 }
 
-#main-page-artile .lp-sub-article-heading-text p {
+#main-page-article .lp-sub-article-heading-text p {
     font-size: 110%;
     font-weight: bold;
     color: black;
