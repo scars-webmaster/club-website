@@ -14,5 +14,5 @@ jobs:
         server: silvercometars.com
         username: webmaster@silvercometars.com
         password: ${{ secrets.FTP_PW }}
-        dry-run: true
-        log-level: verbose
+        dry-run: false
+        log-level: standard
