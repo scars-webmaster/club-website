@@ -77,6 +77,12 @@ Do the following if you're using your customized build of modernizr (http://www.
 
   <div id="LayoutDiv6"><!-- InstanceBeginEditable name="EditArticleRegion" --><div style="padding:3.5em 0 0 0em"><img src="images/newsletters.gif" alt="scars"></div><br>
       <div class="floating-box">
+          <h4>2021</h4>
+          <ul style="list-style-type:none">
+              <l1><a href="newsletters/SCARS JAN 2021 NEWS.pdf" target="_blank">Jan 2021 Vol 8 Number 1</a></l1>
+          </ul>
+      </div>
+      <div class="floating-box">
           <h4>2020</h4>
           <ul style="list-style-type:none">
               <li><a href="newsletters/SCARS DEC 2020 NEWS.pdf" target="_blank">Dec 2020 Vol 7 Number 12</a></li>
