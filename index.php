@@ -76,17 +76,17 @@
 
             <div id="LayoutDiv6"><!-- InstanceBeginEditable name="EditArticleRegion" -->
                 <!-- date -->
-	 
-                <div class="date" align="left" style="padding:1em 2em 0 0; color: black">
+<!-- 	 
+<div class="date" align="left" style="padding:1em 2em 0 0; color: black"> -->
 
-<div class="lp-article-heading">                
+<div id="main-page-article" class="lp-article-header">                
             <div class="clock">
                 <iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:196px;height:100px;"src="https://www.clocklink.com/html5embed.php?clock=042&timezone=USA_Atlanta&color=green&size=196&Title=&Message=&Target=&From=2020,1,1,0,0,0&Color=green"></iframe>
-                Local Time
+                <p>Local Time</p>
             </div>
-            <div class="lp-article-heading-text">
-                WELCOME TO DALLAS, GA<br>
-                The home of the Silver Comet Amateur Radio Society, Inc.
+            <div>
+                <p class="lp-main-article-heading-text">WELCOME TO DALLAS, GA</p>
+                <p class="lp-sub-article-heading-text">The home of the Silver Comet Amateur Radio Society, Inc.</p>
             </div>
             <div class="clock">
                 <iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:196px;height:100px;"src="https://www.clocklink.com/html5embed.php?clock=042&timezone=GMT00&color=green&size=196&Title=&Message=&Target=&From=2020,1,1,0,0,0&Color=green"></iframe>
@@ -94,7 +94,7 @@
             </div>
 </div>
 
-</div>
+<!-- </div> -->
 
                 <p style="font-size:120%"><marquee scrollamount="6"><strong>
                         <a href="https://dph.georgia.gov/covid-19-daily-status-report" target="_blank" style="color: #C10029">Click here to view Georgia's COVID-19 Daily Status Report</a> 
