@@ -21,7 +21,7 @@
 <link href="assets/layout.css" rel="stylesheet" type="text/css">
 <link href="assets/style.css" rel="stylesheet" type="text/css">
 <!-- 
-To learn more about the conditional comments around the html tags at the top of the file:
+Interesting: To learn more about the conditional comments around the html tags at the top of the file:
 paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
 
 Do the following if you're using your customized build of modernizr (http://www.modernizr.com/):

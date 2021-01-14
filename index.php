@@ -93,43 +93,6 @@
                     <strong>UTC Time</strong><br></div>
 </div>
 
-<!-- Original Date in home page at top
-                    <script type="text/javascript">
-                        var mydate = new Date();
-                        var theYear = mydate.getFullYear();
-                        var day = mydate.getDay();
-                        var month = mydate.getMonth();
-                        var daym = mydate.getDate();
-                        if (daym < 10)
-                            daym = "0" + daym;
-                        var dayarray = new Array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
-                        var montharray = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
-                        document.write(dayarray[day] + " " + montharray[month] + " " + daym + ", " + theYear);
-                    </script>
--->
-
-<!-- Text based time and date
-<p style="font-size:110%"><strong>WELCOME TO DALLAS, GEORGIA!</strong><br>
-<strong>Local time:  </strong> <span id="Dallas__Georgia_z161" ></span><br>
-<strong>UTC Time:    </strong> <span id="UTC_za00"             ></span>
-</p>
-<script src="//widget.time.is/en.js"></script>
-<script>
-time_is_widget.init({
-    Dallas__Georgia_z161:{
-        template:"TIME DATE ... SUN", 
-        time_format:"12hours:minutesAMPM", 
-        date_format:"dayname, monthname dnum, year", 
-        sun_format:"&nbsp;&nbsp;Sunrise at: srhour:srminute,  Sunset at: sshour:ssminute", 
-        coords:"33.9237100,-84.8407700"
-        },
-    UTC_za00:{
-        template:"TIME DATE", 
-        date_format:"dayname, monthname dnum, year"
-        }
-    });
-</script>
--->
 </div>
 
                 <p style="font-size:120%"><marquee scrollamount="6"><strong>
