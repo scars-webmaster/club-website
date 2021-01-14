@@ -79,7 +79,7 @@
 <!-- 	 
 <div class="date" align="left" style="padding:1em 2em 0 0; color: black"> -->
 
-<div id="main-page-article" class="lp-article-header">                
+<!-- <div id="main-page-article" class="lp-article-header">                
             <div class="clock">
                 <iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:196px;height:100px;"src="https://www.clocklink.com/html5embed.php?clock=042&timezone=USA_Atlanta&color=green&size=196&Title=&Message=&Target=&From=2020,1,1,0,0,0&Color=green"></iframe>
                 <p>Local Time</p>
@@ -92,7 +92,7 @@
                 <iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:196px;height:100px;"src="https://www.clocklink.com/html5embed.php?clock=042&timezone=GMT00&color=green&size=196&Title=&Message=&Target=&From=2020,1,1,0,0,0&Color=green"></iframe>
                 <p>UTC Time</p>
             </div>
-</div>
+</div> -->
 
 <!-- </div> -->
 
