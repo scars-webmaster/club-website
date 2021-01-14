@@ -80,17 +80,18 @@
                 <div class="date" align="left" style="padding:1em 2em 0 0; color: black">
 
 <div class="lp-article-heading">                
-            <div style="font-size:140%; font-color:green">
+            <div class="clock">
                 <iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:196px;height:100px;"src="https://www.clocklink.com/html5embed.php?clock=042&timezone=USA_Atlanta&color=green&size=196&Title=&Message=&Target=&From=2020,1,1,0,0,0&Color=green"></iframe>
-                    <strong>Local Time</strong>
+                Local Time
             </div>
-            <div>
-                <strong style="font-size:125%; color:#71031c">WELCOME TO DALLAS, GA</strong><br>
+            <div class="lp-article-heading-text">
+                WELCOME TO DALLAS, GA<br>
                 The home of the Silver Comet Amateur Radio Society, Inc.
             </div>
-            <div style="font-size:140%; font-color:green">
+            <div class="clock">
                 <iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:196px;height:100px;"src="https://www.clocklink.com/html5embed.php?clock=042&timezone=GMT00&color=green&size=196&Title=&Message=&Target=&From=2020,1,1,0,0,0&Color=green"></iframe>
-                    <strong>UTC Time</strong></div>
+                UTC Time
+            </div>
 </div>
 
 </div>

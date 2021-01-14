@@ -219,5 +219,18 @@ p.text {
     flex-direction: row;
     padding: 10px 50px 5px 50px;
     align-items: center;
-    justify-content: center;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.clock {
+    font-size: 140%;
+    font-weight: bold;
+    color: green;
+}
+
+.lp-article-heading-text {
+    font-size: 125%;
+    font-weight: bold;
+    color: #71031c;
 }
