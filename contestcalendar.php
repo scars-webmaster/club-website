@@ -119,38 +119,19 @@ rssfeed_cache = "1f165c39e31c798df8603db88f31478e";
 </div>-->
 
        <div>
-<h3 id="Scores">Past Contest Club Scores:</h3>
-<ul style="list-style:none">
-    <li>2017 GA-QSO-Party: <b>61,787</b></li>
-    <li>2017 ARRL-IARU HF: <b>65,890</b></li>
-    <li>2017 ARRL-NOV-SS (SSB): <b>162,684</b></li>
-    <li>2017 CQ-WW-DX: <b>889,937</b></li><br>
-    <li>2018 ARRL-DX: <b>295,389</b></li>
-    <li>2018 CQ-WPX-SSB: <b>584,301</b></li>
-    <li>2018 GA-QSO-Party: <b>32,150</b></li>
-    <li>2018 ARRL-JUNE-VHF: <b>1,666</b></li>
-    <li>2018 ARRL-IARU HF: <b>124,413</b></li>
-    <li>2018 CQ-WW-VHF: <b>7,653</b></li>
-    <li>2018 WAE-SSB: <b>9,540</b></li>
-    <li>2018 CQ-WW-DX: <b>790,198</b></li>
-    <li>2018 ARRL-NOV-SS (SSB): <b>128,890</b></li>
-    <li>2018 ARRL 10-Meter: <b>4,574</b></li>
-    <li>2018 RAC Canada: <b>350</b></li><br>
-    <li>2019 ARRL RTTY RU: <b>32,006</b></li>
-    <li>2019 NAQP JAN SSB: <b>58,630</b></li>
-    <li>2019 Winter Field Day: <b>832</b></li>
-    <li>2019 Vermont QSOP: <b>224</b></li>
-    <li>2019 ARRL-DX: <b>312,579</b></li>
-    <li>2019 NA-Sprint-SSB: <b>4,393</b></li>
-    <li>2019 CQ-WPX-SSB: <b>503,457</b></li>
-    <li>2019 GA-QSO-Party: <b>48,190</b></li>
-    <li>2019 New England QSOP: <b>3,298</b></li>
-    <li>2019 CQ-WW-VHF: <b>7,072</b></li>
-    <li>2019 ARRL HPM 150: <b>45,993</b></li>
-    <li>2019 CQ-WW-DX-SSB: <b>900,406</b></li>
-    <li>2019 ARRL-NOV-SS (SSB): <b>127,708</b></li><br>
-    <li>2020 CQ-WPX-SSB: <b>783,407</b></li>
-</ul>
+<h3 id="Scores">Club Contests</h3>
+October:<br>
+<ul style="list-style: none">
+<li>Silver Comet Amateur Radio Society 7th Annual Broadcast Band DX Contest</li>
+<li>This unique contest is a local “just for fun” club contest that lasts for a whole month. That gives everyone a chance to participate.  Prizes such as a paper certificate, used batteries, worn out tubes and a nice custom made, "one of a kind trophy" are awarded. 
+DXing the AM Radio Broadcast Band is like watching grass grow or paint drying.  You must have plenty of patience.  Be prepared to listen to atmospheric noise, strong interference, static and fading signals just to hear a low powered distant station.  
+The AM broadcast band covers 525 kHz to 1705 kHz and you can hear stations from hundreds and even thousands of miles away at night using an ordinary household radio, auto AM radio, or your ham radio. 
+Depending on the broadcast license class and target audience, broadcast stations can transmit anywhere from 1,000 watts to 50,000 watts and use either directional or non-directional antenna arrays.  Some are clear channel and some share the same frequency as others, some are part time and some operate 24hrs.  Almost every AM broadcast station uses a vertically polarized antenna. 
+If your amateur receiver has general coverage capabilities, it will be well suited for this contest.  The length, height and polarization of your antenna will affect the quality of your reception.  If you don’t have a vertical antenna, a vertical piece of wire will work great for reception.
+This is a local contest and is based on the honor system of logging your contacts.  What makes it fun is listening to the different announcer dialects and mannerisms, the different and sometimes unique or funny product advertisements, and the perceived target audience.
+</li>
+<li><a href="bdcst_band_dx_contest_rules.docx" target="_blank">Rules</a></li>
+<li><a href="BCST_DX_Log1.xlsx" target="_blank">Log Template</a></li>
 </div>
 <div>
           <h3>Log Submission & Results Websites:</h3>
