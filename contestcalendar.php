@@ -64,7 +64,7 @@ Do the following if you're using your customized build of modernizr (http://www.
 rssfeed_url = new Array(); 
 rssfeed_url[0]="http://www.contestcalendar.com//calendar.rss";  
 rssfeed_frame_width="90%"; 
-rssfeed_frame_height="460"; 
+rssfeed_frame_height="680"; 
 rssfeed_scroll="off"; 
 rssfeed_scroll_step="6"; 
 rssfeed_scroll_bar="on"; 
@@ -117,21 +117,21 @@ rssfeed_cache = "1f165c39e31c798df8603db88f31478e";
 <p><a href="http://www.arrl.org/international-grid-chase-2018" target="_blank">Get in the Chase!</a> The objective of the ARRL International Grid Chase is to work stations on any band (except 60 meters) in as many different Maidenhead grid squares as possible, and then upload your log data to ARRL’s Logbook of The World (LoTW).<br><br>
     Map your worked grid squares: <a href="http://wg7j.reinalda.net/gridmapper/gridmapper.php" target="_blank">WG7J's GridMapper</a></p>
 </div>-->
-
-       <div>
+<br>
+<div>
 <h3 id="Scores">Club Contests</h3>
-October:<br>
-<ul style="list-style: none">
-<li>Silver Comet Amateur Radio Society 7th Annual Broadcast Band DX Contest</li>
-<li>This unique contest is a local “just for fun” club contest that lasts for a whole month. That gives everyone a chance to participate.  Prizes such as a paper certificate, used batteries, worn out tubes and a nice custom made, "one of a kind trophy" are awarded. 
-DXing the AM Radio Broadcast Band is like watching grass grow or paint drying.  You must have plenty of patience.  Be prepared to listen to atmospheric noise, strong interference, static and fading signals just to hear a low powered distant station.  
-The AM broadcast band covers 525 kHz to 1705 kHz and you can hear stations from hundreds and even thousands of miles away at night using an ordinary household radio, auto AM radio, or your ham radio. 
-Depending on the broadcast license class and target audience, broadcast stations can transmit anywhere from 1,000 watts to 50,000 watts and use either directional or non-directional antenna arrays.  Some are clear channel and some share the same frequency as others, some are part time and some operate 24hrs.  Almost every AM broadcast station uses a vertically polarized antenna. 
-If your amateur receiver has general coverage capabilities, it will be well suited for this contest.  The length, height and polarization of your antenna will affect the quality of your reception.  If you don’t have a vertical antenna, a vertical piece of wire will work great for reception.
-This is a local contest and is based on the honor system of logging your contacts.  What makes it fun is listening to the different announcer dialects and mannerisms, the different and sometimes unique or funny product advertisements, and the perceived target audience.
-</li>
-<li><a href="bdcst_band_dx_contest_rules.docx" target="_blank">Rules</a></li>
-<li><a href="BCST_DX_Log1.xlsx" target="_blank">Log Template</a></li>
+<p align="center"><strong>COMING IN OCTOBER!!</strong></p>
+<p align="center"><strong>Silver Comet Amateur Radio Society 7th Annual Broadcast Band DX Contest</strong></p>
+<div><a href="bdcst_band_dx_contest_rules.docx" target="_blank">Rules</a></div>
+<div><a href="BCST_DX_Log1.xlsx" target="_blank">Log Template</a></div>
+<p style="margin: 6px;">
+This unique contest is a local “just for fun” club contest that lasts for a whole month. That gives everyone a chance to participate.  Prizes such as a paper certificate, used batteries, worn out tubes and a nice custom made, "one of a kind trophy" are awarded. </p>
+<p style="margin: 6px;">DXing the AM Radio Broadcast Band is like watching grass grow or paint drying.  You must have plenty of patience.  Be prepared to listen to atmospheric noise, strong interference, static and fading signals just to hear a low powered distant station. </p> 
+<p style="margin: 6px;">The AM broadcast band covers 525 kHz to 1705 kHz and you can hear stations from hundreds and even thousands of miles away at night using an ordinary household radio, auto AM radio, or your ham radio. </p>
+<p style="margin: 6px;">Depending on the broadcast license class and target audience, broadcast stations can transmit anywhere from 1,000 watts to 50,000 watts and use either directional or non-directional antenna arrays.  Some are clear channel and some share the same frequency as others, some are part time and some operate 24hrs.  Almost every AM broadcast station uses a vertically polarized antenna. </p>
+<p style="margin: 6px;">If your amateur receiver has general coverage capabilities, it will be well suited for this contest.  The length, height and polarization of your antenna will affect the quality of your reception.  If you don’t have a vertical antenna, a vertical piece of wire will work great for reception.</p>
+<p style="margin: 6px;">This is a local contest and is based on the honor system of logging your contacts.  What makes it fun is listening to the different announcer dialects and mannerisms, the different and sometimes unique or funny product advertisements, and the perceived target audience.
+</p></div>
 </div>
 <div>
           <h3>Log Submission & Results Websites:</h3>
@@ -147,18 +147,16 @@ This is a local contest and is based on the honor system of logging your contact
         <li><a href="docs/Contest_Tips_2017v1.pdf" target="_blank">Contest Operating Tips (K1VR)</a></li>
     </ul>
 </div>
-      </div>
-      
-     
-      <div>
+<div>
           <h3 id="compiler">Live ham radio contest results can be viewed at these online score boards:</h3>
       <p>
     <a href="https://contestonlinescore.com" target="_blank">Contest Online Score Board</a></br>
     <a href="http://www.cqcontest.net/view/readscore.php" target="_blank">CQ On-line Contest Server</a></br></p>
       </div>
-<p>Below is the latest SCARS Contest Report from participating members. The contest report automatically refreshes every 60 seconds when a contest is in progress.  Click on a participants call sign to view details of their recent contacts.
+<p>Below is the latest SCARS Contest Report from participating members. The contest report automatically refreshes every 60 seconds when a contest is in progress.  Click on a participants call sign to view details of their recent contacts.</p>
+</div>
     <!--<object width="100%" height="500px"data="hamlogs/SCARS-Contest-Summary.html"></object>-->
-    <iframe src="hamlogs/SCARS-Contest-Summary.html" style="border:none;" height="500" width="100%"></iframe></p>
+    <iframe src="hamlogs/SCARS-Contest-Summary.html" style="border:none;" height="500" width="100%"></iframe>
 
 <p align="center">
     <img src="images/Shack.gif" alt="Contest Station Overload" width="50%"></p>
