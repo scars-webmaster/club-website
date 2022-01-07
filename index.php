@@ -96,204 +96,88 @@
 
 <!-- </div> -->
 
-                <p style="font-size:120%"><marquee scrollamount="6"><strong>
-                        <a href="https://dph.georgia.gov/covid-19-daily-status-report" target="_blank" style="color: #C10029">Click here to view Georgia's COVID-19 Daily Status Report</a> 
-                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-                        NOTE: NEW NET TIMES - 7:00PM ET!
+                <p style="font-size:120%"><marquee scrollamount="6"><strong> 
+                <a href="contestcalendar.php" target="_blank">COMING IN OCTOBER! The SCARS Annual DX Contest ...</a>
                 </strong></marquee></p>
-<!--                      <div class="floating-box-alert">
-                          <p><strong>CANCELED</strong> - April 7th Silver Comet Amateur Radio Society's club meeting at the <i><u>Paulding Chamber of Commerce</u></i> has been canceled due to concern of Covid-19 virus spread.<br><br>
-                               An <strong>on-the-air</strong> meeting will be held at the regular scheduled club meeting time & date (7pm, April 7th) on the 146.955 repeater. Please check in with your health-and-welfare status or  other comments.  Be safe and stay well!</p>
-                        </div>  -->
-                    <div class="newspaper"><br>
-                        
-                        <p style="text-align: center;">
-                            <a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html?s_cid=bb-coronavirus-2019-ncov-NCIRD" target="_blank" title="image of SARS-CoV-2"><img src="http://www.cdc.gov/coronavirus/2019-ncov/images/Coronavirus-badge-300.png" style="width:300px; height:250px; border:0px;" alt="image of Coronavirus Disease 2019 (COVID-19)"> </a>
-                     </p>
-                    <div class="floating-box">
+
+                <div class="floating-box">
                         <p>Welcome to the Silver Comet Amateur Radio Society (SCARS) website.  We are an American Radio Relay League (ARRL) Special Service Club located in and serving Paulding County Georgia.
                         </p>
                         <p>Feel free to peruse our website to learn more about the Amateur Radio Service and our club activities.  Our members are FCC licensed ham radio enthusiast who are proud to share their knowledge helping others learn the value and fun of amateur radio.  Here you will find some tips, tools, and how to's. </p>
                         <p>Come join us as we use our radio hobby to make a difference in our community and provide emergency communications in time of need.</p></div>
-                    <!--<div class="floating-box"
-                    <?php
-                    date_default_timezone_set("America/New_York");
-                    $d1 = strtotime("October 1, 2019");
-                    $d2 = ceil(($d1 - time()) / 60 / 60 / 24);
-                    echo "<p>The <b>5th Annual Broadcast Band DX Contest</b> has begun. Click on the <strong>AM Radio </strong>picture to learn more.</p>";
-                    ?>
-                        <p align="center"><a href="docs/5th AM Broadcast Contest.pdf" target="_blank"><img src="images/AM_radio1.png" align="center" width="60%" alt="W4RSC" title="AM Radio"></a><br>October 1st - 31st.</p>
-                  </div>>-->
-                    <!--    <div class="floating-box">
-                    <?php
-                    date_default_timezone_set("America/New_York");
-                    $d1 = strtotime("November 8, 2019");
-                    $d2 = ceil(($d1 - time()) / 60 / 60 / 24);
-                    echo "<p><strong>" . $d2 . " days </strong>remain until <b>the SCARS 2019 On the Air Reunion.</b> Click on the <strong>SCARS logo </strong> to learn more.</p>";
-                    ?>
-                            <p align="center"><a href="docs/SCARS OTA Reunion.pdf" target="_blank"><img src="images/SILVERCOMETLOGO_watermark1.gif" align="center" width="50%" alt="W4RSC" title="SCARS On the Air"></a><br>Nov 8th, 9th, and 10th.<br>Click <a href="docs/Silver Comet Reunion Log - Published.xlsm" target="_blank">here</a> to download logging template.</p>
-                    </div>-->
+
                     <div class="floating-box">
                         <p>Every Monday night at 7:00PM ET SCARS hosts the <i style="color:darkblue;"><b>“SCARS night out”</b></i> net on the <a href="http://wb4qoj.webstarts.com/" target="_blank">WB4QOJ</a> repeater system - 146.955(-) 77hz tone. All ham radio operators are welcome to participate (members or nonmembers).  Topics open for discussion are, but not limited to, technical issues, station operations, DX, contesting, items wanted (need or discard), etc. On the first Monday of the month there will be a specific topic of discussion announced ahead of time. This net is informal with the intent of friendly exchanges in a relaxed QSO atmosphere. Net manager is Troy <a href="https://www.qrz.com/db/K4JDA" target="_blank">(K4JDA)</a>. </p></div>
-                        <div class="floating-box">
-                        <p>We offer Amateur Radio License examination's monthly for anyone wishing to obtain an Amateur Radio License or to upgrade their current license.
-                            <a href="./about.php#TEST_SESSION" style="color:red">Click here</a> for more information on VE Test Session times and locations.</p></div>
                         </br>
                     <p>
-                        
-                    <!-- start sw-rss-feed code -->
-                    
-                        <script type="text/javascript">
-                        <!-- 
-                            rssfeed_url = new Array();
-                            rssfeed_url[0] = "http://www.arrl.org/news/rss";
-                            rssfeed_frame_width = "95%";
-                            rssfeed_frame_height = "300";
-                            rssfeed_scroll = "on";
-                            rssfeed_scroll_step = "8";
-                            rssfeed_scroll_bar = "on";
-                            rssfeed_target = "_blank";
-                            rssfeed_font_size = "12";
-                            rssfeed_font_face = "sans-serif";
-                            rssfeed_border = "on";
-                            rssfeed_css_url = "";
-                            rssfeed_title = "on";
-                            rssfeed_title_name = "ARRL News Feed (click title to view article)";
-                            rssfeed_title_bgcolor = "#000";
-                            rssfeed_title_color = "#fff";
-                            rssfeed_title_bgimage = "";
-                            rssfeed_footer = "off";
-                            rssfeed_footer_name = "rss feed";
-                            rssfeed_footer_bgcolor = "#fff";
-                            rssfeed_footer_color = "#333";
-                            rssfeed_footer_bgimage = "";
-                            rssfeed_item_title_length = "75";
-                            rssfeed_item_title_color = "#666";
-                            rssfeed_item_bgcolor = "";
-                            rssfeed_item_bgimage = "";
-                            rssfeed_item_border_bottom = "on";
-                            rssfeed_item_source_icon = "on";
-                            rssfeed_item_date = "on";
-                            rssfeed_item_description = "off";
-                            rssfeed_item_description_length = "120";
-                            rssfeed_item_description_color = "darkred";
-                            rssfeed_item_description_link_color = "#333";
-                            rssfeed_item_description_tag = "on";
-                            rssfeed_no_items = "0";
-                            rssfeed_cache = "2631382c670f789517c244ec5a069f25";
-                            //--> 
-                            </script> 
-                            <script type="text/javascript" src="//feed.surfing-waves.com/js/rss-feed.js"></script> 
+
+                    <div class="floating-box">
+                        <p><h2>TESTING - Getting your license ...</h2>
                         </p>
-                            &nbsp;
-                        <p>
-                            <!-- start sw-rss-feed code --> 
-                            <script type="text/javascript"> 
-                            <!-- 
-                            rssfeed_url = new Array(); 
-                            rssfeed_url[0]="https://forums.qrz.com/index.php?forums/amateur-radio-news.9/index.rss";  
-                            rssfeed_frame_width = "95%";
-                            rssfeed_frame_height = "300";
-                            rssfeed_scroll = "on";
-                            rssfeed_scroll_step = "8";
-                            rssfeed_scroll_bar = "on";
-                            rssfeed_target = "_blank";
-                            rssfeed_font_size = "12";
-                            rssfeed_font_face = "sans-serif";
-                            rssfeed_border = "on";
-                            rssfeed_css_url = "";
-                            rssfeed_title = "on";
-                            rssfeed_title_name = "QRZ News Feed (click title to view article)";
-                            rssfeed_title_bgcolor = "#000";
-                            rssfeed_title_color = "#fff";
-                            rssfeed_title_bgimage = "";
-                            rssfeed_footer = "off";
-                            rssfeed_footer_name = "rss feed";
-                            rssfeed_footer_bgcolor = "#fff";
-                            rssfeed_footer_color = "#333";
-                            rssfeed_footer_bgimage = "";
-                            rssfeed_item_title_length = "75";
-                            rssfeed_item_title_color = "#666";
-                            rssfeed_item_bgcolor = "";
-                            rssfeed_item_bgimage = "";
-                            rssfeed_item_border_bottom = "on";
-                            rssfeed_item_source_icon = "on";
-                            rssfeed_item_date = "on";
-                            rssfeed_item_description = "off";
-                            rssfeed_item_description_length = "120";
-                            rssfeed_item_description_color = "darkred";
-                            rssfeed_item_description_link_color = "#333";
-                            rssfeed_item_description_tag = "on";
-                            rssfeed_no_items = "0";
-                            rssfeed_cache = "d71a9ac2f64450a62c4fad94a63f5ced"; 
-                            //--> 
-                            </script> 
-                            <script type="text/javascript" src="//feed.surfing-waves.com/js/rss-feed.js"></script> 
-                            </p>
-                            &nbsp;
+                        <p>We offer Amateur Radio License examination's monthly for anyone wishing to obtain an Amateur Radio License or to upgrade their current license.  See below for dates and times.<br>
+                        </p>
+                        <p>You <strong>MUST</strong> bring the following:</p>
+                        <ol style="padding:0px 60px 0px 60px">
+                        <li>$15 cash EXACT CHANGE</li>
+                        <li>One legal photo ID (identification): State Driver’s License or other State issued ID, Government issued Passport, or a Military or Law Enforcement Officer Photo ID card</li>
+                        <li>FCC Registration Number (FRN):  We are required by the FCC to submit your FRN with your license application form.  See: <a href= "https://www.fcc.gov/new-users-guide-getting-started-universal-licensing-system-uls">FCC ULS</a> to register</li>
+                        <li>A printed copy of your Amateur Radio license or any Certificates of Successful Completion of Examination (CSCE) you may hold from previous exam sessions.</li>
+                        <li>Optional: A calculator with the memory erased and formulas cleared is allowed.</li>
+                        </ol>
+                        <p><strong>Notes:</strong><br> 
+                        - We have see great results from HamTestOnline - https://www.hamradiolicenseexam.com/<br>
+                        - We recommend you take the test for the next level (General or Extra) after you pass a test - study ahead if you can.<br>
+                        - Phones must be turned off.  iPhones, iPads, Androids, smartphones, Blackberry devices and all similar electronic devices with a calculator capability, may NOT be used.
+                        </p>
+                        <hr>
+                        <div>
+                        <div class="newspaper">
+                            <div>
                             <p>
-                            <!-- start sw-rss-feed code --> 
-                            <script type="text/javascript"> 
-                            <!-- 
-                            rssfeed_url = new Array(); 
-                            rssfeed_url[0]="https://www.contestcalendar.com/calendar.rss";  
-                            rssfeed_frame_width = "95%";
-                            rssfeed_frame_height = "300";
-                            rssfeed_scroll = "on";
-                            rssfeed_scroll_step = "8";
-                            rssfeed_scroll_bar = "on";
-                            rssfeed_target = "_blank";
-                            rssfeed_font_size = "12";
-                            rssfeed_font_face = "sans-serif";
-                            rssfeed_border = "on";
-                            rssfeed_css_url = "";
-                            rssfeed_title = "on";
-                            rssfeed_title_name = "Upcoming Contetsts (click title to view details)";
-                            rssfeed_title_bgcolor = "#000";
-                            rssfeed_title_color = "#fff";
-                            rssfeed_title_bgimage = "";
-                            rssfeed_footer = "off";
-                            rssfeed_footer_name = "rss feed";
-                            rssfeed_footer_bgcolor = "#fff";
-                            rssfeed_footer_color = "#333";
-                            rssfeed_footer_bgimage = "";
-                            rssfeed_item_title_length = "75";
-                            rssfeed_item_title_color = "#666";
-                            rssfeed_item_bgcolor = "";
-                            rssfeed_item_bgimage = "";
-                            rssfeed_item_border_bottom = "on";
-                            rssfeed_item_source_icon = "on";
-                            rssfeed_item_date = "on";
-                            rssfeed_item_description = "on";
-                            rssfeed_item_description_length = "80";
-                            rssfeed_item_description_color = "darkred";
-                            rssfeed_item_description_link_color = "#333";
-                            rssfeed_item_description_tag = "on";
-                            rssfeed_no_items = "0";
-                            rssfeed_cache = "17df73d998ea4078df66b699c56c12cb"; 
-                            //--> 
-                            </script> 
-                            <script type="text/javascript" src="//feed.surfing-waves.com/js/rss-feed.js"></script> 
-                            <!-- The link below helps keep this service FREE, and helps other people find the SW widget. Please be cool and keep it! Thanks. --> 
-                            <div style="color:#ccc;font-size:10px; text-align:right; width:300px;">powered by <a href="https://surfing-waves.com" rel="noopener" target="_blank" style="color:#ccc;">Surfing Waves</a></div> 
+                            <strong>First Thursday of every month</strong><br>
+                            (typically - please email to confirm dates and times)<br>
                             </p>
-                            <br>&nbsp;
+                            <p>
+                            Contact:<br>
+                            Steve Walls<br>
+                            swalls46@att.net (preferred)<br>
+                            (404)697-9849<br>
+                            </p>
+                            <p>
+                            Test Location:<br>
+                            Burnt Hickory Baptist Church<br>
+                            5145 Due West Rd<br>
+                            Powder Springs, GA 30127<br>
+                            </p>
+                            <p>
+                            Come in the main door between the two playgrounds and look for the sign with the room number.<br><br>
+                            </p>
+                            </div>
 
-                    <!-- end sw-rss-feed code -->
-
-                    
-                     
-                    <!--        <div class="floating-box" id="down">
-                                <p class="article"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z4PNECL6NNE62&source=url" target="_blank" style="color:red">Click here</a> to make a <b>PayPal</b> donation of your chosing to the <b>Rick Bowhall - K4ZMW</b> (SK) memorial fund or scan the following QR code with your smart phone:</p>
-                                <p align="center"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z4PNECL6NNE62&source=url" target="_blank"><img src="images/QR Code Rick Bowhall Memorial Fund.png" align="center" alt="QR Code" title="Ricks Memorial Fund"></a>
-                                
-                            </div>   -->
-
-                </div><br>
-                <!--    <div id="smile">
-                        <p class="article" style="text-align:center">Did you know your purchases can make a difference? AmazonSmile donates to Silver Comet Amateur Radio Society Incorporated when you do your holiday shopping at: <a href="https://smile.amazon.com/ch/20-0665957" target="_blank">smile.amazon.com/ch/20-0665957.</p>
-                        <p align="center"><img src="https://m.media-amazon.com/images/G/01/x-locale/paladin/email/charity/2018/GENERALHOLIDAY1_600x200._CB479440896_.png"></a></p>
-                    </div>    -->
+                            <div>
+                            <p><br>
+                            <strong>Second Tuesday of every month</strong><br>
+                            (typically - please email to confirm dates and times)<br>
+                            </p>
+                            <p>
+                            Contact:<br>
+                            John Reynolds<br>
+                            w4txa.john@gmail.com<br>
+                            (770)715-9640<br>
+                            </p>
+                            <p>
+                            Test Location:<br>
+                            Paulding County Chamber of Commerce<br>
+                            455 Jimmy Campbell Pkwy<br>
+                            Dallas, GA 30132<br>
+                            </p>
+                            <p>
+                            Lower level at the back of the building<br>
+                            </p>                            
+                            </div>
+                        </div>  
+                        </div>
+                        </div>
 
                 <Table align="center" BORDER=0 CELLSPACING=0 CELLPADDING=0>
                   <TR>
